@@ -334,6 +334,11 @@
 		<sorting>424</sorting>
 	</table>
 	<table name="block_exacompedulevels">
+		<uid>35</uid>
+		<title><![CDATA[Sekundarstufe II]]></title>
+		<sorting>276</sorting>
+	</table>
+	<table name="block_exacompedulevels">
 		<uid>249</uid>
 		<title><![CDATA[Schulentwicklung]]></title>
 		<sorting>427</sorting>
@@ -415,7 +420,7 @@
 		<uid>22</uid>
 		<title><![CDATA[Realschule]]></title>
 		<elid>16</elid>
-		<sorting>264</sorting>
+		<sorting>304</sorting>
 		<isoez>0</isoez>
 	</table>
 	<table name="block_exacompschooltypes">
@@ -423,6 +428,13 @@
 		<title><![CDATA[Cool Qualitätskriterien]]></title>
 		<elid>249</elid>
 		<sorting>466</sorting>
+		<isoez>0</isoez>
+	</table>
+	<table name="block_exacompschooltypes">
+		<uid>52</uid>
+		<title><![CDATA[Berufliches Gymnasium]]></title>
+		<elid>14</elid>
+		<sorting>293</sorting>
 		<isoez>0</isoez>
 	</table>
 	<table name="block_exacompschooltypes">
@@ -830,42 +842,6 @@
 		<number/>
 	</table>
 	<table name="block_exacompsubjects">
-		<uid>218</uid>
-		<title><![CDATA[Live and learn]]></title>
-		<titleshort/>
-		<stid>1</stid>
-		<sorting>3007</sorting>
-		<cat/>
-		<number/>
-	</table>
-	<table name="block_exacompsubjects">
-		<uid>239</uid>
-		<title><![CDATA[Englisch 8. Schulstufe]]></title>
-		<titleshort><![CDATA[Englisch 8. Schulstufe]]></titleshort>
-		<stid>125</stid>
-		<sorting>3027</sorting>
-		<cat/>
-		<number/>
-	</table>
-	<table name="block_exacompsubjects">
-		<uid>242</uid>
-		<title><![CDATA[Deutsch 8. Schulstufe]]></title>
-		<titleshort><![CDATA[Deutsch 8. Schulstufe]]></titleshort>
-		<stid>125</stid>
-		<sorting>3030</sorting>
-		<cat/>
-		<number/>
-	</table>
-	<table name="block_exacompsubjects">
-		<uid>244</uid>
-		<title><![CDATA[Mathematik 8. Schulstufe]]></title>
-		<titleshort><![CDATA[Mathematik 8. Schulstufe]]></titleshort>
-		<stid>125</stid>
-		<sorting>3033</sorting>
-		<cat/>
-		<number/>
-	</table>
-	<table name="block_exacompsubjects">
 		<uid>283</uid>
 		<title><![CDATA[GERS]]></title>
 		<titleshort/>
@@ -898,6 +874,15 @@
 		<titleshort/>
 		<stid>78</stid>
 		<sorting>3113</sorting>
+		<cat/>
+		<number/>
+	</table>
+	<table name="block_exacompsubjects">
+		<uid>406</uid>
+		<title><![CDATA[Masterlehrgang Mentoring]]></title>
+		<titleshort><![CDATA[Masterlehrgang Mentoring]]></titleshort>
+		<stid>256</stid>
+		<sorting>3184</sorting>
 		<cat/>
 		<number/>
 	</table>
@@ -5725,114 +5710,6 @@ Sozialkompetenz)]]></titleshort>
 		<cat/>
 	</table>
 	<table name="block_exacomptopics">
-		<uid>644</uid>
-		<title><![CDATA[Housing]]></title>
-		<titleshort><![CDATA[Housing]]></titleshort>
-		<subjid>218</subjid>
-		<sorting>31953</sorting>
-		<description/>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
-	</table>
-	<table name="block_exacomptopics">
-		<uid>670</uid>
-		<title><![CDATA[Hören]]></title>
-		<titleshort><![CDATA[Hören]]></titleshort>
-		<subjid>239</subjid>
-		<sorting>31979</sorting>
-		<description/>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
-	</table>
-	<table name="block_exacomptopics">
-		<uid>676</uid>
-		<title><![CDATA[Lesen]]></title>
-		<titleshort><![CDATA[Lesen]]></titleshort>
-		<subjid>239</subjid>
-		<sorting>31985</sorting>
-		<description/>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
-	</table>
-	<table name="block_exacomptopics">
-		<uid>677</uid>
-		<title><![CDATA[An Gesprächen teilnehmen]]></title>
-		<titleshort><![CDATA[An Gesprächen teilnehmen]]></titleshort>
-		<subjid>239</subjid>
-		<sorting>31986</sorting>
-		<description/>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
-	</table>
-	<table name="block_exacomptopics">
-		<uid>678</uid>
-		<title><![CDATA[Zusammenhängend sprechen]]></title>
-		<titleshort><![CDATA[Zusammenhängend sprechen]]></titleshort>
-		<subjid>239</subjid>
-		<sorting>31987</sorting>
-		<description/>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
-	</table>
-	<table name="block_exacomptopics">
-		<uid>679</uid>
-		<title><![CDATA[Schreiben]]></title>
-		<titleshort><![CDATA[Schreiben]]></titleshort>
-		<subjid>239</subjid>
-		<sorting>31988</sorting>
-		<description/>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
-	</table>
-	<table name="block_exacomptopics">
 		<uid>869</uid>
 		<title><![CDATA[Hören]]></title>
 		<titleshort><![CDATA[Hören]]></titleshort>
@@ -6181,6 +6058,227 @@ Sozialkompetenz)]]></titleshort>
 		<subjid>283</subjid>
 		<sorting>32212</sorting>
 		<description/>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>995</uid>
+		<title><![CDATA[Professionsverständnis für Lehrer/innen – Rolle von Mentorinnen/Mentoren]]></title>
+		<titleshort><![CDATA[Professionsverständnis]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32292</sorting>
+		<description><![CDATA[Die Teilnehmer/innen haben ein Professionsverständnis für die Rolle als Mentor/in, welches in den folgenden Modulen weiter reflektiert und stetig mit dem Ziel der Umsetzbarkeit durch Aktionsforschung entwickelt wird.]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>996</uid>
+		<title><![CDATA[Lehren und Lernen]]></title>
+		<titleshort><![CDATA[Lehren und Lernen]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32293</sorting>
+		<description><![CDATA[Die Teilnehmer/innen verfügen über Kompetenzen für die optimale Planung, Gestaltung und Auswertung von individualisierenden und differenzierenden Lehr- und Lernprozessen basierend auf einer entwicklungsfördernden Haltung gegenüber Schüler/innen und Mentees und auf dem aktuellen Stand der Forschung.]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>997</uid>
+		<title><![CDATA[Kommunikation und Interaktion
+]]></title>
+		<titleshort><![CDATA[Kommunikation und Interaktion]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32294</sorting>
+		<description><![CDATA[Die Teilnehmer/innen wenden grundlegendes Wissen über verschiedene Kommunikations-, Interaktions- und Feedbackmethoden auf der Basis von aktuellen Theorien in der Beratung von Mentees an. Sie kennen die eigenen Kommunikationsmuster und wenden geeignete Kommunikationsstrategien als Mentor/in mit dem Ziel des „Empowerment“ an. Sie leiten als Mentorinnen/Mentoren professionelle Lerngemeinschaften.
+]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>998</uid>
+		<title><![CDATA[Begleiten und Beraten I]]></title>
+		<titleshort><![CDATA[Begleiten und Beraten I]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32295</sorting>
+		<description><![CDATA[Die Teilnehmer/innen verfügen über ein Repertoire an Möglichkeiten zur Gestaltung von unterschiedlichen Beratungssituationen und setzen diese situationsadäquat und mit dem Ziel der Förderung der Mentees ein. Sie erstellen Fallstudien um Kriterienkataloge zur individuellen Entwicklung der Professionalität mit den Mentees zu entwerfen.]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>999</uid>
+		<title><![CDATA[Wahlfach: Individualisierung und Differenzierung]]></title>
+		<titleshort><![CDATA[Wahlfach: Individualisierung und Differenzierung]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32296</sorting>
+		<description/>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>1000</uid>
+		<title><![CDATA[Wahlfach: Transitionen und Inklusion]]></title>
+		<titleshort><![CDATA[Wahlfach: Transitionen und Inklusion]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32297</sorting>
+		<description/>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>1001</uid>
+		<title><![CDATA[Wahlfach: Fachdidaktisches Coaching]]></title>
+		<titleshort><![CDATA[Wahlfach: Fachdidaktisches Coaching]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32298</sorting>
+		<description/>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>1002</uid>
+		<title><![CDATA[Organisations- und Personalentwicklung]]></title>
+		<titleshort><![CDATA[Organisations- und Personalentwicklung]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32299</sorting>
+		<description><![CDATA[Nach Absolvierung dieses Moduls haben die Teilnehmer/innen Kompetenzen für die optimale Förderung von Mentees auf Grund deren Ressourcen und Potentiale. Sie wissen wie Organisationsentwicklung gefördert werden kann.
+]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>1003</uid>
+		<title><![CDATA[Beraten und Begleiten II – Beratungskonzepte und Beratungspraxis unter fachdidaktischen und fachwissenschaftlichen Aspekten]]></title>
+		<titleshort><![CDATA[Beraten und Begleiten II]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32300</sorting>
+		<description><![CDATA[Die Teilnehmer/innen stellen Bildungs-Domänen als Wissensgebiete in einen ganzheitlichen Kontext und entwickeln bildungsrelevante Beiträge für individuelle und gesellschaftliche Entscheidungsfähigkeit. Sie führen mit Kolleginnen/Kollegen und Mentees einen Dialog über inter- und transdisziplinäres Lehren und Lernen und stärken ihre Fachkompetenz in einem ganzheitlichen Kontext.
+Sie betreiben in professionellen Lerngemeinschaften fachdidaktisches Coaching und fördern die Implementierung aktueller Unterrichtsentwicklungstendenzen. Die Teilnehmer/innen planen und kollaborieren mit Lehrenden der PH in Lehrveranstaltungen im Bereich Mentoring.]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>1004</uid>
+		<title><![CDATA[Forschungswerkstatt]]></title>
+		<titleshort><![CDATA[Forschungswerkstatt]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32301</sorting>
+		<description><![CDATA[Nach Absolvierung des vorliegenden Moduls wissen die Teilnehmer/innen welche Forschungsmethoden sie in ihrer Masterthesis anwenden möchten und haben ein Konzept für den Methodenteil und den Theorieteil/Literaturteil erstellt. Sie kennen mehrere Forschungsberichte auf verschiedenen Forschungsparadigmen, Methoden der Datensammlung und –analyse basierend und verwenden diese in ihren Diskussionen zum Critical Friendship in den Peer Groups. Sie unterstützen Lehrende der PH nach erfolgter Einführung bei der Supervision von Masterarbeiten (die Einführung ist nicht Teil dieses Moduls).
+]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>1005</uid>
+		<title><![CDATA[Schreibwerkstatt und Privatissimum zur Masterthesis]]></title>
+		<titleshort><![CDATA[Schreibwerkstatt und Privatissimum zur Masterthesis]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32302</sorting>
+		<description><![CDATA[Die Teilnehmer/innen entwickeln eigene Forschungsideen und verorten ihr Forschungsvorhaben in der Wissenschaftstheorie, um darauf aufbauend Ihre Texte für die Masterarbeit zu entwickeln. Sie wenden die Methoden und Prinzipien des wissenschaftlichen Schreibens korrekt an.]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+		<cat/>
+	</table>
+	<table name="block_exacomptopics">
+		<uid>1006</uid>
+		<title><![CDATA[Masterthesis &amp; Defensio]]></title>
+		<titleshort><![CDATA[Masterthesis &amp; Defensio]]></titleshort>
+		<subjid>406</subjid>
+		<sorting>32303</sorting>
+		<description><![CDATA[Die Teilnehmer/innen haben ihre Forschungskompetenz mit der Präsentation der Masterthesis dokumentiert und in der Defensio präsentiert]]></description>
 		<requirement/>
 		<benefit/>
 		<knowledgecheck/>
@@ -16008,7 +16106,7 @@ statistischer Darstellungen und Kennzahlen, bezüglich statistischer Sätze, bez
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1810</uid>
-		<title><![CDATA[3.1-C-2 Ich kann andere Menschen unterstützen, ihre Ressourcen und Kompetenzen zu erweitern.]]></title>
+		<title><![CDATA[3.1-C-2 Ich kann andere unterstützen, ihre Ressourcen und Kompetenzen zu erweitern.]]></title>
 		<niveauid>26</niveauid>
 		<sorting>200257</sorting>
 		<skillid>0</skillid>
@@ -29251,370 +29349,6 @@ Bereich die ich höre bzw. lese, verstehen, verarbeiten und verwenden.]]></title
 		<comment/>
 	</table>
 	<table name="block_exacompdescriptors">
-		<uid>3820</uid>
-		<title><![CDATA[1. Ich kann Gesprächen über vertraute Themen die Hauptpunkte entnehmen, wenn Standardsprache verwendet und auch deutlich
-gesprochen wird. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198457</sorting>
-		<skillid>1</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3825</uid>
-		<title><![CDATA[2. Ich kann Erzählungen aus dem Alltag und Geschichten verstehen,
-wenn es sich um vertraute Themenbereiche handelt und deutlich
-gesprochen wird. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198462</sorting>
-		<skillid>1</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3826</uid>
-		<title><![CDATA[3. Ich kann Anweisungen, Fragen, Auskünfte und Mitteilungen in
-einem sprachlich vertrauten Kontext (z. B. Wegerklärungen)
-meistens verstehen. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198463</sorting>
-		<skillid>1</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3827</uid>
-		<title><![CDATA[4. Ich kann in Texten (Audio- und Videoaufnahmen) über vertraute
-Themen die Hauptpunkte verstehen, wenn deutlich gesprochen
-wird. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198464</sorting>
-		<skillid>1</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3828</uid>
-		<title><![CDATA[5. Ich kann einfachen Interviews, Berichten, Hörspielen und Sketches
-zu vertrauten Themen folgen. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198465</sorting>
-		<skillid>1</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3829</uid>
-		<title><![CDATA[6. Kann Wörter, die buchstabiert werden, sowie Zahlen und
-Mengenangaben, die diktiert werden, notieren, wenn langsam
-und deutlich gesprochen wird. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198466</sorting>
-		<skillid>1</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3830</uid>
-		<title><![CDATA[1. Ich kann kurze, einfache persönliche Briefe, Karten oder E-Mails
-verstehen. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198467</sorting>
-		<skillid>3</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3831</uid>
-		<title><![CDATA[2. Ich kann vertrauten Alltagstexten die wichtigsten Informationen entnehmen (z. B. Prospekten, Speisekarten, Fahrplänen, Schildern, Formularen, kurzen sachlichen Mitteilungen − auch im Internet). (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198468</sorting>
-		<skillid>3</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3832</uid>
-		<title><![CDATA[3. Ich kann einfachen, klar gegliederten Texten zu vertrauten Themen in Zeitungen und Zeitschriften die wesentlichen Informationen entnehmen, wenn sie gegebenenfalls mit visueller Unterstützung ausgestattet sind. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198469</sorting>
-		<skillid>3</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3833</uid>
-		<title><![CDATA[4. Ich kann unkomplizierte Sachtexte über Themen, die mit den eigenen Interessen und Fachgebieten aus den Themenbereichen des Lehrplans im Zusammenhang stehen, mit befriedigendem Verständnis lesen. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198470</sorting>
-		<skillid>3</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3834</uid>
-		<title><![CDATA[5. Ich kann einfache alltägliche Anleitungen und Vorschriften verstehen. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198471</sorting>
-		<skillid>3</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3835</uid>
-		<title><![CDATA[6. Ich kann einfache literarische Texte (z. B. fiktionale Texte, Lieder und
-Gedichte) verstehen. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198472</sorting>
-		<skillid>3</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3836</uid>
-		<title><![CDATA[1. Ich kann ein einfaches Gespräch über vertraute Themen (z. B. über Familie, Freundinnen und Freunde, Schule, Freizeit) beginnen, in Gang halten und beenden. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198473</sorting>
-		<skillid>4</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3837</uid>
-		<title><![CDATA[2. Ich kann Gefühle wie Überraschung, Freude, Bedauern und Gleichgültigkeit
-ausdrücken und auf solche Gefühlsäußerungen reagieren. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198474</sorting>
-		<skillid>4</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3838</uid>
-		<title><![CDATA[3. Ich kann in einem Gespräch (z. B. Gruppengespräch in der Klasse) Zustimmung äußern bzw. widersprechen und andere Vorschläge machen. (A2+)]]></title>
-		<niveauid>7</niveauid>
-		<sorting>198475</sorting>
-		<skillid>4</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3839</uid>
-		<title><![CDATA[4. Ich kann einfache Vereinbarungen treffen. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198476</sorting>
-		<skillid>4</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3840</uid>
-		<title><![CDATA[5. Ich kann in einfachen Worten die eigenen Ansichten, Pläne und
-Absichten äußern und begründen. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198477</sorting>
-		<skillid>4</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3841</uid>
-		<title><![CDATA[6. Ich kann vertraute Alltagssituationen bewältigen, z. B. Gespräche in Geschäften, in Restaurants und an Schaltern führen. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198478</sorting>
-		<skillid>4</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3842</uid>
-		<title><![CDATA[7. Kann einfache Erklärungen und Anweisungen geben, z. B. nach dem Weg fragen bzw. den Weg erklären. (A2+)]]></title>
-		<niveauid>7</niveauid>
-		<sorting>198479</sorting>
-		<skillid>4</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3843</uid>
-		<title><![CDATA[1. Ich kann über eigene Erfahrungen detailliert berichten und dabei die eigenen Gefühle und Reaktionen beschreiben. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198480</sorting>
-		<skillid>5</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3844</uid>
-		<title><![CDATA[2. Ich kann Pläne, Ziele, Träume und Hoffnungen beschreiben. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198481</sorting>
-		<skillid>5</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3845</uid>
-		<title><![CDATA[3. Ich kann etwas Reales oder Erfundenes erzählen oder in Form einer einfachen Aufzählung berichten. (A2+)]]></title>
-		<niveauid>7</niveauid>
-		<sorting>198482</sorting>
-		<skillid>5</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3846</uid>
-		<title><![CDATA[4. Ich kann über Sachverhalte und Abläufe aus dem eigenen alltäglichen Lebensbereich berichten, z. B. über Leute, Orte, Tätigkeiten. (A2+)]]></title>
-		<niveauid>7</niveauid>
-		<sorting>198483</sorting>
-		<skillid>5</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3847</uid>
-		<title><![CDATA[5. Ich kann über persönliche Erlebnisse und Beobachtungen in einfachen, zusammenhängenden Sätzen berichten. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198484</sorting>
-		<skillid>5</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3848</uid>
-		<title><![CDATA[6. Ich kann mit einfachen Mitteln vertraute Gegenstände kurz beschreiben und vergleichen. (A2)]]></title>
-		<niveauid>7</niveauid>
-		<sorting>198485</sorting>
-		<skillid>5</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3849</uid>
-		<title><![CDATA[7. Ich kann mich, die Familie, Freundinnen und Freunde sowie vertraute Orte, persönliche Gegenstände und Tätigkeiten in mehreren einfachen Sätzen beschreiben. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198486</sorting>
-		<skillid>5</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3850</uid>
-		<title><![CDATA[8. Ich kann für Ansichten, Pläne oder Handlungen kurze Begründungen oder Erklärungen geben. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198487</sorting>
-		<skillid>5</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3851</uid>
-		<title><![CDATA[1. Ich kann Erfahrungsberichte schreiben, in denen Gefühle und Reaktionen in einem einfachen, zusammenhängenden Text wiedergegeben werden. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198488</sorting>
-		<skillid>2</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3852</uid>
-		<title><![CDATA[2. Ich kann eine Beschreibung eines realen oder fiktiven Ereignisses, z. B. einer Reise, verfassen. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198489</sorting>
-		<skillid>2</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3853</uid>
-		<title><![CDATA[3. Ich kann eine Geschichte erzählen. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198490</sorting>
-		<skillid>2</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3854</uid>
-		<title><![CDATA[4. Ich kann in Form verbundener Sätze etwas über das alltägliche Umfeld schreiben, wie z. B. über Familie, andere Menschen, Orte, Schule. (A2+)]]></title>
-		<niveauid>7</niveauid>
-		<sorting>198491</sorting>
-		<skillid>2</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3855</uid>
-		<title><![CDATA[5. Ich kann kurze, einfache Biografien und andere einfache fiktionale Texte schreiben. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198492</sorting>
-		<skillid>2</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3856</uid>
-		<title><![CDATA[6. Ich kann ausführlichere Karten, persönliche Briefe und E-Mails schreiben und darin auch über Ereignisse, Erfahrungen und Gefühle berichten. (B1)]]></title>
-		<niveauid>3</niveauid>
-		<sorting>198493</sorting>
-		<skillid>2</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3857</uid>
-		<title><![CDATA[7. Ich kann kurze, einfache Notizen und Mitteilungen schreiben, die sich auf unmittelbare Bedürfnisse beziehen. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198494</sorting>
-		<skillid>2</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
-		<uid>3858</uid>
-		<title><![CDATA[8. Ich kann einfache Texte z. B. zu Bildimpulsen oder Schlüsselwörtern (key words) schreiben. (A2)]]></title>
-		<niveauid>2</niveauid>
-		<sorting>198495</sorting>
-		<skillid>2</skillid>
-		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
-	</table>
-	<table name="block_exacompdescriptors">
 		<uid>4313</uid>
 		<title><![CDATA[Ich kann in ganz einfachen Gesprächen zu mir vertrauten Themen bekannte Wörter und sehr einfache Sätze verstehen. (A1)]]></title>
 		<niveauid>1</niveauid>
@@ -31594,6 +31328,702 @@ Orte in einfachen, zusammenhängenden Sätzen beschreiben.]]></title>
 		<comment/>
 	</table>
 	<table name="block_exacompdescriptors">
+		<uid>4974</uid>
+		<title><![CDATA[Ich kann meine eigene Lerngeschichte anhand von theoretischen Konzepten analysieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199600</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4975</uid>
+		<title><![CDATA[Ich kann EPIK Domänen als Analysemittel für die eigene Tätigkeit verwenden]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199601</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4976</uid>
+		<title><![CDATA[Ich kann mittels Aktionsforschung EPIK als Instrument für die eigene Entwicklung anwenden]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199602</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4977</uid>
+		<title><![CDATA[Ich kann mein Professionsverständnis sowie meine Expertise und Kompetenzen als Mentor/in erklären]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199603</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4978</uid>
+		<title><![CDATA[Ich kann das Aufgabenfeld von Mentorinnen/Mentoren einschätzen und den eigenen Gestaltungsspielraum beschreiben und nutzen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199604</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4979</uid>
+		<title><![CDATA[Ich kann in Intervisionsgruppen und Lernpartnerschaften meine Reflexions- und Diskursfähigkeit erproben]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199605</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4980</uid>
+		<title><![CDATA[E-Learning-Methoden anwenden]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199606</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4981</uid>
+		<title><![CDATA[Ich kann ein E-Portfolio als Dokumentationsmittel der professionellen Entwicklung nutzen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199607</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4982</uid>
+		<title><![CDATA[Ich kann ein Gutachten und ein Entwicklungsprofil über eine/n Mentee erstellen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199608</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4983</uid>
+		<title><![CDATA[Ich kann Lehr- und Lernprozesse systematisch planen, im Prozess gestalten und beobachten]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199609</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4984</uid>
+		<title><![CDATA[Ich kann Forschungsfragen zum Unterrichtsgeschehen entwickeln]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199610</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4985</uid>
+		<title><![CDATA[Ich kann Unterrichtssituationen durch Forschungsfragen geleitet reflektieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199611</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4986</uid>
+		<title><![CDATA[Ich kann Entwicklungs- und begabungsfördernde Strategien auf Basis von pädagogischen Diagnosen demonstrieren und anleiten]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199612</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4987</uid>
+		<title><![CDATA[Ich kann Mentees bei der Entwicklung und Implementierung von Individualisierungs- und Differenzierungsmaßnahmen beraten und anleiten]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199613</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4988</uid>
+		<title><![CDATA[Ich kann die Unterrichtstätigkeit der Mentees kriterienorientiert analysieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199614</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4989</uid>
+		<title><![CDATA[Ich kann verschiedene Arten von Leistungsnachweisen unter dem Aspekt der Entwicklungsförderung einsetzen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199615</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4990</uid>
+		<title><![CDATA[Ich kann Kommunikations-, Interaktions- und Feedbackmethoden situationsadäquat anwenden]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199616</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4991</uid>
+		<title><![CDATA[Ich kann in Konfliktsituationen professionell reagieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199617</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4992</uid>
+		<title><![CDATA[Ich kann Problemlösungsstrategien anwenden und argumentieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199618</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4993</uid>
+		<title><![CDATA[Ich kann Gesprächs- und Interviewleitfäden entwickeln]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199619</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4994</uid>
+		<title><![CDATA[Ich kann gruppendynamische Prozesse in Gang setzen, prozesshaft gestalten und reflektieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199620</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4995</uid>
+		<title><![CDATA[Ich kann verschiedene Beratungskonzepte und deren Strategien situationsadäquat einsetzen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199621</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4996</uid>
+		<title><![CDATA[Ich kann  Problemlösestrategien bei Wahrnehmung von Widerstand im Gegenüber anwenden]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199622</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4997</uid>
+		<title><![CDATA[Ich kann Regeln und Methoden der professionellen Gesprächsführung in diversen Beratungssituationen anwenden]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199623</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4998</uid>
+		<title><![CDATA[Ich kann Online-Beratung mit Mentees durchführen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199624</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>4999</uid>
+		<title><![CDATA[Ich kann  Beratungskompetenzen zum Aufbau berufsbezogener Haltungen, der Förderung der professionellen Entwicklung und der Ressourcenorientierung mit personenbezogenen Schwerpunkten einsetzen
+]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199625</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5000</uid>
+		<title><![CDATA[Ich kann Praxissituationen unter dem Aspekt der Entwicklungsförderung mit den Mentees reflektieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199626</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5001</uid>
+		<title><![CDATA[Ich kann Fallstudien erstellen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199627</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5002</uid>
+		<title><![CDATA[Ich kann differenzierten Unterricht und rückwertiges Lerndesign in akademisch diversen Lernsettings planen, im Prozess gestalten und beobachten
+]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199628</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5003</uid>
+		<title><![CDATA[Ich kann Verstehen und Lernfortschritte in akademisch diversen Lernsettings identifizieren und analysieren
+]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199629</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5004</uid>
+		<title><![CDATA[Ich kann Unterricht im Fokus von Differenzierung und rückwertigem Lerndesign auf der Basis von curricularen Vorgaben planen, im Prozess gestalten und beobachten]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199630</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5005</uid>
+		<title><![CDATA[Ich kann in Transitionsphasen entsprechende Maßnahmen setzen und argumentieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199631</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5006</uid>
+		<title><![CDATA[Ich kann inklusiven Unterricht mit Mentees auf der Basis der drei Dimensionen im Index für Inklusion planen, implementieren und reflektieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199632</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5007</uid>
+		<title><![CDATA[Ich kann individualisierte fachspezifische und -didaktische Unterstützung geben]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199633</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5008</uid>
+		<title><![CDATA[Ich kann fachspezifische und -didaktische Kompetenzen der Mentees identifizieren und deren adäquate Anwendung durch Coaching-Vereinbarungen initiieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199634</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5009</uid>
+		<title><![CDATA[Ich kann menschliche Ressourcen optimal einsetzen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199635</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5010</uid>
+		<title><![CDATA[Ich kann durch Praxisbeispiele und Reflexionskompetenz den eigenen Handlungsspielraum erweitern]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199636</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5011</uid>
+		<title><![CDATA[Ich kann Handlungskompetenz aus der Bewusstheit eigener Stärken und Potentiale umsetzen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199637</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5012</uid>
+		<title><![CDATA[Ich kann mit Mentees Ressourcen stabilisieren, um eine optimale Nutzung anbahnen zu können]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199638</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5013</uid>
+		<title><![CDATA[Ich kann die Ansprüche an Organisationsentwicklung einschätzen
+]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199639</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5014</uid>
+		<title><![CDATA[Ich kann Systemwissen in konkreten Interventionsprozessen umsetzen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199640</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5015</uid>
+		<title><![CDATA[Ich kann Organisationsentwicklungsprozesse initiieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199641</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5016</uid>
+		<title><![CDATA[Ich kann Bildungsdomänen identifizieren und beispielhaft erklären]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199642</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5017</uid>
+		<title><![CDATA[Ich kann bildungsrelevante Beiträge in ihrem Unterricht demonstrieren und mit den Mentees deren Relevanz für individuelle und gesellschaftliche Entscheidungsfähigkeit reflektieren
+]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199643</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5018</uid>
+		<title><![CDATA[Ich kann den Bildungsauftrag der Fächer diskutieren und reflektieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199644</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5019</uid>
+		<title><![CDATA[Ich kann ihre Fachkompetenz gestärkt in einen ganzheitlichen Kontext stellen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199645</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5020</uid>
+		<title><![CDATA[Ich kann Fachwissen auf dessen Relevanz und Reichweite, Form und gesellschaftliche Bedeutung überprüfen und kriteriengeleitete Entscheidungen in der Planung und Umsetzung von Unterricht treffen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199646</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5021</uid>
+		<title><![CDATA[Ich kann in professionellen Lerngemeinschaften fachdidaktische Unterrichtsentwicklung professionell betreiben]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199647</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5022</uid>
+		<title><![CDATA[Ich kann bildungsrelevante Beiträge auf der Basis der Bildungsdomänen mit den Mentees planen und im Co-Teaching implementieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199648</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5023</uid>
+		<title><![CDATA[Ich kann Bewertungsinstrumente für fächerübergreifende Kompetenzen analysieren und professionell einsetzen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199649</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5024</uid>
+		<title><![CDATA[Ich kann Lehrende der Pädagogischen Hochschule bei der Planung und Durchführung von adäquaten Lehrveranstaltungen der Pädagogischen Hochschulen unterstützen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199650</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5025</uid>
+		<title><![CDATA[Ich kann Ergebnisse wissenschaftlicher Forschung für die eigene Tätigkeit als Mentor/in nutzen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199651</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5026</uid>
+		<title><![CDATA[Ich kann Forschungsparadigmen und Methoden der Datensammlung und -analyse situationsadäquat auswählen und beratend diskutieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199652</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5027</uid>
+		<title><![CDATA[Ich kann wissenschaftliche Daten sammeln, analysieren und interpretieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199653</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5028</uid>
+		<title><![CDATA[Ich kann den Theorieteil und den Methodenteil einer wissenschaftlichen Arbeit formal und inhaltlich richtig gestalten]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199654</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5029</uid>
+		<title><![CDATA[Ich kann Fragestellungen für die eigene Professionalisierung als Mentor/in aus der Literatur entwickeln]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199655</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5030</uid>
+		<title><![CDATA[Ich kann die eigene Tätigkeit in mehreren Aktionszyklen beobachten und reflektieren und daraus Ziele für die Weiterentwicklung formulieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199656</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5031</uid>
+		<title><![CDATA[Ich kann akademische Texte genregerecht verfassen
+]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199657</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5032</uid>
+		<title><![CDATA[Ich kann argumentative Texte zu fachwissenschaftlichen Themenstellungen verfassen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199658</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5033</uid>
+		<title><![CDATA[Ich kann Texte in Arbeitsgemeinschaften diskutieren und überarbeiten]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199659</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5034</uid>
+		<title><![CDATA[Ich kann mein Thema eingrenzen und ein entsprechendes Theoriefeld finden]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199660</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5035</uid>
+		<title><![CDATA[Ich kann die in der Forschungswerkstatt gewonnen Daten in wissenschaftlichen Texten verarbeiten]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199661</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5036</uid>
+		<title><![CDATA[Ich kann Hypothesen bilden]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199662</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5037</uid>
+		<title><![CDATA[Ich kann durch professionelles Projektmanagement das Schreiben der Masterthesis zielgerichtet organisieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199663</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5038</uid>
+		<title><![CDATA[Ich kann Erkenntnisse aus Praxisforschung gewinnen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199664</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5039</uid>
+		<title><![CDATA[Ich kann Forschungsmethoden anwenden]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199665</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5040</uid>
+		<title><![CDATA[Ich kann Forschungsergebnisse präsentieren, analysieren und interpretieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199666</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5041</uid>
+		<title><![CDATA[Ich kann eine Masterthesis verfassen]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199667</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
+		<uid>5042</uid>
+		<title><![CDATA[Ich kann eine Masterthesis präsentieren]]></title>
+		<niveauid>0</niveauid>
+		<sorting>199668</sorting>
+		<skillid>0</skillid>
+		<parent_id>0</parent_id>
+		<exampletext/>
+		<comment/>
+	</table>
+	<table name="block_exacompdescriptors">
 		<uid>5580</uid>
 		<title><![CDATA[Der jährliche COOL-Entwicklungsbericht wird über den Kompetenzraster der moodle.cooltrainers.at-Homepage hochgeladen.]]></title>
 		<niveauid>21</niveauid>
@@ -32275,7 +32705,7 @@ Er beinhaltet:
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5652</uid>
-		<title><![CDATA[Lehrer/inn/en legen selbstkongruente Ziele fest (Fähigkeit zur Selbstbestimmung)]]></title>
+		<title><![CDATA[Lehrer/inn/en legen selbstkongruente Ziele fest (Fähigkeit zur Selbstbestimmung und Selbstwachstum)]]></title>
 		<niveauid>28</niveauid>
 		<sorting>200261</sorting>
 		<skillid>0</skillid>
@@ -32305,7 +32735,7 @@ Er beinhaltet:
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5655</uid>
-		<title><![CDATA[Lehrer/inn/en können den Unterricht/die Arbeit an der Schule so gestalten, dass sie nie das Gefühl haben gestresst zu sein.]]></title>
+		<title><![CDATA[Lehrer/inn/en können den Unterricht/die Arbeit an der Schule so gestalten, dass sie Entfremdungstendenzen bemerken und dagegensteuern können.]]></title>
 		<niveauid>29</niveauid>
 		<sorting>200264</sorting>
 		<skillid>0</skillid>
@@ -32325,7 +32755,7 @@ Er beinhaltet:
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5657</uid>
-		<title><![CDATA[Lehrer/inn/en gehen mit Optimismus und dem Glauben an den Erfolg an die Dinge heran.]]></title>
+		<title><![CDATA[Lehrer/inn/en gehen mit Optimismus und dem Glauben an den Erfolg an ihre Aufgaben heran.]]></title>
 		<niveauid>30</niveauid>
 		<sorting>200266</sorting>
 		<skillid>0</skillid>
@@ -32335,7 +32765,7 @@ Er beinhaltet:
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5658</uid>
-		<title><![CDATA[Lehrer/inn/en nutzen Fehler und Misserfolge als Chance zum Besserwerden.]]></title>
+		<title><![CDATA[Lehrer/inn/en nutzen Fehler und Misserfolge als Chance zum Besserwerden, zum persönlichen Lernen.]]></title>
 		<niveauid>29</niveauid>
 		<sorting>200267</sorting>
 		<skillid>0</skillid>
@@ -32345,7 +32775,7 @@ Er beinhaltet:
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5659</uid>
-		<title><![CDATA[Lehrer/inn/en können gut spüren, wenn im Zusammenhang mit Zielen gefühlsmäßig eher negative Konsequenzen des Scheiterns dominieren und entsprechende Gegenmaßnahmen ergreifen (Fähigkeit zur affektiven Selbstkontrolle)]]></title>
+		<title><![CDATA[Lehrer/inn/en können gut spüren, wenn im Zusammenhang mit Zielen gefühlsmäßig eher negative Konsequenzen des Scheiterns dominieren und entsprechende Gegenmaßnahmen ergreifen (Fähigkeit zur affektiven Selbstkontrolle und zur Willensbahnung aufladen).]]></title>
 		<niveauid>28</niveauid>
 		<sorting>200268</sorting>
 		<skillid>0</skillid>
@@ -32455,7 +32885,7 @@ Er beinhaltet:
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5670</uid>
-		<title><![CDATA[Lehrer/inn/en können einerseits Erfolge auskosten und genießen und verfallen andererseits im Fall von Misserfolgen nicht in das Grübeln, sondern können sich nach einer soliden Fehleranalyse wieder anderen interessanten Aufgaben zuwenden (Fähigkeit, Selbstgespür wieder herzustellen). ]]></title>
+		<title><![CDATA[Lehrer/inn/en können einerseits Erfolge auskosten und genießen und verfallen andererseits im Fall von Misserfolgen nicht in das Grübeln, sondern können sich nach einer soliden Fehleranalyse wieder anderen interessanten Aufgaben zuwenden (Fähigkeit, Selbstgespür - Selbstzugang - wieder herzustellen). ]]></title>
 		<niveauid>28</niveauid>
 		<sorting>200279</sorting>
 		<skillid>0</skillid>
@@ -32485,7 +32915,7 @@ Er beinhaltet:
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5673</uid>
-		<title><![CDATA[Lehrer/inn/en anerkennen Schüler/inn/en als Menschen mit Stärken und Schwächen und unterstützen sie als solche bei der Erkundung ihrer Interessen und Neigungen.]]></title>
+		<title><![CDATA[Lehrer/inn/en anerkennen Schüler/inn/en als Menschen mit Stärken und Schwächen und unterstützen sie als solche bei der Erkundung ihrer Interessen, Emotionalität und Neigungen.]]></title>
 		<niveauid>30</niveauid>
 		<sorting>200282</sorting>
 		<skillid>0</skillid>
@@ -32515,7 +32945,7 @@ Er beinhaltet:
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5678</uid>
-		<title><![CDATA[Lehrer/inn/en üben mit den Schüler/inn/en eigenverantwortliches Urteilen und Handeln schrittweise ein.]]></title>
+		<title><![CDATA[Lehrer/inn/en üben mit den Schüler/inn/en eigenverantwortliches Urteilen und Handeln durch Vorleben (role-model) schrittweise ein.]]></title>
 		<niveauid>30</niveauid>
 		<sorting>200285</sorting>
 		<skillid>0</skillid>
@@ -32845,7 +33275,7 @@ Er beinhaltet:
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5711</uid>
-		<title><![CDATA[Lehrer/inn/en verstehen ihren Beruf als ständige Lernaufgabe.]]></title>
+		<title><![CDATA[Lehrer/inn/en verstehen ihren Beruf als ständige Lernaufgabe, Überzeugung.]]></title>
 		<niveauid>28</niveauid>
 		<sorting>200318</sorting>
 		<skillid>0</skillid>
@@ -57784,25 +58214,32 @@ Bearbeite das Beispiel im Browser!]]></description>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1535</uid>
-		<title><![CDATA[Clever &amp; Smart]]></title>
-		<titleshort><![CDATA[Clever &amp; Smart]]></titleshort>
+		<title><![CDATA[Wählt eure Ziele ... | Clever und Smart 1]]></title>
+		<titleshort><![CDATA[Clever &amp; Smart 1]]></titleshort>
 		<task/>
-		<sorting>9537</sorting>
+		<sorting>9536</sorting>
 		<solution/>
 		<attachement/>
 		<completefile/>
-		<description><![CDATA[Denke an eine der nächsten Gruppenaufgaben...
+		<description><![CDATA[Denke an eine der nächsten Gruppenaufgaben, z. B.:
 
-Bearbeite das Beispiel im Browser!]]></description>
-		<taxid>0</taxid>
+Eine Projektarbeit steht an: Ihr sollt im Team ein Projekt zum Thema ……………………… umsetzen.
+Im Fach …………………… soll ein bestimmtes Thema aufbereitet und präsentiert werden.
+In deinem Jugendclub wird ein Projekt zum Thema ……………………… gestartet.
+
+Setzt euch im Team zusammen und beantwortet folgende Fragen:
+
+Welche konkreten Ziele setzt ihr euch?
+Formuliert diese Ziele.]]></description>
+		<taxid>78</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=87</externalurl>
+		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=87]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=29</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
-		<iseditable>0</iseditable>
+		<iseditable>1</iseditable>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1537</uid>
@@ -57818,11 +58255,11 @@ Gibt es in eurer Klasse offizielle Verhaltensvereinbarungen?
 Wie habt ihr diese Regeln aufgestellt?
 
 Bearbeite das Beispiel im Browser!]]></description>
-		<taxid>0</taxid>
+		<taxid>78</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=85</externalurl>
+		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=85]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=26</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -57838,11 +58275,11 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<attachement/>
 		<completefile/>
 		<description><![CDATA[Recherchiere den Begriff Konsens und füge das Ergebnis in dein Glossar ein.]]></description>
-		<taxid>0</taxid>
+		<taxid>77</taxid>
 		<timeframe/>
 		<ressources/>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=84]]></tips>
-		<externalurl/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=23</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -57853,28 +58290,22 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<title><![CDATA[Welche Rolle/n spiele ich?]]></title>
 		<titleshort><![CDATA[Welche Rolle/n spiele ich?]]></titleshort>
 		<task/>
-		<sorting>9460</sorting>
+		<sorting>9461</sorting>
 		<solution/>
 		<attachement/>
-		<completefile/>
-		<description><![CDATA[Hier findest du den Grundriss eines Theaters.
-a) Welche Rolle/Rollen übernimmst du heute
-in der Klasse? 
-b) Welche Rolle/Rollen übernimmst du in deiner Familie?
-c) Welche Rolle/Rollen übernimmst du in deinem Freundeskreis?
-Markiere auf dem Plan deine Rollen (a, b, c) in unterschiedlichen Farben.
-Stelle fest, wie deine Selbsteinschätzung von anderen gesehen wird. Frag deine Familienmitglieder, Klassenkolleg/inn/en, Freunde/innen, wo sie dich auf dem Plan sehen und markiere diese Stellen mit einer anderen Farbe.
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/buehne.png</completefile>
+		<description><![CDATA[Markiere auf dem Plan deine Rollen in unterschiedlichen Farben (Klasse, Familie, Freundeskreis).
 
-Bearbeite das Beispiel im Browser!]]></description>
-		<taxid>0</taxid>
+Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wirst. Frag deine Familienmitglieder, Klassenkolleg/inn/en, Freunde/Freundinnen, wo sie dich auf dem Plan sehen und markiere diese Stellen mit einer anderen Farbe.]]></description>
+		<taxid>78</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=82</externalurl>
+		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=82]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=18</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
-		<iseditable>0</iseditable>
+		<iseditable>1</iseditable>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1545</uid>
@@ -57891,7 +58322,7 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<timeframe/>
 		<ressources/>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=77]]></tips>
-		<externalurl/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=7</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -58531,16 +58962,16 @@ Falls dir das passiert, besuche die Seite http://www.alleinr.de/.
 		<title><![CDATA[Erfolgreiche Teams brauchen...]]></title>
 		<titleshort><![CDATA[Erfolgreiche Teams brauchen...]]></titleshort>
 		<task/>
-		<sorting>9332</sorting>
+		<sorting>9653</sorting>
 		<solution/>
 		<attachement/>
-		<completefile/>
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/stiege.jpg</completefile>
 		<description><![CDATA[Als Einstieg schau dir die Werbespots im Browser an. Was macht die Teams in den drei Werbespots so erfolgreich? Schreibe die Erfolgsfaktoren auf. ]]></description>
 		<taxid>0</taxid>
 		<timeframe/>
-		<ressources/>
+		<ressources>http://oezeps.at/moodle/course/view.php?id=161</ressources>
 		<tips/>
-		<externalurl>http://oezeps.at/moodle/course/view.php?id=161</externalurl>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=5</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -58559,11 +58990,11 @@ Falls dir das passiert, besuche die Seite http://www.alleinr.de/.
 Welche Stärken werden den jeweiligen Tieren zugeschrieben? Welchem dieser Typen entsprichst du am ehesten? Findest du keine passende Abbildung für dich? Dann suche dir eine oder zeichne selbst ein Tier, das deinen Stärken entspricht.
 
 Bearbeite das Beispiel im Browser!]]></description>
-		<taxid>0</taxid>
+		<taxid>78</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://oezeps.at/moodle/course/view.php?id=162</externalurl>
+		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=162]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=10</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -58571,44 +59002,44 @@ Bearbeite das Beispiel im Browser!]]></description>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1679</uid>
-		<title><![CDATA[Stelle dein Team zusammen]]></title>
-		<titleshort><![CDATA[Stelle dein Team zusammen]]></titleshort>
+		<title><![CDATA[Stelle dein Team zusammen - Mitglieder]]></title>
+		<titleshort><![CDATA[Stelle dein Team zusammen 1]]></titleshort>
 		<task/>
 		<sorting>9457</sorting>
 		<solution/>
 		<attachement/>
-		<completefile/>
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/team_zusammenstellen2.png</completefile>
 		<description><![CDATA[Ein Gedankenspiel (Was wäre, wenn...)
 Stell dir vor, du könntest dir für die nächste Gruppenarbeit in der Klasse dein eigenes Team zusammenstellen: Welche/n deiner Klassenkolleg/inn/en holst du ins Team?
 
 Bearbeite das Beispiel im Browser!]]></description>
-		<taxid>0</taxid>
+		<taxid>78</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://oezeps.at/moodle/course/view.php?id=163</externalurl>
+		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=163]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=11</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
-		<iseditable>0</iseditable>
+		<iseditable>1</iseditable>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1680</uid>
 		<title><![CDATA[Bewirb dich für das Dream-Team]]></title>
 		<titleshort><![CDATA[Bewirb dich für das Dream-Team]]></titleshort>
 		<task/>
-		<sorting>9458</sorting>
+		<sorting>9655</sorting>
 		<solution/>
 		<attachement/>
 		<completefile/>
 		<description><![CDATA[In deiner Klasse/Schule/deinem Verein werden unterschiedliche Projekte geplant. Nenne ein Projekt, an dem du gerne mitarbeiten willst. Du möchtest ins Team! Mit welchen Stärken/Kompetenzen kannst du überzeugen? Welche Ressourcen kannst du einbringen?
 
 Bearbeite das Beispiel im Browser!]]></description>
-		<taxid>0</taxid>
+		<taxid>78</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://oezeps.at/moodle/course/view.php?id=164</externalurl>
+		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=164]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=15</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -58619,18 +59050,18 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<title><![CDATA[Einfach zum Nachschauen/Nachlesen/Nachdenken]]></title>
 		<titleshort><![CDATA[Einfach zum Nachschauen]]></titleshort>
 		<task/>
-		<sorting>9461</sorting>
+		<sorting>9660</sorting>
 		<solution/>
 		<attachement/>
 		<completefile/>
 		<description><![CDATA[Schau dir das Video von Meredith Belbin an.
 
 Rufe weitere Informationen über den Browser ab!]]></description>
-		<taxid>0</taxid>
+		<taxid>78</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://oezeps.at/moodle/course/view.php?id=165</externalurl>
+		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=165]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=20</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -58641,22 +59072,24 @@ Rufe weitere Informationen über den Browser ab!]]></description>
 		<title><![CDATA[Was bleibt? Entscheiden mit System]]></title>
 		<titleshort><![CDATA[Was bleibt? Entscheiden mit System]]></titleshort>
 		<task/>
-		<sorting>9535</sorting>
+		<sorting>9662</sorting>
 		<solution/>
 		<attachement/>
-		<completefile/>
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/skala.png</completefile>
 		<description><![CDATA[Eine spezielle Methode, um zu einem Konsens zu kommen, ist das „Systemische Konsensieren“.
+Markiere auf einer Skala von 1 bis 10, für wie sinnvoll du diese Methode hältst.Begründe deine Einschätzung. Gibt es in deinem privaten und schulischen Alltag Situationen, in denen du diese Methode
+sinnvoll anwenden kannst? Nenne mindestens zwei Beispiele.
 
-Bearbeite das Beispiel im Browser!]]></description>
-		<taxid>0</taxid>
+Bearbeite das Bild!]]></description>
+		<taxid>78</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://oezeps.at/moodle/course/view.php?id=166</externalurl>
+		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=166]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=28</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
-		<iseditable>0</iseditable>
+		<iseditable>1</iseditable>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1686</uid>
@@ -60031,11 +60464,11 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<attachement/>
 		<completefile/>
 		<description><![CDATA[Recherchiere den Begriff Kompetenz und füge das Ergebnis in dein Glossar ein.]]></description>
-		<taxid>0</taxid>
+		<taxid>77</taxid>
 		<timeframe/>
 		<ressources/>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=169]]></tips>
-		<externalurl/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=8</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -60051,11 +60484,11 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<attachement/>
 		<completefile/>
 		<description><![CDATA[Recherchiere den Begriff Kooperation und füge das Ergebnis in dein Glossar ein.]]></description>
-		<taxid>0</taxid>
+		<taxid>77</taxid>
 		<timeframe/>
 		<ressources/>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=170]]></tips>
-		<externalurl/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=9</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -60066,22 +60499,22 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<title><![CDATA[Einfach zum Nachlesen]]></title>
 		<titleshort><![CDATA[Einfach zum Nachlesen]]></titleshort>
 		<task/>
-		<sorting>9459</sorting>
+		<sorting>9657</sorting>
 		<solution/>
 		<attachement/>
-		<completefile/>
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/sprechblase.png</completefile>
 		<description><![CDATA[Viele erfolgreiche Menschen verdanken ihre Errungenschaften guter Zusammenarbeit. Einer von ihnen ist der Apple-Gründer Steve Jobs. Die Beatles waren Vorbild für sein Geschäftsmodell.
 
 Rufe weitere Informationen über den Browser ab!]]></description>
-		<taxid>0</taxid>
+		<taxid>77</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://oezeps.at/moodle/course/view.php?id=168</externalurl>
+		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=168]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=16</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
-		<iseditable>0</iseditable>
+		<iseditable>1</iseditable>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1755</uid>
@@ -60093,15 +60526,15 @@ Rufe weitere Informationen über den Browser ab!]]></description>
 		<attachement/>
 		<completefile/>
 		<description><![CDATA[Recherchiere den Begriff Vereinbarung und füge das Ergebnis in dein Glossar ein.]]></description>
-		<taxid>0</taxid>
+		<taxid>77</taxid>
 		<timeframe/>
 		<ressources/>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=172]]></tips>
-		<externalurl/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=25</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
-		<iseditable>0</iseditable>
+		<iseditable>1</iseditable>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1756</uid>
@@ -60113,33 +60546,42 @@ Rufe weitere Informationen über den Browser ab!]]></description>
 		<attachement/>
 		<completefile/>
 		<description><![CDATA[Recherchiere den Begriff Orientierung und füge das Ergebnis in dein Glossar ein.]]></description>
-		<taxid>0</taxid>
+		<taxid>77</taxid>
 		<timeframe/>
 		<ressources/>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=171]]></tips>
-		<externalurl/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=24</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
-		<iseditable>0</iseditable>
+		<iseditable>1</iseditable>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1757</uid>
-		<title><![CDATA[Zum Nachlesen]]></title>
-		<titleshort><![CDATA[Zum Nachlesen]]></titleshort>
+		<title><![CDATA[Wählt eure Ziele ... | Clever und Smart 2]]></title>
+		<titleshort><![CDATA[Clever und Smart 2]]></titleshort>
 		<task/>
-		<sorting>9536</sorting>
+		<sorting>9537</sorting>
 		<solution/>
 		<attachement/>
 		<completefile/>
-		<description><![CDATA[Entdecke die SMART-Analyse!
+		<description><![CDATA[Denke an eine der nächsten Gruppenaufgaben, z. B.:
 
-Rufe weitere Informationen über den Browser ab!]]></description>
-		<taxid>0</taxid>
+Eine Projektarbeit steht an: Ihr sollt im Team ein Projekt zum Thema ……………………… umsetzen.
+Im Fach …………………… soll ein bestimmtes Thema aufbereitet und präsentiert werden.
+In deinem Jugendclub wird ein Projekt zum Thema ……………………… gestartet.
+
+Setzt euch im Team zusammen und beantwortet folgende Fragen:
+
+Überprüft eure Zielsetzungen anhand der fünf SMART-Kriterien.
+Wie viele der Kriterien erfüllen eure Zielformulierungen?
+Ist es notwendig, eure Ziele umzuformulieren, damit sie auch wirklich SMART sind?
+]]></description>
+		<taxid>78</taxid>
 		<timeframe/>
 		<ressources/>
-		<tips/>
-		<externalurl>http://oezeps.at/moodle/course/view.php?id=173</externalurl>
+		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=173]]></tips>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=30</externalurl>
 		<externalsolution/>
 		<externaltask/>
 		<lang>0</lang>
@@ -62005,6 +62447,256 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<externaltask/>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1874</uid>
+		<title><![CDATA[Zu welchen Teams gehörst du?]]></title>
+		<titleshort><![CDATA[Zu welchen Teams gehörst du?]]></titleshort>
+		<task/>
+		<sorting>9332</sorting>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<description><![CDATA[Erfolgreiche Teams gibt es in den Bereichen Sport, Film, Musik, Politik, Wirtschaft etc.
+Sicher kennst auch du tolle Teams in deiner Klasse, deinem Verein, deinem Freundeskreis.
+
+Zu welchen Teams gehörst du?]]></description>
+		<taxid>77</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=6</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1875</uid>
+		<title><![CDATA[Stelle dein Team zusammen - Kompetenzen]]></title>
+		<titleshort><![CDATA[Stelle dein Team zusammen 2]]></titleshort>
+		<task/>
+		<sorting>9458</sorting>
+		<solution/>
+		<attachement/>
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/team_zusammenstellen1.png</completefile>
+		<description><![CDATA[Stell dir vor, du könntest dir für die nächste Gruppenarbeit in der Klasse dein eigenes Team
+zusammenstellen:
+
+Wie sind die Gruppen für die unterschiedlichen Aufgaben zusammengesetzt?
+Welche Kompetenzen und Ressourcen sind aus deiner Sicht für die jeweiligen Aufgabe wichtig?]]></description>
+		<taxid>78</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=12</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1876</uid>
+		<title><![CDATA[Stelle dein Team zusammen - Auswahl]]></title>
+		<titleshort><![CDATA[Stelle dein Team zusammen 3]]></titleshort>
+		<task/>
+		<sorting>9459</sorting>
+		<solution/>
+		<attachement/>
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/auswahl_kritisch_betrachtet.png</completefile>
+		<description><![CDATA[Zusammenstellung des Teams
+
+Betrachte deine Auswahl kritisch. Hast du beim vorigen Beispiel ein gutes Team zusammengestellt?]]></description>
+		<taxid>78</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=13</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1878</uid>
+		<title><![CDATA[Stelle dein Team zusammen - Feedback]]></title>
+		<titleshort><![CDATA[Stelle dein Team zusammen 4]]></titleshort>
+		<task/>
+		<sorting>9654</sorting>
+		<solution/>
+		<attachement/>
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/feedback_01.png</completefile>
+		<description><![CDATA[Feedback von Mitschüler/in
+
+Bitte eine/n Mitschüler/in, dir zu deinen Überlegungen Feedback zu geben. Erstelle dazu eine Freigabe mit deinen ausgearbeiteten Beispielen aus 3.1.C in deinem ePortfolio. Orientiere dich dabei an folgender Grafik.]]></description>
+		<taxid>78</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=14</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1879</uid>
+		<title><![CDATA[Stärken und Schwächen]]></title>
+		<titleshort><![CDATA[Stärken und Schwächen]]></titleshort>
+		<task/>
+		<sorting>9460</sorting>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<description><![CDATA[Welche individuellen Eigenschaften, Fähigkeiten, Werteinstellungen, Stärken und
+Schwächen machen dich aus? Welche setzt du, je nach Gruppe und Situation, bewusst oder
+unbewusst ein?]]></description>
+		<taxid>78</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=17</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1880</uid>
+		<title><![CDATA[Welche Rolle/n übernehme ich heute?
+
+]]></title>
+		<titleshort><![CDATA[Welche Rolle/n übernehme ich heute?]]></titleshort>
+		<task/>
+		<sorting>9658</sorting>
+		<solution/>
+		<attachement/>
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/buehne_01.png</completefile>
+		<description><![CDATA[Welche Rolle/n übernimmst du heute in der Klasse?
+Welche Rolle/n übernimmst du in deiner Familie?
+Welche Rolle/n übernimmst du in deinem Freundeskreis?
+
+Wähle spontan deinen Platz im Theater aus und schreib was dazu:
+z.B.: Ich stehe auf der Bühne, bin Schauspieler/in und unterhalte das Publikum oder arbeite eher im Hintergrund, bin eher an der Kasse oder für die Beleuchtung zuständig etc.
+
+Verwende im Text für Klasse, Familie und Freundeskreis unterschiedliche Farben.]]></description>
+		<taxid>78</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=19</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1881</uid>
+		<title><![CDATA[Zuordnung von Rollentypen
+
+]]></title>
+		<titleshort><![CDATA[Zuordnung von Rollentypen]]></titleshort>
+		<task/>
+		<sorting>9659</sorting>
+		<solution/>
+		<attachement/>
+		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/rollen_bild.png</completefile>
+		<description><![CDATA[Ordne den Abbildungen die verschiedenen Rollentypen von Belbin zu. Welche Rollen nimmst du häufig ein?
+Markiere jene Bereiche, die deinen Stärken entsprechen mit +, jene Rollen die du gerne einmal ausprobieren möchtest mit ! und jene Rollen die du auf keinen Fall übernehmen möchtest mit -.
+
+Tausche dich anschließend mit Mitschüler/inne/n und Freund/inn/en über deine Rollenerfahrungen aus! Erstelle dazu einen Eintrag in deinem ePortfolio und gib einem Mitschüler/in diesen Inhalt frei.]]></description>
+		<taxid>78</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=21</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1882</uid>
+		<title><![CDATA[Ungewohnte Rollen]]></title>
+		<titleshort><![CDATA[Ungewohnte Rollen]]></titleshort>
+		<task/>
+		<sorting>9661</sorting>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<description><![CDATA[Versuche in einer der nächsten Gruppenarbeiten, Klassendiskussionen o.ä. eine neue, dir ungewohnte Rolle zu übernehmen. Beantworte nach der Gruppenarbeit, Klassendiskussion etc. folgende Fragen:
+Wie ist es dir in der neu ausprobierten Rolle ergangen? Wie hast du dich gefühlt? Wie haben die anderen darauf reagiert?
+
+Entspricht diese Rolle auch deiner Person/Persönlichkeit? Lässt sich diese Rolle mit deinen Stärken vereinbaren?
+
+Welche Kompetenzen musst du dir eventuell noch aneignen, um diese Rolle wirklich optimal ausüben zu können?]]></description>
+		<taxid>78</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=22</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1883</uid>
+		<title><![CDATA[Heimliche Regeln]]></title>
+		<titleshort><![CDATA[Heimliche Regeln]]></titleshort>
+		<task/>
+		<sorting>9535</sorting>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<description><![CDATA[Neben offiziellen Vereinbarungen in einer Klasse gibt es auch immer „heimliche“ Regeln.
+Vervollständige die folgenden Sätze und füge – wenn du willst – noch einige hinzu.
+
+In unserer Gruppe wird es nicht gern gesehen, dass du …
+Unsere Gruppe verlangt von dir, dass du …]]></description>
+		<taxid>78</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=27</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
+	</table>
+	<table name="block_exacompexamples">
+		<uid>1884</uid>
+		<title><![CDATA[Wählt eure Ziele ... | Clever und Smart 3]]></title>
+		<titleshort><![CDATA[Clever und Smart 3]]></titleshort>
+		<task/>
+		<sorting>9663</sorting>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<description><![CDATA[Denke an eine der nächsten Gruppenaufgaben, z. B.:
+
+Eine Projektarbeit steht an: Ihr sollt im Team ein Projekt zum Thema ……………………… umsetzen.
+Im Fach …………………… soll ein bestimmtes Thema aufbereitet und präsentiert werden.
+In deinem Jugendclub wird ein Projekt zum Thema ……………………… gestartet.
+
+Setzt euch im Team zusammen und beantwortet folgende Fragen:
+
+Zur Zielerreichung braucht es eine genaue Planung.
+
+Was ist alles zu tun, um das Ziel zu erreichen?
+Wer ist wofür zuständig/verantwortlich?
+Wann/bis wann ist etwas zu erledigen, damit das Ergebnis erreicht wird?
+Woran erkennt ihr, dass ihr euer Ziel erreicht habt?
+Bei unserem nächsten gemeinsamen Projekt achten wir als kooperierende Gruppe auf Folgendes: …]]></description>
+		<taxid>78</taxid>
+		<timeframe/>
+		<ressources/>
+		<tips/>
+		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=31</externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<lang>0</lang>
+		<iseditable>1</iseditable>
 	</table>
 	<table name="block_exacomptaxonomies">
 		<uid>76</uid>
@@ -71565,144 +72257,280 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<topicid>13</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3820</descrid>
-		<topicid>670</topicid>
+		<descrid>4975</descrid>
+		<topicid>995</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3825</descrid>
-		<topicid>670</topicid>
+		<descrid>4974</descrid>
+		<topicid>995</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3826</descrid>
-		<topicid>670</topicid>
+		<descrid>4976</descrid>
+		<topicid>995</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3827</descrid>
-		<topicid>670</topicid>
+		<descrid>4979</descrid>
+		<topicid>995</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3828</descrid>
-		<topicid>670</topicid>
+		<descrid>4977</descrid>
+		<topicid>995</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3829</descrid>
-		<topicid>670</topicid>
+		<descrid>4978</descrid>
+		<topicid>995</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3830</descrid>
-		<topicid>676</topicid>
+		<descrid>4980</descrid>
+		<topicid>995</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3831</descrid>
-		<topicid>676</topicid>
+		<descrid>4981</descrid>
+		<topicid>995</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3832</descrid>
-		<topicid>676</topicid>
+		<descrid>4982</descrid>
+		<topicid>995</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3833</descrid>
-		<topicid>676</topicid>
+		<descrid>4983</descrid>
+		<topicid>996</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3834</descrid>
-		<topicid>676</topicid>
+		<descrid>4984</descrid>
+		<topicid>996</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3835</descrid>
-		<topicid>676</topicid>
+		<descrid>4985</descrid>
+		<topicid>996</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3836</descrid>
-		<topicid>677</topicid>
+		<descrid>4986</descrid>
+		<topicid>996</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3837</descrid>
-		<topicid>677</topicid>
+		<descrid>4987</descrid>
+		<topicid>996</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3838</descrid>
-		<topicid>677</topicid>
+		<descrid>4988</descrid>
+		<topicid>996</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3839</descrid>
-		<topicid>677</topicid>
+		<descrid>4989</descrid>
+		<topicid>996</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3840</descrid>
-		<topicid>677</topicid>
+		<descrid>4990</descrid>
+		<topicid>997</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3841</descrid>
-		<topicid>677</topicid>
+		<descrid>4991</descrid>
+		<topicid>997</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3842</descrid>
-		<topicid>677</topicid>
+		<descrid>4992</descrid>
+		<topicid>997</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3843</descrid>
-		<topicid>678</topicid>
+		<descrid>4993</descrid>
+		<topicid>997</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3844</descrid>
-		<topicid>678</topicid>
+		<descrid>4994</descrid>
+		<topicid>997</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3845</descrid>
-		<topicid>678</topicid>
+		<descrid>4995</descrid>
+		<topicid>998</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3846</descrid>
-		<topicid>678</topicid>
+		<descrid>4996</descrid>
+		<topicid>998</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3847</descrid>
-		<topicid>678</topicid>
+		<descrid>4997</descrid>
+		<topicid>998</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3848</descrid>
-		<topicid>678</topicid>
+		<descrid>4998</descrid>
+		<topicid>998</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3849</descrid>
-		<topicid>678</topicid>
+		<descrid>4999</descrid>
+		<topicid>998</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3850</descrid>
-		<topicid>678</topicid>
+		<descrid>5000</descrid>
+		<topicid>998</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3851</descrid>
-		<topicid>679</topicid>
+		<descrid>5001</descrid>
+		<topicid>998</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3852</descrid>
-		<topicid>679</topicid>
+		<descrid>5002</descrid>
+		<topicid>999</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3853</descrid>
-		<topicid>679</topicid>
+		<descrid>5003</descrid>
+		<topicid>999</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3854</descrid>
-		<topicid>679</topicid>
+		<descrid>5004</descrid>
+		<topicid>999</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3855</descrid>
-		<topicid>679</topicid>
+		<descrid>5005</descrid>
+		<topicid>1000</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3856</descrid>
-		<topicid>679</topicid>
+		<descrid>5006</descrid>
+		<topicid>1000</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3857</descrid>
-		<topicid>679</topicid>
+		<descrid>5007</descrid>
+		<topicid>1001</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>3858</descrid>
-		<topicid>679</topicid>
+		<descrid>5008</descrid>
+		<topicid>1001</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5009</descrid>
+		<topicid>1002</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5010</descrid>
+		<topicid>1002</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5011</descrid>
+		<topicid>1002</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5012</descrid>
+		<topicid>1002</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5013</descrid>
+		<topicid>1002</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5014</descrid>
+		<topicid>1002</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5015</descrid>
+		<topicid>1002</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5016</descrid>
+		<topicid>1003</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5017</descrid>
+		<topicid>1003</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5018</descrid>
+		<topicid>1003</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5019</descrid>
+		<topicid>1003</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5020</descrid>
+		<topicid>1003</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5021</descrid>
+		<topicid>1003</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5022</descrid>
+		<topicid>1003</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5023</descrid>
+		<topicid>1003</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5024</descrid>
+		<topicid>1003</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5025</descrid>
+		<topicid>1004</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5026</descrid>
+		<topicid>1004</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5027</descrid>
+		<topicid>1004</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5028</descrid>
+		<topicid>1004</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5029</descrid>
+		<topicid>1004</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5030</descrid>
+		<topicid>1004</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5031</descrid>
+		<topicid>1004</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5032</descrid>
+		<topicid>1005</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5033</descrid>
+		<topicid>1005</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5034</descrid>
+		<topicid>1005</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5035</descrid>
+		<topicid>1005</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5036</descrid>
+		<topicid>1005</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5037</descrid>
+		<topicid>1005</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5038</descrid>
+		<topicid>1006</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5039</descrid>
+		<topicid>1006</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5040</descrid>
+		<topicid>1006</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5041</descrid>
+		<topicid>1006</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5042</descrid>
+		<topicid>1006</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
 		<descrid>5118</descrid>
@@ -72877,15 +73705,7 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<topicid>391</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>5652</descrid>
-		<topicid>1075</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
 		<descrid>5656</descrid>
-		<topicid>1075</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
-		<descrid>5659</descrid>
 		<topicid>1075</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
@@ -72897,23 +73717,11 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<topicid>1075</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>5670</descrid>
-		<topicid>1075</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
 		<descrid>5672</descrid>
 		<topicid>1076</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>5673</descrid>
-		<topicid>1076</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
 		<descrid>5674</descrid>
-		<topicid>1076</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
-		<descrid>5678</descrid>
 		<topicid>1076</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
@@ -73025,10 +73833,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<topicid>389</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>1810</descrid>
-		<topicid>389</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
 		<descrid>1811</descrid>
 		<topicid>389</topicid>
 	</table>
@@ -73074,18 +73878,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
 		<descrid>5654</descrid>
-		<topicid>1075</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
-		<descrid>5655</descrid>
-		<topicid>1075</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
-		<descrid>5657</descrid>
-		<topicid>1075</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
-		<descrid>5658</descrid>
 		<topicid>1075</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
@@ -73161,10 +73953,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<topicid>1078</topicid>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
-		<descrid>5711</descrid>
-		<topicid>1078</topicid>
-	</table>
-	<table name="block_exacompdescrtopic_mm">
 		<descrid>5714</descrid>
 		<topicid>1078</topicid>
 	</table>
@@ -73182,6 +73970,46 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 	</table>
 	<table name="block_exacompdescrtopic_mm">
 		<descrid>5718</descrid>
+		<topicid>1078</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>1810</descrid>
+		<topicid>389</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5652</descrid>
+		<topicid>1075</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5655</descrid>
+		<topicid>1075</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5657</descrid>
+		<topicid>1075</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5658</descrid>
+		<topicid>1075</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5659</descrid>
+		<topicid>1075</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5670</descrid>
+		<topicid>1075</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5673</descrid>
+		<topicid>1076</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5678</descrid>
+		<topicid>1076</topicid>
+	</table>
+	<table name="block_exacompdescrtopic_mm">
+		<descrid>5711</descrid>
 		<topicid>1078</topicid>
 	</table>
 	<table name="block_exacompdescrexamp_mm">
@@ -83155,96 +83983,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<source>1</source>
 	</table>
 	<table name="block_exacompdescrexamp_mm">
-		<exampid>1545</exampid>
-		<descrid>1809</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1545</exampid>
-		<descrid>1810</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1545</exampid>
-		<descrid>1811</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1538</exampid>
-		<descrid>1815</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1538</exampid>
-		<descrid>1816</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1682</exampid>
-		<descrid>1815</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1682</exampid>
-		<descrid>1816</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1535</exampid>
-		<descrid>1817</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1535</exampid>
-		<descrid>1818</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1535</exampid>
-		<descrid>1819</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1535</exampid>
-		<descrid>1820</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1754</exampid>
-		<descrid>1809</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1754</exampid>
-		<descrid>1810</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1754</exampid>
-		<descrid>1811</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1757</exampid>
-		<descrid>1817</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1757</exampid>
-		<descrid>1818</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1757</exampid>
-		<descrid>1819</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1757</exampid>
-		<descrid>1820</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
 		<exampid>1673</exampid>
 		<descrid>1779</descrid>
 		<source>1</source>
@@ -83262,71 +84000,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 	<table name="block_exacompdescrexamp_mm">
 		<exampid>1758</exampid>
 		<descrid>1779</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1752</exampid>
-		<descrid>1809</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1752</exampid>
-		<descrid>1810</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1752</exampid>
-		<descrid>1811</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1753</exampid>
-		<descrid>1809</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1753</exampid>
-		<descrid>1810</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1753</exampid>
-		<descrid>1811</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1755</exampid>
-		<descrid>1815</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1755</exampid>
-		<descrid>1816</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1756</exampid>
-		<descrid>1815</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1756</exampid>
-		<descrid>1816</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1681</exampid>
-		<descrid>1812</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1681</exampid>
-		<descrid>1813</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1681</exampid>
-		<descrid>1814</descrid>
 		<source>1</source>
 	</table>
 	<table name="block_exacompdescrexamp_mm">
@@ -83900,36 +84573,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<source>1</source>
 	</table>
 	<table name="block_exacompdescrexamp_mm">
-		<exampid>1679</exampid>
-		<descrid>1809</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1679</exampid>
-		<descrid>1810</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1679</exampid>
-		<descrid>1811</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1540</exampid>
-		<descrid>1812</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1540</exampid>
-		<descrid>1813</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1540</exampid>
-		<descrid>1814</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
 		<exampid>362</exampid>
 		<descrid>1774</descrid>
 		<source>1</source>
@@ -83957,21 +84600,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 	<table name="block_exacompdescrexamp_mm">
 		<exampid>1574</exampid>
 		<descrid>1779</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1680</exampid>
-		<descrid>1809</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1680</exampid>
-		<descrid>1810</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1680</exampid>
-		<descrid>1811</descrid>
 		<source>1</source>
 	</table>
 	<table name="block_exacompdescrexamp_mm">
@@ -84022,21 +84650,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 	<table name="block_exacompdescrexamp_mm">
 		<exampid>1675</exampid>
 		<descrid>1783</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1678</exampid>
-		<descrid>1809</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1678</exampid>
-		<descrid>1810</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1678</exampid>
-		<descrid>1811</descrid>
 		<source>1</source>
 	</table>
 	<table name="block_exacompdescrexamp_mm">
@@ -86525,16 +87138,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<source>1</source>
 	</table>
 	<table name="block_exacompdescrexamp_mm">
-		<exampid>1537</exampid>
-		<descrid>1815</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1537</exampid>
-		<descrid>1816</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
 		<exampid>346</exampid>
 		<descrid>1774</descrid>
 		<source>1</source>
@@ -86547,21 +87150,6 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 	<table name="block_exacompdescrexamp_mm">
 		<exampid>346</exampid>
 		<descrid>1776</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1677</exampid>
-		<descrid>1809</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1677</exampid>
-		<descrid>1810</descrid>
-		<source>1</source>
-	</table>
-	<table name="block_exacompdescrexamp_mm">
-		<exampid>1677</exampid>
-		<descrid>1811</descrid>
 		<source>1</source>
 	</table>
 	<table name="block_exacompdescrexamp_mm">
@@ -86587,6 +87175,296 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 	<table name="block_exacompdescrexamp_mm">
 		<exampid>1672</exampid>
 		<descrid>1776</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1874</exampid>
+		<descrid>5649</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1677</exampid>
+		<descrid>5649</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1545</exampid>
+		<descrid>5648</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1752</exampid>
+		<descrid>5648</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1752</exampid>
+		<descrid>1810</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1753</exampid>
+		<descrid>5648</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1678</exampid>
+		<descrid>5649</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1678</exampid>
+		<descrid>1810</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1679</exampid>
+		<descrid>1809</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1679</exampid>
+		<descrid>1811</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1679</exampid>
+		<descrid>1810</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1875</exampid>
+		<descrid>1809</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1875</exampid>
+		<descrid>1811</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1876</exampid>
+		<descrid>1809</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1876</exampid>
+		<descrid>1811</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1878</exampid>
+		<descrid>1809</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1878</exampid>
+		<descrid>1811</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1680</exampid>
+		<descrid>1809</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1680</exampid>
+		<descrid>1811</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1680</exampid>
+		<descrid>1810</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1754</exampid>
+		<descrid>1809</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1754</exampid>
+		<descrid>1811</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1754</exampid>
+		<descrid>1810</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1879</exampid>
+		<descrid>5650</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1879</exampid>
+		<descrid>1812</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1540</exampid>
+		<descrid>5650</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1540</exampid>
+		<descrid>1812</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1540</exampid>
+		<descrid>1813</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1540</exampid>
+		<descrid>1814</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1880</exampid>
+		<descrid>5650</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1880</exampid>
+		<descrid>1812</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1681</exampid>
+		<descrid>1812</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1681</exampid>
+		<descrid>1813</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1681</exampid>
+		<descrid>1814</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1881</exampid>
+		<descrid>5650</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1881</exampid>
+		<descrid>1812</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1882</exampid>
+		<descrid>5650</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1882</exampid>
+		<descrid>1812</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1756</exampid>
+		<descrid>5651</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1538</exampid>
+		<descrid>5651</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1755</exampid>
+		<descrid>5651</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1537</exampid>
+		<descrid>1815</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1537</exampid>
+		<descrid>1816</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1883</exampid>
+		<descrid>1815</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1682</exampid>
+		<descrid>1815</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1682</exampid>
+		<descrid>1816</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1535</exampid>
+		<descrid>1817</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1535</exampid>
+		<descrid>1818</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1535</exampid>
+		<descrid>1819</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1535</exampid>
+		<descrid>1820</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1757</exampid>
+		<descrid>1817</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1757</exampid>
+		<descrid>1818</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1757</exampid>
+		<descrid>1819</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1757</exampid>
+		<descrid>1820</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1884</exampid>
+		<descrid>1817</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1884</exampid>
+		<descrid>1818</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1884</exampid>
+		<descrid>1819</descrid>
+		<source>1</source>
+	</table>
+	<table name="block_exacompdescrexamp_mm">
+		<exampid>1884</exampid>
+		<descrid>1820</descrid>
 		<source>1</source>
 	</table>
 </exabis_competences_tables>
