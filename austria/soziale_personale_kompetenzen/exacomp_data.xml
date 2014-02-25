@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<exabis_competences_tables allow-background-captures="true">
+<?xml version="1.0" encoding="utf-8"?>
+<exabis_competences_tables>
 	<table name="block_exacompniveaus">
 		<uid>24</uid>
 		<title><![CDATA[A (Wissen)]]></title>
@@ -345,8 +345,8 @@
 		<titleshort><![CDATA[Lebens-<br>gestaltung]]></titleshort>
 		<stid>73</stid>
 		<sorting>2937</sorting>
-		<cat/>
-		<number/>
+		<cat></cat>
+		<number></number>
 	</table>
 	<table name="block_exacompsubjects">
 		<uid>149</uid>
@@ -354,8 +354,8 @@
 		<titleshort><![CDATA[Lern- und Arbeits-<br>verhalten]]></titleshort>
 		<stid>73</stid>
 		<sorting>2938</sorting>
-		<cat/>
-		<number/>
+		<cat></cat>
+		<number></number>
 	</table>
 	<table name="block_exacompsubjects">
 		<uid>150</uid>
@@ -363,8 +363,8 @@
 		<titleshort><![CDATA[Selbst-<br>verantwortung]]></titleshort>
 		<stid>73</stid>
 		<sorting>2939</sorting>
-		<cat/>
-		<number/>
+		<cat></cat>
+		<number></number>
 	</table>
 	<table name="block_exacompsubjects">
 		<uid>151</uid>
@@ -372,8 +372,8 @@
 		<titleshort><![CDATA[Soziale Verantwortung]]></titleshort>
 		<stid>72</stid>
 		<sorting>2940</sorting>
-		<cat/>
-		<number/>
+		<cat></cat>
+		<number></number>
 	</table>
 	<table name="block_exacompsubjects">
 		<uid>152</uid>
@@ -381,8 +381,8 @@
 		<titleshort><![CDATA[Kommunikation]]></titleshort>
 		<stid>72</stid>
 		<sorting>2941</sorting>
-		<cat/>
-		<number/>
+		<cat></cat>
+		<number></number>
 	</table>
 	<table name="block_exacompsubjects">
 		<uid>153</uid>
@@ -390,8 +390,8 @@
 		<titleshort><![CDATA[Kooperation]]></titleshort>
 		<stid>72</stid>
 		<sorting>2942</sorting>
-		<cat/>
-		<number/>
+		<cat></cat>
+		<number></number>
 	</table>
 	<table name="block_exacompsubjects">
 		<uid>154</uid>
@@ -399,8 +399,8 @@
 		<titleshort><![CDATA[Konflikte]]></titleshort>
 		<stid>72</stid>
 		<sorting>2943</sorting>
-		<cat/>
-		<number/>
+		<cat></cat>
+		<number></number>
 	</table>
 	<table name="block_exacompsubjects">
 		<uid>155</uid>
@@ -408,8 +408,8 @@
 		<titleshort><![CDATA[Führung]]></titleshort>
 		<stid>72</stid>
 		<sorting>2944</sorting>
-		<cat/>
-		<number/>
+		<cat></cat>
+		<number></number>
 	</table>
 	<table name="block_exacompsubjects">
 		<uid>156</uid>
@@ -417,8 +417,8 @@
 		<titleshort><![CDATA[Situations-<br>gerechtes Auftreten]]></titleshort>
 		<stid>72</stid>
 		<sorting>3026</sorting>
-		<cat/>
-		<number/>
+		<cat></cat>
+		<number></number>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>367</uid>
@@ -435,16 +435,16 @@
 - das Ausrichten der eigenen Fähigkeiten und Kenntnisse auf sich verändernde Anforderungen
 - das Erkennen von Möglichkeiten zur persönlichen und beruflichen Weiterentwicklung
 - das adäquate Reagieren auf Herausforderungen und Belastungen]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>368</uid>
@@ -457,16 +457,16 @@
 - die Bereitwilligkeit, Aufgaben/Arbeiten allein oder gemeinsam mit anderen zu übernehmen
 - die Stärke, Aufgaben/Arbeiten trotz sinkender Leistungsmotivation oder externer Hindernisse zu Ende zu führen
 - die realistische Einschätzung des eigenen Leistungspotentials]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>369</uid>
@@ -480,16 +480,16 @@
 - das verlässliche und termingerechte Einhalten von Versprechen und Vereinbarungen
 - den gewissenhaften, adäquaten Einsatz von zur Verfügung stehenden Ressourcen und Materialien
 - die Aufrechterhaltung eines ordentlichen Arbeitsstils]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>370</uid>
@@ -502,16 +502,16 @@
 - die Aufgeschlossenheit gegenüber Neuem
 - die Offenheit, Erprobtes aufzugeben und Neues auszuprobieren
 - die Nutzung von Techniken zum Finden von neuartigen, originellen Ideen und zum Abbau von Denkblockaden]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>371</uid>
@@ -526,16 +526,16 @@
 - das Setzen von arbeitsteiligen Maßnahmen
 - die optimale Gestaltung von Lern- und Arbeitsbedingungen
 - die Überprüfung des Arbeits-/Lernprozesses und der jeweiligen Ergebnisse]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>372</uid>
@@ -548,16 +548,16 @@
 - die Übertragung von Wissen und Erfahrungen zur Problemlösung auf neue Situationen
 - die Kombination vorhandener Wissenselemente zu neuen Erkenntnissen
 - das Erkennen von Strukturen in komplexen Aufgabenstellungen bzw. Problemen]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>375</uid>
@@ -571,16 +571,16 @@ Eigenverantwortliche Menschen reflektieren ihr Tun. Das Wort Reflexion kommt aus
 Das Wahrnehmen von Eigenverantwortung hängt von deinem Wissen und deinen Fähig- keiten ab. Gesellschaftliche, kulturelle und religiöse Normen und Wertvorstellungen können die Basis für deine persönlichen Wertvorstellungen sein und sie beeinflussen.
 
 Eigenverantwortlich denken und handeln heißt auch, sich gezielt Unterstützung und Hilfe zu suchen sowie individuell und frei zu entscheiden.]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>376</uid>
@@ -592,16 +592,16 @@ Eigenverantwortlich denken und handeln heißt auch, sich gezielt Unterstützung
 Du hast dir sicher bereits Gedanken über deine Zukunft gemacht. Weißt du schon, wohin dein Weg dich führen wird? Welche Wege du gehen möchtest? Verrückte? Unkonventionelle? Vertraute?
 
 Es ist wichtig, über seine eigenen Ziele Klarheit zu haben und diese Ziele auch zu verfolgen, schließlich triffst du die Entscheidungen und übernimmst Verantwortung für dein Leben. Auf dem Weg, deine Ziele zu erreichen, helfen dir der bewusste Einsatz deiner Fähigkeiten, Stärken und Talente sowie dein Wollen, diese Ziele anzustreben und umzusetzen.]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>377</uid>
@@ -613,16 +613,16 @@ Es ist wichtig, über seine eigenen Ziele Klarheit zu haben und diese Ziele auc
 - das Verständnis für die gesellschaftliche Notwendigkeit eines Regel- und Normensystems
 - die Reflexion über das Zustandekommen der eigenen Werte und Normen
 - das kritische Abstimmen der eigenen Werte und Normen it dem öffentlich-rechtlichen Regel- und Normensystem ]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>378</uid>
@@ -640,16 +640,16 @@ Die Selbstkontrolle zu verlieren kann für nahestehende Menschen, eine Gruppe o
 Selbstkontrolle kann Verzicht und Rücksichtnahme beinhalten.
 Selbstkontrolle bedeutet, für eigene Handlungen Verantwortung zu übernehmen – sowohl für sich selbst als auch für die anderen und die Umwelt.
 Du bist immer Teil einer Familie, einer Partnerschaft, einer Gruppe, einer Gesellschaft, eines Ökosystems etc. und für deren/dessen Gleichgewicht mitverantwortlich.]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>379</uid>
@@ -670,16 +670,16 @@ Bankdirektor/in, Pilot/in, Architekt/in, Spitzensportler/in? - die Qual der Wahl
 
 Jeden Tag treffen wir Entscheidungen, manche nehmen kaum Einfluss auf unser Leben/un- sere Zukunft, andere wiederum können unser Leben verändern.
 Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig sind/wa- ren, können wir erst erkennen, wenn wir ihre Auswirkungen spüren.]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>380</uid>
@@ -691,16 +691,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 - den wertschätzenden Umgang mit anderen Menschen unabhängig von Status, Kultur oder persönlichen Merkmalen
 - das Anerkennen anderer Meinungen, Einstellungen und Werthaltungen
 - die Reflexion des eigenen Verhaltens im Umgang mit unterschiedlichen Wertesystemen]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>381</uid>
@@ -711,16 +711,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 		<description><![CDATA[Einfühlungsvermögen umfasst…
 - den Versuch, sich in die Gedanken- und Gefühlswelt anderer Menschen hineinzuversetzen
 - das Verständnis für die Bedürfnisse und Wünsche anderer Menschen]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>382</uid>
@@ -733,16 +733,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 - die Bereitwilligkeit uneigennützig Hilfe zu leisten
 - das Erkennen von Situationen, in denen Hilfeleistungen notwendig ist
 - das Wissen über situationsadäquate Hilfsmaßnahmen]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>383</uid>
@@ -753,16 +753,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 		<description><![CDATA[Vertraulichkeit umfasst…
 - das Geheimhalten zu schützender Informationen
 - das Erkennen von Situationen, die eine Weitergabe zu schützender Informationen zum Schutz bzw. zur Schadensabwendung rechtfertigen]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>384</uid>
@@ -774,16 +774,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 - die Bereitschaft, im unmittelbaren Lebensbereich gestaltend zu wirken
 - die Fähigkeit, Gesellschaftsstrukturen kritisch zu erfassen
 - das Erkennen und Wahrnehmen von Möglichkeiten der aktiven gesellschaftlichen Teilhabe]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>385</uid>
@@ -795,16 +795,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 - eine verständliche, klare Formulierung
 - ein personen- und situationsadäquates Gesprächsverhalten
 - den Einsatz von Kommunikationstechniken, um Missverständnisse zu minimieren oder aufzuklären]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>386</uid>
@@ -816,16 +816,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 - die Planung und Durchführung unterschiedlicher Gesprächsarten
 - das Anwenden von Kommunikationsregeln zur Sicherung einer zielgerichteten Gesprächsstruktur
 - die Sorge für Dokumentation und Ergebnissicherung]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>387</uid>
@@ -838,16 +838,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 - die angemessene Formulierung von Äußerungen auf der Beziehungs- und Sachebene
 - das adäquate Einsetzen der eigenen nonverbalen Kommunikation
 - die Interpretation der nonverbalen Kommunikation des Gegenübers]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>388</uid>
@@ -861,16 +861,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 - die zielorientierte und adressaten/innengerechte Auswahl eines Kommunikationsmediums
 - die Abstimmung der Kommunikation mit den Besonderheiten des gewählten Mediums
 - die achtsame Verwendung der Kommunikationsmedien zum Schutz der eigenen Sicherheit und der Sicherheit der Kommunikationspartner/innen]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>389</uid>
@@ -881,16 +881,16 @@ Was, wenn wir die falsche Entscheidung treffen? Ob unsere Entscheidungen richtig
 		<description><![CDATA[Erfolgreiche Teams gibt es in den Bereichen Sport, Filmbranche, Musikszene, Politik, Wirtschaft uvm.
 Sicher kennst auch du tolle Teams in deiner Klasse, deinem Verein, deinem Freundeskreis. Bist du Teil eines oder mehrerer Teams?
 ]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>390</uid>
@@ -906,16 +906,16 @@ Welche Rolle spielst du in deiner Familie, deinem Freundeskreis, der Schule, ein
 Aber wer bist du wirklich? Welche Person bist du, welche Persönlichkeit hast du? Welche Rollen übernimmst du?
 
 Welche individuellen Eigenschaften, Fähigkeiten, Werteinstellungen, Stärken und Schwächen machen dich aus? Welche setzt du je nach Gruppe und Situation bewusst oder unbewusst ein?]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>391</uid>
@@ -935,16 +935,16 @@ Wer A sagt, muss nicht B sagen. Er kann auch erkennen, dass A falsch war.
 
 Ziel einer Konsensfindung ist: Den Beteiligten soll die Bandbreite der Meinungen in einer Gruppe klar sein und diese Meinungen sollen eingehend bedacht werden, sodass von allen akzeptierte Entscheidungen getroffen werden können.
 ]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>392</uid>
@@ -964,16 +964,16 @@ A angemessen
 R realistisch 
 T terminiert
 ]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>393</uid>
@@ -985,16 +985,16 @@ T terminiert
 - die Fähigkeit, eigene Standpunkte, Gefühle und Bedürfnisse angemessen zu äußern
 - die Standpunkte, Gefühle und Bedürfnisse anderer wertschätzend zur Kenntnis zu nehmen
 - die Offenheit für konstruktive Kritik]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>394</uid>
@@ -1007,16 +1007,16 @@ T terminiert
 - die Beherrschung der eigenen negativen Gefühle
 - den Einsatz deeskalierender Maßnahmen
 - die Wahrung einer sachlichen Kommunikationsebene]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>395</uid>
@@ -1030,16 +1030,16 @@ T terminiert
 - die Differenzierung zwischen verschiedenen sachlichen und emotionalen Konfliktursachen
 - die Auseinandersetzung mit eigenen und fremden Interessen und Bedürfnissen
 - die gemeinsame Entwicklung und Anwendung von Lösungsmöglichkeiten]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>396</uid>
@@ -1051,16 +1051,16 @@ T terminiert
 - die Bereitschaft, eine Führungsrolle zu übernehmen
 - das Einstehen für Konsequenzen als Folge des eigenen Führungsverhaltens sowie des Verhaltens der Mitarbeiter/innen
 - die Delegation von Aufgaben an Mitarbeiter/innen entsprechend ihrer Kompetenzen und Zuständigkeiten]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>397</uid>
@@ -1073,16 +1073,16 @@ T terminiert
 - die Konzentration auf die sachliche Ebene beim Treffen einer Entscheidung
 - die Vermittlung der getroffenen Entscheidung an die Mitarbeiter/innen
 - die Kontrolle über Umsetzung und Auswirkungen der Entscheidung]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>398</uid>
@@ -1094,16 +1094,16 @@ T terminiert
 - die kognitive und emotionale Unterstützung der Mitarbeiter/innen im Arbeitsprozess
 - den Einsatz motivationsfördernder Maßnahmen
 - die Wahrnehmung von Unter- bzw. Überforderung bei Mitarbeiter/innen im Arbeitsprozess]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>399</uid>
@@ -1126,16 +1126,16 @@ Zielorientierung umfasst…
 - die Vermittlung der Zielsetzungen und Organisationspläne an die Mitarbeiter/innen
 - den Kommunikationsprozess zwischen den Zuständigkeitsbereichen über Arbeitsstand und Zielerreichung
 - die laufende Überprüfung der einzelnen Arbeitsprozessschritte]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>400</uid>
@@ -1147,16 +1147,16 @@ Zielorientierung umfasst…
 - die Abstimmung des eigenen Erscheinungsbildes mit den jeweiligen situationsbedingten Erwartung
 - die Erhaltung berufsbedingter Bekleidungsvorschriften
 - die Anwendung von Benehmensregeln, über die im gesellschaftlichen Umfeld ein Konsens besteht]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacomptopics">
 		<uid>401</uid>
@@ -1167,16 +1167,16 @@ Zielorientierung umfasst…
 		<description><![CDATA[Rollensicherheit umfasst…
 - die Wahrnehmung der eigenen Rolle und der Rolle anderer im Hinblick auf verschiedene Situationen und Erwartungen
 - die Fähigkeit, andere Rollen zu übernehmen und sich rollenadäquat zu verhalten]]></description>
-		<requirement/>
-		<benefit/>
-		<knowledgecheck/>
-		<Ataxonomie/>
-		<Btaxonomie/>
-		<Ctaxonomie/>
-		<Dtaxonomie/>
-		<Etaxonomie/>
-		<Ftaxonomie/>
-		<cat/>
+		<requirement></requirement>
+		<benefit></benefit>
+		<knowledgecheck></knowledgecheck>
+		<Ataxonomie></Ataxonomie>
+		<Btaxonomie></Btaxonomie>
+		<Ctaxonomie></Ctaxonomie>
+		<Dtaxonomie></Dtaxonomie>
+		<Etaxonomie></Etaxonomie>
+		<Ftaxonomie></Ftaxonomie>
+		<cat></cat>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1023</uid>
@@ -1185,8 +1185,8 @@ Zielorientierung umfasst…
 		<sorting>195786</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1024</uid>
@@ -1195,8 +1195,8 @@ Zielorientierung umfasst…
 		<sorting>195787</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1025</uid>
@@ -1205,8 +1205,8 @@ Zielorientierung umfasst…
 		<sorting>195788</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1026</uid>
@@ -1215,8 +1215,8 @@ Zielorientierung umfasst…
 		<sorting>195789</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1759</uid>
@@ -1225,8 +1225,8 @@ Zielorientierung umfasst…
 		<sorting>196423</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1760</uid>
@@ -1235,8 +1235,8 @@ Zielorientierung umfasst…
 		<sorting>196424</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1761</uid>
@@ -1245,8 +1245,8 @@ Zielorientierung umfasst…
 		<sorting>196425</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1762</uid>
@@ -1255,8 +1255,8 @@ Zielorientierung umfasst…
 		<sorting>196426</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1763</uid>
@@ -1265,8 +1265,8 @@ Zielorientierung umfasst…
 		<sorting>196427</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1764</uid>
@@ -1275,8 +1275,8 @@ Zielorientierung umfasst…
 		<sorting>196428</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1765</uid>
@@ -1285,8 +1285,8 @@ Zielorientierung umfasst…
 		<sorting>196429</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1766</uid>
@@ -1296,8 +1296,8 @@ Zielorientierung umfasst…
 		<sorting>196430</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1767</uid>
@@ -1306,8 +1306,8 @@ Zielorientierung umfasst…
 		<sorting>196431</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1768</uid>
@@ -1316,8 +1316,8 @@ Zielorientierung umfasst…
 		<sorting>196432</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1769</uid>
@@ -1326,8 +1326,8 @@ Zielorientierung umfasst…
 		<sorting>196433</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1770</uid>
@@ -1336,8 +1336,8 @@ Zielorientierung umfasst…
 		<sorting>196434</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1771</uid>
@@ -1346,8 +1346,8 @@ Zielorientierung umfasst…
 		<sorting>196435</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1772</uid>
@@ -1356,8 +1356,8 @@ Zielorientierung umfasst…
 		<sorting>196436</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1773</uid>
@@ -1366,8 +1366,8 @@ Zielorientierung umfasst…
 		<sorting>196437</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1774</uid>
@@ -1376,8 +1376,8 @@ Zielorientierung umfasst…
 		<sorting>196440</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1775</uid>
@@ -1386,8 +1386,8 @@ Zielorientierung umfasst…
 		<sorting>200246</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1776</uid>
@@ -1396,8 +1396,8 @@ Zielorientierung umfasst…
 		<sorting>200247</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1777</uid>
@@ -1406,8 +1406,8 @@ Zielorientierung umfasst…
 		<sorting>196441</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1778</uid>
@@ -1416,8 +1416,8 @@ Zielorientierung umfasst…
 		<sorting>196442</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1779</uid>
@@ -1426,8 +1426,8 @@ Zielorientierung umfasst…
 		<sorting>200249</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1780</uid>
@@ -1436,8 +1436,8 @@ Zielorientierung umfasst…
 		<sorting>196444</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1781</uid>
@@ -1446,8 +1446,8 @@ Zielorientierung umfasst…
 		<sorting>196445</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1782</uid>
@@ -1456,8 +1456,8 @@ Zielorientierung umfasst…
 		<sorting>196446</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1783</uid>
@@ -1466,8 +1466,8 @@ Zielorientierung umfasst…
 		<sorting>196447</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1784</uid>
@@ -1476,8 +1476,8 @@ Zielorientierung umfasst…
 		<sorting>196448</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1785</uid>
@@ -1486,8 +1486,8 @@ Zielorientierung umfasst…
 		<sorting>196449</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1788</uid>
@@ -1496,8 +1496,8 @@ Zielorientierung umfasst…
 		<sorting>196452</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1789</uid>
@@ -1506,8 +1506,8 @@ Zielorientierung umfasst…
 		<sorting>196453</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1790</uid>
@@ -1516,8 +1516,8 @@ Zielorientierung umfasst…
 		<sorting>196454</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1791</uid>
@@ -1526,8 +1526,8 @@ Zielorientierung umfasst…
 		<sorting>196455</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1792</uid>
@@ -1536,8 +1536,8 @@ Zielorientierung umfasst…
 		<sorting>196456</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1793</uid>
@@ -1546,8 +1546,8 @@ Zielorientierung umfasst…
 		<sorting>196457</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1794</uid>
@@ -1556,8 +1556,8 @@ Zielorientierung umfasst…
 		<sorting>196458</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1795</uid>
@@ -1566,8 +1566,8 @@ Zielorientierung umfasst…
 		<sorting>196459</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1797</uid>
@@ -1576,8 +1576,8 @@ Zielorientierung umfasst…
 		<sorting>196463</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1798</uid>
@@ -1586,8 +1586,8 @@ Zielorientierung umfasst…
 		<sorting>200251</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1799</uid>
@@ -1596,8 +1596,8 @@ Zielorientierung umfasst…
 		<sorting>200252</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1800</uid>
@@ -1606,8 +1606,8 @@ Zielorientierung umfasst…
 		<sorting>200253</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1801</uid>
@@ -1616,8 +1616,8 @@ Zielorientierung umfasst…
 		<sorting>200254</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1802</uid>
@@ -1626,8 +1626,8 @@ Zielorientierung umfasst…
 		<sorting>196467</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1803</uid>
@@ -1636,8 +1636,8 @@ Zielorientierung umfasst…
 		<sorting>196468</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1804</uid>
@@ -1646,8 +1646,8 @@ Zielorientierung umfasst…
 		<sorting>196469</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1805</uid>
@@ -1656,8 +1656,8 @@ Zielorientierung umfasst…
 		<sorting>200255</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1806</uid>
@@ -1666,8 +1666,8 @@ Zielorientierung umfasst…
 		<sorting>196471</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1807</uid>
@@ -1676,8 +1676,8 @@ Zielorientierung umfasst…
 		<sorting>196472</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1808</uid>
@@ -1686,8 +1686,8 @@ Zielorientierung umfasst…
 		<sorting>200256</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1809</uid>
@@ -1696,8 +1696,8 @@ Zielorientierung umfasst…
 		<sorting>196475</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1810</uid>
@@ -1706,8 +1706,8 @@ Zielorientierung umfasst…
 		<sorting>200257</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1811</uid>
@@ -1716,8 +1716,8 @@ Zielorientierung umfasst…
 		<sorting>196476</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1812</uid>
@@ -1726,8 +1726,8 @@ Zielorientierung umfasst…
 		<sorting>196478</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1813</uid>
@@ -1736,8 +1736,8 @@ Zielorientierung umfasst…
 		<sorting>200258</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1814</uid>
@@ -1746,8 +1746,8 @@ Zielorientierung umfasst…
 		<sorting>200259</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1815</uid>
@@ -1756,8 +1756,8 @@ Zielorientierung umfasst…
 		<sorting>196480</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1816</uid>
@@ -1766,8 +1766,8 @@ Zielorientierung umfasst…
 		<sorting>200260</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1817</uid>
@@ -1776,8 +1776,8 @@ Zielorientierung umfasst…
 		<sorting>196481</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1818</uid>
@@ -1786,8 +1786,8 @@ Zielorientierung umfasst…
 		<sorting>196482</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1819</uid>
@@ -1796,8 +1796,8 @@ Zielorientierung umfasst…
 		<sorting>196483</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1820</uid>
@@ -1806,8 +1806,8 @@ Zielorientierung umfasst…
 		<sorting>196484</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1821</uid>
@@ -1816,8 +1816,8 @@ Zielorientierung umfasst…
 		<sorting>196485</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1822</uid>
@@ -1826,8 +1826,8 @@ Zielorientierung umfasst…
 		<sorting>196486</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1823</uid>
@@ -1836,8 +1836,8 @@ Zielorientierung umfasst…
 		<sorting>196487</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1824</uid>
@@ -1846,8 +1846,8 @@ Zielorientierung umfasst…
 		<sorting>196488</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1825</uid>
@@ -1856,8 +1856,8 @@ Zielorientierung umfasst…
 		<sorting>196489</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1826</uid>
@@ -1866,8 +1866,8 @@ Zielorientierung umfasst…
 		<sorting>196490</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1827</uid>
@@ -1876,8 +1876,8 @@ Zielorientierung umfasst…
 		<sorting>196491</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1828</uid>
@@ -1886,8 +1886,8 @@ Zielorientierung umfasst…
 		<sorting>196492</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1829</uid>
@@ -1896,8 +1896,8 @@ Zielorientierung umfasst…
 		<sorting>196493</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1830</uid>
@@ -1906,8 +1906,8 @@ Zielorientierung umfasst…
 		<sorting>196494</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1831</uid>
@@ -1916,8 +1916,8 @@ Zielorientierung umfasst…
 		<sorting>196495</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1832</uid>
@@ -1926,8 +1926,8 @@ Zielorientierung umfasst…
 		<sorting>196496</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1833</uid>
@@ -1936,8 +1936,8 @@ Zielorientierung umfasst…
 		<sorting>196497</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1834</uid>
@@ -1946,8 +1946,8 @@ Zielorientierung umfasst…
 		<sorting>196498</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1835</uid>
@@ -1956,8 +1956,8 @@ Zielorientierung umfasst…
 		<sorting>196499</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1836</uid>
@@ -1966,8 +1966,8 @@ Zielorientierung umfasst…
 		<sorting>196500</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1837</uid>
@@ -1976,8 +1976,8 @@ Zielorientierung umfasst…
 		<sorting>196501</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1838</uid>
@@ -1986,8 +1986,8 @@ Zielorientierung umfasst…
 		<sorting>196502</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1839</uid>
@@ -1996,8 +1996,8 @@ Zielorientierung umfasst…
 		<sorting>196503</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1840</uid>
@@ -2006,8 +2006,8 @@ Zielorientierung umfasst…
 		<sorting>196504</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1841</uid>
@@ -2016,8 +2016,8 @@ Zielorientierung umfasst…
 		<sorting>196505</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1842</uid>
@@ -2026,8 +2026,8 @@ Zielorientierung umfasst…
 		<sorting>196506</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1843</uid>
@@ -2036,8 +2036,8 @@ Zielorientierung umfasst…
 		<sorting>196507</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1844</uid>
@@ -2046,8 +2046,8 @@ Zielorientierung umfasst…
 		<sorting>196508</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1845</uid>
@@ -2056,8 +2056,8 @@ Zielorientierung umfasst…
 		<sorting>196509</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1846</uid>
@@ -2066,8 +2066,8 @@ Zielorientierung umfasst…
 		<sorting>196510</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1909</uid>
@@ -2076,8 +2076,8 @@ Zielorientierung umfasst…
 		<sorting>196573</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1910</uid>
@@ -2086,8 +2086,8 @@ Zielorientierung umfasst…
 		<sorting>196574</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1911</uid>
@@ -2096,8 +2096,8 @@ Zielorientierung umfasst…
 		<sorting>196575</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>1912</uid>
@@ -2106,8 +2106,8 @@ Zielorientierung umfasst…
 		<sorting>196576</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5637</uid>
@@ -2116,8 +2116,8 @@ Zielorientierung umfasst…
 		<sorting>196438</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5638</uid>
@@ -2126,8 +2126,8 @@ Zielorientierung umfasst…
 		<sorting>196439</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5639</uid>
@@ -2136,8 +2136,8 @@ Zielorientierung umfasst…
 		<sorting>196443</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5640</uid>
@@ -2146,8 +2146,8 @@ Zielorientierung umfasst…
 		<sorting>200248</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5641</uid>
@@ -2156,8 +2156,8 @@ Zielorientierung umfasst…
 		<sorting>200250</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5642</uid>
@@ -2166,8 +2166,8 @@ Zielorientierung umfasst…
 		<sorting>196461</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5643</uid>
@@ -2176,8 +2176,8 @@ Zielorientierung umfasst…
 		<sorting>196462</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5644</uid>
@@ -2186,8 +2186,8 @@ Zielorientierung umfasst…
 		<sorting>196464</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5645</uid>
@@ -2196,8 +2196,8 @@ Zielorientierung umfasst…
 		<sorting>196465</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5646</uid>
@@ -2206,8 +2206,8 @@ Zielorientierung umfasst…
 		<sorting>196466</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5647</uid>
@@ -2216,8 +2216,8 @@ Zielorientierung umfasst…
 		<sorting>196470</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5648</uid>
@@ -2226,8 +2226,8 @@ Zielorientierung umfasst…
 		<sorting>196473</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5649</uid>
@@ -2236,8 +2236,8 @@ Zielorientierung umfasst…
 		<sorting>196474</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5650</uid>
@@ -2246,8 +2246,8 @@ Zielorientierung umfasst…
 		<sorting>196477</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompdescriptors">
 		<uid>5651</uid>
@@ -2256,26 +2256,26 @@ Zielorientierung umfasst…
 		<sorting>196479</sorting>
 		<skillid>0</skillid>
 		<parent_id>0</parent_id>
-		<exampletext/>
-		<comment/>
+		<exampletext></exampletext>
+		<comment></comment>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>197</uid>
 		<title><![CDATA[ORDERING A MEAL]]></title>
 		<titleshort><![CDATA[ORDERING A MEAL]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8017</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
-		<description/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
+		<description></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www.oesz.at/download/esp_plattform/orderingameal.htm</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>10</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2283,21 +2283,21 @@ Zielorientierung umfasst…
 		<uid>211</uid>
 		<title><![CDATA[Wann lerne ich gerne?]]></title>
 		<titleshort><![CDATA[Wann lerne ich gerne?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8031</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 
 ]]></description>
 		<taxid>76</taxid>
 		<timeframe>15 Minuten</timeframe>
-		<ressources/>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=121]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>19</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2305,19 +2305,19 @@ Zielorientierung umfasst…
 		<uid>212</uid>
 		<title><![CDATA[Wie gehe ich mit Stress um?]]></title>
 		<titleshort><![CDATA[Wie gehe ich mit Stress um?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8032</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>77</taxid>
 		<timeframe>15 Minuten</timeframe>
-		<ressources/>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=122]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2325,19 +2325,19 @@ Zielorientierung umfasst…
 		<uid>213</uid>
 		<title><![CDATA[Umgehen mit Misserfolgen]]></title>
 		<titleshort><![CDATA[Umgehen mit Misserfolgen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8033</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>78</taxid>
 		<timeframe>2 Stunden</timeframe>
-		<ressources/>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=123]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2345,19 +2345,19 @@ Zielorientierung umfasst…
 		<uid>214</uid>
 		<title><![CDATA[Umgehen mit persönlichen Erfolgen]]></title>
 		<titleshort><![CDATA[Umgehen mit persönlichen Erfolgen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8034</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>78</taxid>
 		<timeframe>20 Minuten</timeframe>
-		<ressources/>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=124]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2365,20 +2365,20 @@ Zielorientierung umfasst…
 		<uid>215</uid>
 		<title><![CDATA[Lernreflexion]]></title>
 		<titleshort><![CDATA[Lernreflexion]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8035</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 ]]></description>
 		<taxid>79</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=125]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2386,19 +2386,19 @@ Zielorientierung umfasst…
 		<uid>216</uid>
 		<title><![CDATA[Mein Lieblingsarbeitsplatz]]></title>
 		<titleshort><![CDATA[Mein Lieblings- arbeitsplatz]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8036</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>76</taxid>
 		<timeframe>60 Minuten</timeframe>
-		<ressources/>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=126]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2406,19 +2406,19 @@ Zielorientierung umfasst…
 		<uid>217</uid>
 		<title><![CDATA[Mein idealer Lieblingsarbeitsplatz]]></title>
 		<titleshort><![CDATA[Mein idealer Lieblings- arbeitsplatz]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8037</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>78</taxid>
 		<timeframe>60 Minuten</timeframe>
-		<ressources/>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=127]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2426,19 +2426,19 @@ Zielorientierung umfasst…
 		<uid>218</uid>
 		<title><![CDATA[Ergonomischer Arbeitsplatz]]></title>
 		<titleshort><![CDATA[Ergonomischer Arbeitsplatz]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8038</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>78</taxid>
 		<timeframe>50 Minuten</timeframe>
-		<ressources/>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=135]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2446,19 +2446,19 @@ Zielorientierung umfasst…
 		<uid>222</uid>
 		<title><![CDATA[Meine Arbeitshaltung]]></title>
 		<titleshort><![CDATA[Meine Arbeitshaltung]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8164</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>79</taxid>
 		<timeframe>100 Minuten</timeframe>
-		<ressources/>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=132]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2466,20 +2466,20 @@ Zielorientierung umfasst…
 		<uid>223</uid>
 		<title><![CDATA[Regeln und Verordnungen]]></title>
 		<titleshort><![CDATA[Regeln und Verordnungen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8165</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 ]]></description>
 		<taxid>76</taxid>
 		<timeframe>20 Minuten</timeframe>
-		<ressources/>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=133]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2487,19 +2487,19 @@ Zielorientierung umfasst…
 		<uid>342</uid>
 		<title><![CDATA[Lebenswege 1]]></title>
 		<titleshort><![CDATA[Lebenswege 1]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8146</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>77</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=6]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2507,19 +2507,19 @@ Zielorientierung umfasst…
 		<uid>343</uid>
 		<title><![CDATA[Lebenswege 2]]></title>
 		<titleshort><![CDATA[Lebenswege 2]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8147</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=7]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2527,19 +2527,19 @@ Zielorientierung umfasst…
 		<uid>344</uid>
 		<title><![CDATA[Was ich in 15 Jahren können möchte]]></title>
 		<titleshort><![CDATA[Was ich in 15 Jahren können möchte?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8148</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=134]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2547,21 +2547,21 @@ Zielorientierung umfasst…
 		<uid>346</uid>
 		<title><![CDATA[Die starken Neun]]></title>
 		<titleshort><![CDATA[Die starken Neun]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8160</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Die starken Neun:
 Finde mindestens neun persönliche Stärken.
 Welche drei Stärken hat deine Freundin/dein Freund auch an dir wahrgenommen?]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[7.1.B;]]></tips>
 		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=5 </externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -2569,21 +2569,21 @@ Welche drei Stärken hat deine Freundin/dein Freund auch an dir wahrgenommen?]]>
 		<uid>359</uid>
 		<title><![CDATA[Die starken schwachen Zwei]]></title>
 		<titleshort><![CDATA[Die starken schwachen Zwei]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8162</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Die starken schwachen Zwei: Überleg dir Situationen, in denen die schwachen Zwei als Stärken wahrgenommen werden.
 
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[7.1.D ]]></tips>
 		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=41</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2591,20 +2591,20 @@ Welche drei Stärken hat deine Freundin/dein Freund auch an dir wahrgenommen?]]>
 		<uid>360</uid>
 		<title><![CDATA[Die schwachen Zwei]]></title>
 		<titleshort><![CDATA[Die schwachen Zwei]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8161</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Die schwachen Zwei: Finde zwei persönliche Schwächen.
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[7.1.B ]]></tips>
 		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=40</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2612,19 +2612,19 @@ Welche drei Stärken hat deine Freundin/dein Freund auch an dir wahrgenommen?]]>
 		<uid>361</uid>
 		<title><![CDATA[Glossar: Selbstwert]]></title>
 		<titleshort><![CDATA[Glossar: Selbstwert]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9363</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Selbstwert und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=175]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -2632,11 +2632,11 @@ Welche drei Stärken hat deine Freundin/dein Freund auch an dir wahrgenommen?]]>
 		<uid>362</uid>
 		<title><![CDATA[Wertekreis]]></title>
 		<titleshort><![CDATA[Wertekreis]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9372</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Es gibt materielle und immaterielle Werte. Den Menschen können Dinge, Beziehungen oder Ideen wichtig und wertvoll sein.
 Innerhalb einer Gruppe werden Werte gleich oder ähnlich definiert, zum Beispiel:
 •	materielle Werte: Geld, Besitz
@@ -2651,12 +2651,12 @@ Trag in den Wertekreis das heutige Datum und deine persönlichen Werte ein. Der 
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[7.1.D ]]></tips>
 		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=38</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2664,19 +2664,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>363</uid>
 		<title><![CDATA[Mein Umgang mit Zeit]]></title>
 		<titleshort><![CDATA[Mein Umgang mit Zeit]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8042</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=129]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2684,19 +2684,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>364</uid>
 		<title><![CDATA[Zeit planen]]></title>
 		<titleshort><![CDATA[Zeit planen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8043</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=130]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2704,19 +2704,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>365</uid>
 		<title><![CDATA[SMART-Analyse]]></title>
 		<titleshort><![CDATA[SMART-Analyse]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8163</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=136]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2724,19 +2724,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>366</uid>
 		<title><![CDATA[Kreativität und ich]]></title>
 		<titleshort><![CDATA[Kreativität und ich]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8166</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=137]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2744,20 +2744,20 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>367</uid>
 		<title><![CDATA[Begriff Kreativität]]></title>
 		<titleshort><![CDATA[Begriff Kreativität]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8167</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=138]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2765,20 +2765,20 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>368</uid>
 		<title><![CDATA[Kreativität und Alltag]]></title>
 		<titleshort><![CDATA[Kreativität und Alltag]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8168</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=139]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2786,19 +2786,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>369</uid>
 		<title><![CDATA[2031]]></title>
 		<titleshort><![CDATA[2031]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8169</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=140]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2806,19 +2806,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>372</uid>
 		<title><![CDATA[Stellenanzeige]]></title>
 		<titleshort><![CDATA[Stellenanzeige]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8172</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=141]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2826,20 +2826,20 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>373</uid>
 		<title><![CDATA[UTOPIA 1]]></title>
 		<titleshort><![CDATA[UTOPIA 1]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8173</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=142]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2847,19 +2847,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>374</uid>
 		<title><![CDATA[Mein UTOPIA]]></title>
 		<titleshort><![CDATA[Mein UTOPIA]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8174</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=143]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2867,21 +2867,21 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>375</uid>
 		<title><![CDATA[UTOPIA 2]]></title>
 		<titleshort><![CDATA[UTOPIA 2]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8175</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=144]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2889,19 +2889,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>376</uid>
 		<title><![CDATA[Planungsauftrag Schritt für Schritt]]></title>
 		<titleshort><![CDATA[Planungs- auftrag]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8176</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=145]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2909,19 +2909,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>377</uid>
 		<title><![CDATA[Erfolgsfaktoren Schritt für Schritt]]></title>
 		<titleshort><![CDATA[Erfolgsfaktoren]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8177</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=146]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2929,19 +2929,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>378</uid>
 		<title><![CDATA[Evaluation]]></title>
 		<titleshort><![CDATA[Evaluation]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8178</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=147]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2949,19 +2949,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>379</uid>
 		<title><![CDATA[Schwierigkeiten im Unterrichtsfach]]></title>
 		<titleshort><![CDATA[Probleme im Fach]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8179</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=148]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2969,19 +2969,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>380</uid>
 		<title><![CDATA[Selbstwirksamkeit]]></title>
 		<titleshort><![CDATA[Selbstwirk- samkeit]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8180</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=149]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -2989,19 +2989,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>381</uid>
 		<title><![CDATA[Transfer und vernetztes Denken]]></title>
 		<titleshort><![CDATA[Transfer und vernetztes Denken]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8181</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=150]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -3009,19 +3009,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>382</uid>
 		<title><![CDATA[Die Schokoseite des vernetzten Lernens]]></title>
 		<titleshort><![CDATA[Schokoseite des vernetzten Lernens]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8182</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=151]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -3029,19 +3029,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>383</uid>
 		<title><![CDATA[Präsentation: Die Schokolade]]></title>
 		<titleshort><![CDATA[Präsentation: Die Schokolade]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8183</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=152]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -3049,19 +3049,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>384</uid>
 		<title><![CDATA[Think outside your box]]></title>
 		<titleshort><![CDATA[Think outside your box]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8184</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=153]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -3069,19 +3069,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1505</uid>
 		<title><![CDATA[Meine Stimme zählt]]></title>
 		<titleshort><![CDATA[Meine Stimme zählt]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9302</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=64]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3089,19 +3089,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1506</uid>
 		<title><![CDATA[Gemeinschaft und Gesellschaft]]></title>
 		<titleshort><![CDATA[Gemeinschaft und Gesellschaft]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9303</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=63]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3109,20 +3109,20 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1507</uid>
 		<title><![CDATA[Glossar: Gesellschaft und Gesellschaftssstrukturen]]></title>
 		<titleshort><![CDATA[Glossar: Gesellschaft]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9304</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere die Begriffe Gesellschaft  und Gesellschaftsstrukturen  und füge die Ergebnisse in dein Glossar ein.
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=62]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3130,19 +3130,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1508</uid>
 		<title><![CDATA[Gut/belastende Geheimnisse]]></title>
 		<titleshort><![CDATA[Gut/belastende Geheimnisse]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9305</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=61]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3150,19 +3150,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1509</uid>
 		<title><![CDATA[Vertrauen beruht auf Gegenseitigkeit]]></title>
 		<titleshort><![CDATA[Vertrauen beruht auf Gegenseitigkeit]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9306</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=60]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3170,19 +3170,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1510</uid>
 		<title><![CDATA[Die Wurzeln der Vertraulichkeit]]></title>
 		<titleshort><![CDATA[Die Wurzeln der Vertraulichkeit]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9307</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=59]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3190,19 +3190,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1511</uid>
 		<title><![CDATA[Feedback zu deiner Hilfeleistung einholen]]></title>
 		<titleshort><![CDATA[Feedback zu deiner Hilfeleistung einholen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9309</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=58]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3210,19 +3210,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1512</uid>
 		<title><![CDATA[Du kannst viel für andere tun]]></title>
 		<titleshort><![CDATA[Du kannst viel für andere tun]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9308</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=57]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3230,19 +3230,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1513</uid>
 		<title><![CDATA[Du kannst viel für andere tun]]></title>
 		<titleshort><![CDATA[Du kannst viel für andere tun]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9310</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=56]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3250,19 +3250,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1514</uid>
 		<title><![CDATA[Hilfe! Hilfe?]]></title>
 		<titleshort><![CDATA[Hilfe! Hilfe?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9311</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=55]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3270,19 +3270,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1515</uid>
 		<title><![CDATA[Vier Schritte]]></title>
 		<titleshort><![CDATA[Vier Schritte]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9312</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=54]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3290,19 +3290,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1516</uid>
 		<title><![CDATA[Vier Schritte II]]></title>
 		<titleshort><![CDATA[Vier Schritte II]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9313</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=53]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3310,19 +3310,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1517</uid>
 		<title><![CDATA[Es hätte auch anders sein können]]></title>
 		<titleshort><![CDATA[Es hätte auch anders sein können]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9314</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=52]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3330,19 +3330,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1518</uid>
 		<title><![CDATA[Pyramidenbau]]></title>
 		<titleshort><![CDATA[Pyramidenbau]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9315</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=51]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3350,19 +3350,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1520</uid>
 		<title><![CDATA[Was macht sie so besonders?]]></title>
 		<titleshort><![CDATA[Was macht sie so besonders?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9317</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=49]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3370,19 +3370,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1521</uid>
 		<title><![CDATA[Die Würde des Menschen ist unantastbar]]></title>
 		<titleshort><![CDATA[Die Würde des Menschen ist unantastbar]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9318</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=48]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3390,19 +3390,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1522</uid>
 		<title><![CDATA[Dein Wort zählt]]></title>
 		<titleshort><![CDATA[Dein Wort zählt]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9319</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=47]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3410,19 +3410,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1523</uid>
 		<title><![CDATA[Respekt tut gut!]]></title>
 		<titleshort><![CDATA[Respekt tut gut!]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9320</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=46]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3430,19 +3430,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1524</uid>
 		<title><![CDATA[Was schreibst du wenn]]></title>
 		<titleshort><![CDATA[Was schreibst du wenn]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9321</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=76]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3450,19 +3450,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1525</uid>
 		<title><![CDATA[Motivationsschreiben]]></title>
 		<titleshort><![CDATA[Motivations- schreiben]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9322</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=75]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3470,19 +3470,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1526</uid>
 		<title><![CDATA[Wie schreibe ich was?]]></title>
 		<titleshort><![CDATA[Wie schreibe ich was?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9323</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=74]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3490,19 +3490,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1527</uid>
 		<title><![CDATA[Nähe und Distanz]]></title>
 		<titleshort><![CDATA[Nähe und Distanz]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9324</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=73]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3510,19 +3510,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1528</uid>
 		<title><![CDATA[Augen sprechen]]></title>
 		<titleshort><![CDATA[Augen sprechen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9325</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=72]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3530,19 +3530,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1529</uid>
 		<title><![CDATA[Hände sprechen]]></title>
 		<titleshort><![CDATA[Hände sprechen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9326</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=71]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3550,19 +3550,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1530</uid>
 		<title><![CDATA[Körper sprechen]]></title>
 		<titleshort><![CDATA[Körper sprechen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9327</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=70]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3570,19 +3570,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1531</uid>
 		<title><![CDATA[Kein Gespräch ist wie das andere]]></title>
 		<titleshort><![CDATA[Kein Gespräch ist wie das andere]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9328</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=69]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3590,20 +3590,20 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1532</uid>
 		<title><![CDATA[Übung für das Glossar]]></title>
 		<titleshort><![CDATA[Übung für das Glossar]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9329</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=68]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3611,19 +3611,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1533</uid>
 		<title><![CDATA[Kommunikationsmodelle 2]]></title>
 		<titleshort><![CDATA[Kommunikationsmodelle]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9330</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=67]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3631,19 +3631,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1534</uid>
 		<title><![CDATA[Kommunikationsmodelle]]></title>
 		<titleshort><![CDATA[Kommunikationsmodelle]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9331</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung! ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=66]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3651,11 +3651,11 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1535</uid>
 		<title><![CDATA[Wählt eure Ziele ... | Clever und Smart 1]]></title>
 		<titleshort><![CDATA[Clever &amp; Smart 1]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9536</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Denke an eine der nächsten Gruppenaufgaben, z. B.:
 
 Eine Projektarbeit steht an: Ihr sollt im Team ein Projekt zum Thema ……………………… umsetzen.
@@ -3667,12 +3667,12 @@ Setzt euch im Team zusammen und beantwortet folgende Fragen:
 Welche konkreten Ziele setzt ihr euch?
 Formuliert diese Ziele.]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=87]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=29</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3680,23 +3680,23 @@ Formuliert diese Ziele.]]></description>
 		<uid>1537</uid>
 		<title><![CDATA[Entscheidungsfindung in der Gruppe]]></title>
 		<titleshort><![CDATA[Entscheidungs-<br>findung in der Gruppe]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9534</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Was macht deiner Meinung nach eine gute Klassengemeinschaft aus? 
 Gibt es in eurer Klasse offizielle Verhaltensvereinbarungen? 
 Wie habt ihr diese Regeln aufgestellt?
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=85]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=26</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3704,19 +3704,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1538</uid>
 		<title><![CDATA[Glossar: Konsens]]></title>
 		<titleshort><![CDATA[Glossar: Konsens]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9462</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Konsens und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>77</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=84]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=23</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3724,21 +3724,21 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1540</uid>
 		<title><![CDATA[Welche Rolle/n spiele ich?]]></title>
 		<titleshort><![CDATA[Welche Rolle/n spiele ich?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9461</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/buehne.png</completefile>
 		<description><![CDATA[Markiere auf dem Plan deine Rollen in unterschiedlichen Farben (Klasse, Familie, Freundeskreis).
 
 Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wirst. Frag deine Familienmitglieder, Klassenkolleg/inn/en, Freunde/Freundinnen, wo sie dich auf dem Plan sehen und markiere diese Stellen mit einer anderen Farbe.]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=82]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=18</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -3746,20 +3746,20 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1545</uid>
 		<title><![CDATA[Glossar: Ressource]]></title>
 		<titleshort><![CDATA[Glossar: Ressource]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9334</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Ressource und füge das Ergebnis in dein Glossar ein.
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=77]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=7</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3767,19 +3767,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1546</uid>
 		<title><![CDATA[Auf dem Weg zur Lösung]]></title>
 		<titleshort><![CDATA[Auf dem Weg zur Lösung]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9343</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=97]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3787,19 +3787,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1547</uid>
 		<title><![CDATA[Standing in your shoes]]></title>
 		<titleshort><![CDATA[Standing in your shoes]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9344</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=96]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3807,20 +3807,20 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1548</uid>
 		<title><![CDATA[Einladung zur Teilnahme am Konflikt]]></title>
 		<titleshort><![CDATA[Einladung zur Teilnahme am Konflikt]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9345</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=95]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3828,20 +3828,20 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1549</uid>
 		<title><![CDATA[Konflikt-Anbahnung]]></title>
 		<titleshort><![CDATA[Konflikt-Anbahnung]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9346</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=94]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3849,19 +3849,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1550</uid>
 		<title><![CDATA[Ärgermüll-Deponie]]></title>
 		<titleshort><![CDATA[Ärgermüll-Deponie]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9347</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=93]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3869,19 +3869,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1551</uid>
 		<title><![CDATA[Positve Nebenwirkungen von Feedback]]></title>
 		<titleshort><![CDATA[Positve Neben- wirkungen von Feedback]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9348</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=92]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3889,19 +3889,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1552</uid>
 		<title><![CDATA[Das Leben ist ein Feedback-Slalom]]></title>
 		<titleshort><![CDATA[Das Leben ist ein Feedback-Slalom]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9349</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=91]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3909,19 +3909,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1553</uid>
 		<title><![CDATA[Fragebogen für Leute, die gerade ein Problem haben]]></title>
 		<titleshort><![CDATA[Fragebogen bei Problemen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9350</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=90]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3929,19 +3929,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1554</uid>
 		<title><![CDATA[Widersprüche und Interessen in mir]]></title>
 		<titleshort><![CDATA[Widersprüche und Interessen in mir]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9351</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=89]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3949,19 +3949,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1555</uid>
 		<title><![CDATA[Nach den Bedürfnissen tauchen]]></title>
 		<titleshort><![CDATA[Nach den Bedürfnissen Tauchen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9352</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=88]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3969,19 +3969,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1556</uid>
 		<title><![CDATA[Inselübung]]></title>
 		<titleshort><![CDATA[Inselübung]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9353</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=102]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -3989,19 +3989,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1557</uid>
 		<title><![CDATA[Wind in das Segel bringen]]></title>
 		<titleshort><![CDATA[Wind in das Segel bringen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9354</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=101]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4009,19 +4009,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1558</uid>
 		<title><![CDATA[Entscheiden und verantworten]]></title>
 		<titleshort><![CDATA[Entscheiden und verantworten]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9355</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=100]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4029,19 +4029,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1559</uid>
 		<title><![CDATA[Was und wieviel lässt du zu?]]></title>
 		<titleshort><![CDATA[Was und wieviel lässt du zu?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9356</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=99]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4049,19 +4049,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1560</uid>
 		<title><![CDATA[Das passt mir]]></title>
 		<titleshort><![CDATA[Das passt mir]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9357</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=98]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4069,19 +4069,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1561</uid>
 		<title><![CDATA[Meine Rollen]]></title>
 		<titleshort><![CDATA[Meine Rollen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9358</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=107]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4089,19 +4089,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1562</uid>
 		<title><![CDATA[Die Umfrage]]></title>
 		<titleshort><![CDATA[Die Umfrage]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9359</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=106]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4109,19 +4109,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1563</uid>
 		<title><![CDATA[Die Erkundung]]></title>
 		<titleshort><![CDATA[Die Erkundung]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9360</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=105]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4129,19 +4129,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1564</uid>
 		<title><![CDATA[Statuswippe]]></title>
 		<titleshort><![CDATA[Statuswippe]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9361</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=104]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4149,19 +4149,19 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1565</uid>
 		<title><![CDATA[Goes und No goes]]></title>
 		<titleshort><![CDATA[Goes und No goes]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9362</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=103]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4169,22 +4169,22 @@ Stelle fest, wie deine Selbsteinschätzung ist und wie du von anderen gesehen wi
 		<uid>1566</uid>
 		<title><![CDATA[Wege zur Zukunft]]></title>
 		<titleshort><![CDATA[Wege zur Zukunft]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9375</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Den eigenen Zielen auf der Spur:
 Du hast dir sicher bereits Gedanken über deine Zukunft gemacht. Weißt du schon, wohin dein Weg dich führen wird? Welche Wege du gehen möchtest? Verrückte? Unkonventionelle? Vertraute?
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=108</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4192,19 +4192,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1567</uid>
 		<title><![CDATA[Glossar: Norm]]></title>
 		<titleshort><![CDATA[Glossar: Norm]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9376</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Norm und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=109]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4212,22 +4212,22 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1568</uid>
 		<title><![CDATA[Lebens-Wert?]]></title>
 		<titleshort><![CDATA[Lebens-Wert?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9538</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/normenwerte.jpg</completefile>
 		<description><![CDATA[Hör dir den Rap „Falsche Werte“ von Nazar an: http://www.youtube.com/watch?v=Iasb_6xv8AU
 Hör dir den kunstundkultur-rap an: http://www.kukiz.at/wtf.html
 
 Bearbeite das Bild!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=110</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4235,21 +4235,21 @@ Bearbeite das Bild!]]></description>
 		<uid>1574</uid>
 		<title><![CDATA[Menschen und Werte]]></title>
 		<titleshort><![CDATA[Menschen und Werte]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9539</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Suche nach Biographien von Menschen, die sich für besondere Werte eingesetzt haben (zB. für Gewaltfreiheit, gegen Apartheit, für Tierschutz, für Wahlrecht, für Frieden etc.)
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=115</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4257,21 +4257,21 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1577</uid>
 		<title><![CDATA[Ich gehe mit meiner Umwelt und mit mir achtsam um]]></title>
 		<titleshort><![CDATA[Ich gehe achtsam um]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9541</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Lukas (15 Jahre) hat in einem mutigen Selbstversuch eine ganze Woche lang auf Fernseher, Computer usw. verzichtet: Er hat überlebt!
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=117</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4279,21 +4279,21 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1579</uid>
 		<title><![CDATA[Thinking about]]></title>
 		<titleshort><![CDATA[Thinking about]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9543</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Denk an eine wichtige Entscheidung, die du in letzter Zeit für dich getroffen hast. Woran hast du gedacht, was hat dir geholfen bzw. was hat dich veranlasst, die Entscheidung so zu treffen?
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www.oezeps.at/moodle/course/view.php?id=119</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4301,19 +4301,19 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1581</uid>
 		<title><![CDATA[Übung für das Glossar]]></title>
 		<titleshort><![CDATA[Übung für das Glossar]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9378</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Beispiel steht in Kürze zur Verfügung!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://www.oezeps.at/moodle/course/view.php?id=128]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4321,10 +4321,10 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1672</uid>
 		<title><![CDATA[Wo gehts hier zu mir?]]></title>
 		<titleshort><![CDATA[Wo gehts hier zu mir?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8150</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/wogehtshierzumir.jpg</completefile>
 		<description><![CDATA[Viele Menschen werden als Original geboren und sterben als Kopie. (Johann Caspar Schmid, 1806–1856; auch bekannt unter dem Pseudonym Max Stirner)
 
@@ -4337,35 +4337,35 @@ ein Bild/Foto von dir bearbeiten oder deine eigenen Umrisse zeichnen und einfüg
 4. Schreib die Antwort/en zu den Beinen: Welche Ziele verfolgst du?
 5. Schreib die Antwort/en zu den Armen: Welche Ideale hast du bzw. woran glaubst du?]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=4</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
-		<iseditable>0</iseditable>
+		<iseditable>1</iseditable>
 	</table>
 	<table name="block_exacompexamples">
 		<uid>1673</uid>
 		<title><![CDATA[Kennst du die Regeln?]]></title>
 		<titleshort><![CDATA[Kennst du die Regeln?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9540</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Regeln können ein positives Miteinander fördern, z.B. Klassen-, Spiel- oder Verkehrsregeln. 
 Sie dienen zur Orientierung und der Sicherheit und erleichtern manchmal den Umgang miteinander.
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://oezeps.at/moodle/course/view.php?id=159</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4373,22 +4373,22 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1675</uid>
 		<title><![CDATA[Ich für mich]]></title>
 		<titleshort><![CDATA[Ich für mich]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9542</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Gehörst auch du zu den Menschen, die immer erreichbar oder informiert sein wollen?
 
 Falls dir das passiert, besuche die Seite http://www.alleinr.de/.
 ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://oezeps.at/moodle/course/view.php?id=160</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4396,19 +4396,19 @@ Falls dir das passiert, besuche die Seite http://www.alleinr.de/.
 		<uid>1677</uid>
 		<title><![CDATA[Erfolgreiche Teams brauchen...]]></title>
 		<titleshort><![CDATA[Erfolgreiche Teams brauchen...]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9653</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/stiege.jpg</completefile>
 		<description><![CDATA[Als Einstieg schau dir die Werbespots im Browser an. Was macht die Teams in den drei Werbespots so erfolgreich? Schreibe die Erfolgsfaktoren auf. ]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
+		<timeframe></timeframe>
 		<ressources>http://oezeps.at/moodle/course/view.php?id=161</ressources>
-		<tips/>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=5</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4416,22 +4416,22 @@ Falls dir das passiert, besuche die Seite http://www.alleinr.de/.
 		<uid>1678</uid>
 		<title><![CDATA[Ich in meinem Dream-Team]]></title>
 		<titleshort><![CDATA[Ich in meinem Dream-Team]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9342</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Was macht ein gutes und erfolgreiches Team aus? Welche Voraussetzungen sind für gute Zusammenarbeit notwendig? Schau dir das Bild mit den tierischen Teammitgliedern an. Öffne dafür das Beispiel im Browser.
 Welche Stärken werden den jeweiligen Tieren zugeschrieben? Welchem dieser Typen entsprichst du am ehesten? Findest du keine passende Abbildung für dich? Dann suche dir eine oder zeichne selbst ein Tier, das deinen Stärken entspricht.
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=162]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=10</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4439,22 +4439,22 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1679</uid>
 		<title><![CDATA[Stelle dein Team zusammen - Mitglieder]]></title>
 		<titleshort><![CDATA[Stelle dein Team zusammen 1]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9457</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/team_zusammenstellen2.png</completefile>
 		<description><![CDATA[Ein Gedankenspiel (Was wäre, wenn...)
 Stell dir vor, du könntest dir für die nächste Gruppenarbeit in der Klasse dein eigenes Team zusammenstellen: Welche/n deiner Klassenkolleg/inn/en holst du ins Team?
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=163]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=11</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4462,21 +4462,21 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1680</uid>
 		<title><![CDATA[Bewirb dich für das Dream-Team]]></title>
 		<titleshort><![CDATA[Bewirb dich für das Dream-Team]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9655</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[In deiner Klasse/Schule/deinem Verein werden unterschiedliche Projekte geplant. Nenne ein Projekt, an dem du gerne mitarbeiten willst. Du möchtest ins Team! Mit welchen Stärken/Kompetenzen kannst du überzeugen? Welche Ressourcen kannst du einbringen?
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=164]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=15</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4484,21 +4484,21 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1681</uid>
 		<title><![CDATA[Einfach zum Nachschauen/Nachlesen/Nachdenken]]></title>
 		<titleshort><![CDATA[Einfach zum Nachschauen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9660</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Schau dir das Video von Meredith Belbin an.
 
 Rufe weitere Informationen über den Browser ab!]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=165]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=20</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4506,10 +4506,10 @@ Rufe weitere Informationen über den Browser ab!]]></description>
 		<uid>1682</uid>
 		<title><![CDATA[Was bleibt? Entscheiden mit System]]></title>
 		<titleshort><![CDATA[Was bleibt? Entscheiden mit System]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9662</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/skala.png</completefile>
 		<description><![CDATA[Eine spezielle Methode, um zu einem Konsens zu kommen, ist das „Systemische Konsensieren“.
 Markiere auf einer Skala von 1 bis 10, für wie sinnvoll du diese Methode hältst.Begründe deine Einschätzung. Gibt es in deinem privaten und schulischen Alltag Situationen, in denen du diese Methode
@@ -4517,12 +4517,12 @@ sinnvoll anwenden kannst? Nenne mindestens zwei Beispiele.
 
 Bearbeite das Bild!]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=166]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=28</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4530,19 +4530,19 @@ Bearbeite das Bild!]]></description>
 		<uid>1752</uid>
 		<title><![CDATA[Glossar: Kompetenz]]></title>
 		<titleshort><![CDATA[Glossar: Kompetenz]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9335</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Kompetenz und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>77</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=169]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=8</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4550,19 +4550,19 @@ Bearbeite das Bild!]]></description>
 		<uid>1753</uid>
 		<title><![CDATA[Glossar: Kooperation]]></title>
 		<titleshort><![CDATA[Glossar: Kooperation]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9337</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Kooperation und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>77</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=170]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=9</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4570,21 +4570,21 @@ Bearbeite das Bild!]]></description>
 		<uid>1754</uid>
 		<title><![CDATA[Einfach zum Nachlesen]]></title>
 		<titleshort><![CDATA[Einfach zum Nachlesen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9657</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/sprechblase.png</completefile>
 		<description><![CDATA[Viele erfolgreiche Menschen verdanken ihre Errungenschaften guter Zusammenarbeit. Einer von ihnen ist der Apple-Gründer Steve Jobs. Die Beatles waren Vorbild für sein Geschäftsmodell.
 
 Rufe weitere Informationen über den Browser ab!]]></description>
 		<taxid>77</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=168]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=16</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4592,19 +4592,19 @@ Rufe weitere Informationen über den Browser ab!]]></description>
 		<uid>1755</uid>
 		<title><![CDATA[Glossar: Vereinbarung]]></title>
 		<titleshort><![CDATA[Glossar: Vereinbarung]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9532</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Vereinbarung und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>77</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=172]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=25</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4612,19 +4612,19 @@ Rufe weitere Informationen über den Browser ab!]]></description>
 		<uid>1756</uid>
 		<title><![CDATA[Glossar: Orientierung]]></title>
 		<titleshort><![CDATA[Glossar: Orientierung]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9533</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Orientierung und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>77</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=171]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=24</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4632,11 +4632,11 @@ Rufe weitere Informationen über den Browser ab!]]></description>
 		<uid>1757</uid>
 		<title><![CDATA[Wählt eure Ziele ... | Clever und Smart 2]]></title>
 		<titleshort><![CDATA[Clever und Smart 2]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9537</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Denke an eine der nächsten Gruppenaufgaben, z. B.:
 
 Eine Projektarbeit steht an: Ihr sollt im Team ein Projekt zum Thema ……………………… umsetzen.
@@ -4650,12 +4650,12 @@ Wie viele der Kriterien erfüllen eure Zielformulierungen?
 Ist es notwendig, eure Ziele umzuformulieren, damit sie auch wirklich SMART sind?
 ]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=173]]></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=30</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4663,19 +4663,19 @@ Ist es notwendig, eure Ziele umzuformulieren, damit sie auch wirklich SMART sind
 		<uid>1758</uid>
 		<title><![CDATA[Glossar: Wert]]></title>
 		<titleshort><![CDATA[Glossar: Wert]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9377</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Wert und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=179]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4683,19 +4683,19 @@ Ist es notwendig, eure Ziele umzuformulieren, damit sie auch wirklich SMART sind
 		<uid>1759</uid>
 		<title><![CDATA[Glossar: Regel]]></title>
 		<titleshort><![CDATA[Glossar: Regel]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9454</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Regel und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=180]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4703,19 +4703,19 @@ Ist es notwendig, eure Ziele umzuformulieren, damit sie auch wirklich SMART sind
 		<uid>1760</uid>
 		<title><![CDATA[Glossar: Selbstvertrauen]]></title>
 		<titleshort><![CDATA[Glossar: Selbstvertrauen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9364</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Selbstvertrauen und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=176]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4723,19 +4723,19 @@ Ist es notwendig, eure Ziele umzuformulieren, damit sie auch wirklich SMART sind
 		<uid>1761</uid>
 		<title><![CDATA[Glossar: Selbstbewusstsein]]></title>
 		<titleshort><![CDATA[Glossar: Selbstbewusstsein]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9365</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Selbstbewusstsein und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=177]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4743,19 +4743,19 @@ Ist es notwendig, eure Ziele umzuformulieren, damit sie auch wirklich SMART sind
 		<uid>1762</uid>
 		<title><![CDATA[Glossar: Selbstbestimmtheit]]></title>
 		<titleshort><![CDATA[Glossar: Selbstbestimmtheit]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9366</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Recherchiere den Begriff Selbstbestimmtheit und füge das Ergebnis in dein Glossar ein.]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
+		<timeframe></timeframe>
+		<ressources></ressources>
 		<tips><![CDATA[http://oezeps.at/moodle/course/view.php?id=178]]></tips>
-		<externalurl/>
-		<externalsolution/>
-		<externaltask/>
+		<externalurl></externalurl>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4763,21 +4763,21 @@ Ist es notwendig, eure Ziele umzuformulieren, damit sie auch wirklich SMART sind
 		<uid>1763</uid>
 		<title><![CDATA[Tipp: Selbstbewusstsein u. Reflexion]]></title>
 		<titleshort><![CDATA[Tipp: Selbstbewusstsein u. Reflexion]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>8159</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Sich Klarheit über die eigenen Stärken und Grenzen zu schaffen, erleichtert die Auswahl jener Strategien, mit denen man seine Ziele verfolgt.
 
 Bearbeite das Beispiel im Browser!]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://oezeps.at/moodle/course/view.php?id=174</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4785,21 +4785,21 @@ Bearbeite das Beispiel im Browser!]]></description>
 		<uid>1873</uid>
 		<title><![CDATA[Lebens-Wert 2]]></title>
 		<titleshort><![CDATA[Lebens-Wert 2]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9652</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Wenn du dich kreativ betätigen willst, schreib einen Text, einen Song, einen Rap, male ein
 Bild, gestalte eine Collage oder Decollage, fotografiere, halte ein Interview fest etc.
 Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<taxid>0</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://oezeps.at/moodle/course/view.php?id=182</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4807,22 +4807,22 @@ Lade das Ergebnis hoch oder gib einen Link dazu an.]]></description>
 		<uid>1874</uid>
 		<title><![CDATA[Zu welchen Teams gehörst du?]]></title>
 		<titleshort><![CDATA[Zu welchen Teams gehörst du?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9332</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Erfolgreiche Teams gibt es in den Bereichen Sport, Film, Musik, Politik, Wirtschaft etc.
 Sicher kennst auch du tolle Teams in deiner Klasse, deinem Verein, deinem Freundeskreis.
 
 Zu welchen Teams gehörst du?]]></description>
 		<taxid>77</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=6</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4830,10 +4830,10 @@ Zu welchen Teams gehörst du?]]></description>
 		<uid>1875</uid>
 		<title><![CDATA[Stelle dein Team zusammen - Kompetenzen]]></title>
 		<titleshort><![CDATA[Stelle dein Team zusammen 2]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9458</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/team_zusammenstellen1.png</completefile>
 		<description><![CDATA[Stell dir vor, du könntest dir für die nächste Gruppenarbeit in der Klasse dein eigenes Team
 zusammenstellen:
@@ -4841,12 +4841,12 @@ zusammenstellen:
 Wie sind die Gruppen für die unterschiedlichen Aufgaben zusammengesetzt?
 Welche Kompetenzen und Ressourcen sind aus deiner Sicht für die jeweiligen Aufgabe wichtig?]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=12</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4854,21 +4854,21 @@ Welche Kompetenzen und Ressourcen sind aus deiner Sicht für die jeweiligen Aufg
 		<uid>1876</uid>
 		<title><![CDATA[Stelle dein Team zusammen - Auswahl]]></title>
 		<titleshort><![CDATA[Stelle dein Team zusammen 3]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9459</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/auswahl_kritisch_betrachtet.png</completefile>
 		<description><![CDATA[Zusammenstellung des Teams
 
 Betrachte deine Auswahl kritisch. Hast du beim vorigen Beispiel ein gutes Team zusammengestellt?]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=13</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4876,21 +4876,21 @@ Betrachte deine Auswahl kritisch. Hast du beim vorigen Beispiel ein gutes Team z
 		<uid>1878</uid>
 		<title><![CDATA[Stelle dein Team zusammen - Feedback]]></title>
 		<titleshort><![CDATA[Stelle dein Team zusammen 4]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9654</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/feedback_01.png</completefile>
 		<description><![CDATA[Feedback von Mitschüler/in
 
 Bitte eine/n Mitschüler/in, dir zu deinen Überlegungen Feedback zu geben. Erstelle dazu eine Freigabe mit deinen ausgearbeiteten Beispielen aus 3.1.C in deinem ePortfolio. Orientiere dich dabei an folgender Grafik.]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=14</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4898,21 +4898,21 @@ Bitte eine/n Mitschüler/in, dir zu deinen Überlegungen Feedback zu geben. Erst
 		<uid>1879</uid>
 		<title><![CDATA[Stärken und Schwächen]]></title>
 		<titleshort><![CDATA[Stärken und Schwächen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9460</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Welche individuellen Eigenschaften, Fähigkeiten, Werteinstellungen, Stärken und
 Schwächen machen dich aus? Welche setzt du, je nach Gruppe und Situation, bewusst oder
 unbewusst ein?]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=17</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4922,10 +4922,10 @@ unbewusst ein?]]></description>
 
 ]]></title>
 		<titleshort><![CDATA[Welche Rolle/n übernehme ich heute?]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9658</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/buehne_01.png</completefile>
 		<description><![CDATA[Welche Rolle/n übernimmst du heute in der Klasse?
 Welche Rolle/n übernimmst du in deiner Familie?
@@ -4936,12 +4936,12 @@ z.B.: Ich stehe auf der Bühne, bin Schauspieler/in und unterhalte das Publikum 
 
 Verwende im Text für Klasse, Familie und Freundeskreis unterschiedliche Farben.]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=19</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4951,22 +4951,22 @@ Verwende im Text für Klasse, Familie und Freundeskreis unterschiedliche Farben.
 
 ]]></title>
 		<titleshort><![CDATA[Zuordnung von Rollentypen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9659</sorting>
-		<solution/>
-		<attachement/>
+		<solution></solution>
+		<attachement></attachement>
 		<completefile>http://bist.edugroup.at/uploads/tx_exabiscompetences/rollen_bild.png</completefile>
 		<description><![CDATA[Ordne den Abbildungen die verschiedenen Rollentypen von Belbin zu. Welche Rollen nimmst du häufig ein?
 Markiere jene Bereiche, die deinen Stärken entsprechen mit +, jene Rollen die du gerne einmal ausprobieren möchtest mit ! und jene Rollen die du auf keinen Fall übernehmen möchtest mit -.
 
 Tausche dich anschließend mit Mitschüler/inne/n und Freund/inn/en über deine Rollenerfahrungen aus! Erstelle dazu einen Eintrag in deinem ePortfolio und gib einem Mitschüler/in diesen Inhalt frei.]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=21</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>0</iseditable>
 	</table>
@@ -4974,11 +4974,11 @@ Tausche dich anschließend mit Mitschüler/inne/n und Freund/inn/en über deine 
 		<uid>1882</uid>
 		<title><![CDATA[Ungewohnte Rollen]]></title>
 		<titleshort><![CDATA[Ungewohnte Rollen]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9661</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Versuche in einer der nächsten Gruppenarbeiten, Klassendiskussionen o.ä. eine neue, dir ungewohnte Rolle zu übernehmen. Beantworte nach der Gruppenarbeit, Klassendiskussion etc. folgende Fragen:
 Wie ist es dir in der neu ausprobierten Rolle ergangen? Wie hast du dich gefühlt? Wie haben die anderen darauf reagiert?
 
@@ -4986,12 +4986,12 @@ Entspricht diese Rolle auch deiner Person/Persönlichkeit? Lässt sich diese Rol
 
 Welche Kompetenzen musst du dir eventuell noch aneignen, um diese Rolle wirklich optimal ausüben zu können?]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=22</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -4999,23 +4999,23 @@ Welche Kompetenzen musst du dir eventuell noch aneignen, um diese Rolle wirklich
 		<uid>1883</uid>
 		<title><![CDATA[Heimliche Regeln]]></title>
 		<titleshort><![CDATA[Heimliche Regeln]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9535</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Neben offiziellen Vereinbarungen in einer Klasse gibt es auch immer „heimliche“ Regeln.
 Vervollständige die folgenden Sätze und füge – wenn du willst – noch einige hinzu.
 
 In unserer Gruppe wird es nicht gern gesehen, dass du …
 Unsere Gruppe verlangt von dir, dass du …]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=27</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
@@ -5023,11 +5023,11 @@ Unsere Gruppe verlangt von dir, dass du …]]></description>
 		<uid>1884</uid>
 		<title><![CDATA[Wählt eure Ziele ... | Clever und Smart 3]]></title>
 		<titleshort><![CDATA[Clever und Smart 3]]></titleshort>
-		<task/>
+		<task></task>
 		<sorting>9663</sorting>
-		<solution/>
-		<attachement/>
-		<completefile/>
+		<solution></solution>
+		<attachement></attachement>
+		<completefile></completefile>
 		<description><![CDATA[Denke an eine der nächsten Gruppenaufgaben, z. B.:
 
 Eine Projektarbeit steht an: Ihr sollt im Team ein Projekt zum Thema ……………………… umsetzen.
@@ -5044,12 +5044,12 @@ Wann/bis wann ist etwas zu erledigen, damit das Ergebnis erreicht wird?
 Woran erkennt ihr, dass ihr euer Ziel erreicht habt?
 Bei unserem nächsten gemeinsamen Projekt achten wir als kooperierende Gruppe auf Folgendes: …]]></description>
 		<taxid>78</taxid>
-		<timeframe/>
-		<ressources/>
-		<tips/>
+		<timeframe></timeframe>
+		<ressources></ressources>
+		<tips></tips>
 		<externalurl>http://www2.edumoodle.at/epop/course/view.php?id=31</externalurl>
-		<externalsolution/>
-		<externaltask/>
+		<externalsolution></externalsolution>
+		<externaltask></externaltask>
 		<lang>0</lang>
 		<iseditable>1</iseditable>
 	</table>
