@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exacomp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="exacomp.xsd">
+
+	<skills>
+		<skill id="1">
+			<title>Hören</title>
+		</skill>
+		<skill id="2">
+			<title>Lesen</title>
+		</skill>
+		<skill id="3">
+			<title>Schreiben</title>
+		</skill>
+	</skills>
+	<niveaus>
+		<niveau id="1">
+			<title>A1</title>
+			<children>
+			    <niveau id="11">
+			        <title >A1.1 </title>
+			    </niveau>
+			    <niveau id="12">
+			        <title >A1.2</title>
+			    </niveau>
+			</children>
+		</niveau>
+		<niveau id="2">
+			<title>A2</title>
+		</niveau>
+		<niveau id="3">
+			<title>B1</title>
+		</niveau>
+		<niveau id="4">
+			<title>B2</title>
+		</niveau>
+	</niveaus>
+	<taxonomies>
+		<taxonomy id="1">
+			<title>Kenntnis</title>
+			<children>
+			    <taxonomy id="11">
+			        <title>Gute Kenntnis</title>
+			    </taxonomy>
+			    <taxonomy id="12">
+			        <title>Sehr gute Kenntnis</title>
+			    </taxonomy>
+			</children>
+		</taxonomy>
+		<taxonomy id="2">
+			<title>Verständnis</title>
+		</taxonomy>
+		<taxonomy id="3">
+			<title>Anwendung</title>
+		</taxonomy>
+	</taxonomies>
+	<categories>
+	    <category id="1">
+	        <title>LFS 1</title>
+	        <lvl>4</lvl>
+	        <children>
+	            <category id="11">
+	                <title>LFS 1.1</title>
+	                <lvl>4</lvl>
+	            </category>
+	        </children>
+	    </category>
+	    <category id="2">
+	        <title>LFS 2</title>
+	        <lvl>4</lvl>
+	    </category>
+	    <category id="3">
+	        <title>Zuhören und Sprechen</title>
+	        <lvl>3</lvl>
+	    </category>
+	    <category id="4">
+	        <title>Schreiben</title>
+	        <lvl>3</lvl>
+	    </category>
+	</categories>
+	<examples>
+		<example id="1" taxid="2">
+			<title>Mengenbeziehungen</title>
+			<task>http://bist.edugroup.at/uploads/tx_exabiscompetences/1_masse_u_zahlen_mengenbeziehungen.pdf</task>
+		</example>
+		<example id="2" taxid="2">
+			<!-- Titel -->
+			<title>Dateimanagement – Das Haus</title>
+			<!-- Kurzbeschreibung -->
+			<description>Ein Haus wird in einem Ordnersystem abgebildet. Die Ordner beschreiben Räume und Möbel. Die Textdateien symbolisieren Gegenstände. Es herrscht große Unordnung in diesem System. Deine Aufgabe ist es, Ordnung in das Haus zu bringen.</description>
+			<!-- Zeitdauer -->
+			<timeframe>3</timeframe>
+			<!-- Bild zum Lernpaket -->
+			<image>http://www.edugroup.at/typo3temp/pics/0_a7a65df4fb.png</image>
+			<!-- Autoren -->
+			<authors>
+				<author>Mag.Günther Schwarz</author>
+				<author>Mag.Joachim Jorgensen</author>
+			</authors>
+			<!-- Schulstufen -->
+			<levels>
+				<level>5</level>
+				<level>6</level>
+				<level>7</level>
+				<level>8</level>
+			</levels>
+			<!-- Metadaten -->
+			<metalink>
+				http://www.digikomp.at/digikomp8nms-ahs-unterstufe/unterrichtsbeispiele/detail/dateimanagement-das-haus.html
+			</metalink>
+			<!-- Lernpaket -->
+			<packagelink>
+				http://aufgabensammlung8.digikomp.at/course/view.php?id=12
+			</packagelink>
+			<!-- Kurssicherung -->
+			<restorelink>
+				http://www.edugroup.at/fileadmin/DAM/Gegenstandsportale/Digitale_Kompetenzen/Moodle/digikomp8/Beispiele/004_Dateimanagement_Haus/sicherung-moodle2-course-12-dateimanagement_-_das_haus-20140116-0842.mbz
+			</restorelink>
+			<!-- Stichwörter -->
+			<keywords>
+				<keyword>Moodlekurs</keyword>
+				<keyword>Dateimanagement</keyword>
+			</keywords>
+		</example>
+	</examples>
+	<descriptors>
+		<descriptor id="1" skillid="3">
+			<title>Die Schülerinnen und Schüler können Erlebnisse zuhörerbezogen erzählen.</title>
+			<examples>
+				<exampleid id="2" />
+			</examples>
+		</descriptor>
+		<descriptor id="2" skillid="1" niveauid="2">
+			<title>Die Schülerinnen und Schüler können über Begebenheiten und Erfahrungen verständlich sowie thematisch zusammenhängend sprechen.</title>
+		</descriptor>
+		<descriptor id="3">
+			<title>Die Schülerinnen und Schüler können passende Lösungswege finden.</title>
+			<examples>
+				<exampleid id="2" />
+			</examples>
+		</descriptor>
+	</descriptors>
+	<edulevels>
+		<edulevel id="1">
+			<title>Grundschule</title>
+			<schooltypes>
+				<schooltype id="1">
+					<title>Volksschule</title>
+					<subjects>
+						<subject id="1">
+							<title>Deutsch</title>
+							<topics>
+								<topic id="1">
+									<title>1. Verständlich erzählen und anderen verstehend zuhören</title>
+									<descriptors>
+										<descriptorid id="1" />
+									</descriptors>
+								</topic>
+								<topic id="2" categoryid="1">
+									<title>2. Informationen einholen und sie an andere weitergeben</title>
+									<descriptors>
+										<descriptorid id="2" />
+									</descriptors>
+								</topic>
+							</topics>
+						</subject>
+						<subject id="2" categoryid="2">
+							<title>Mathematik</title>
+							<topics>
+								<topic id="3">
+									<title>AK 1.1 Eine Sachsituation in ein mathematisches Modell (Terme und Gleichungen) übertragen, dieses lösen und auf die Ausgangssituation beziehen</title>
+									<descriptors>
+										<descriptorid id="3" />
+									</descriptors>
+								</topic>
+							</topics>
+						</subject>
+					</subjects>
+				</schooltype>
+			</schooltypes>
+		</edulevel>
+	</edulevels>
+</exacomp>
