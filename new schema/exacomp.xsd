@@ -73,17 +73,23 @@
 			<xs:element ref="timeframe" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="task" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="solution" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="attachment" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="attachement" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="completefile" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="resources" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="ressources" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="tips" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="externalurl" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="externalsolution" minOccurs="0"
 				maxOccurs="1" />
 			<xs:element ref="externaltask" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="sorting" minOccurs="0" maxOccurs="1" />
+			<!-- fields added because of occurence in former export -->
+			<xs:element ref="lang" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="iseditable" minOccurs="0" maxOccurs="1" />
 			<!-- edugroup fields -->
 			<xs:element ref="image" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="metalink" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="packagelink" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="restorelink" minOccurs="0" maxOccurs="1" />
 			<xs:element name="authors" minOccurs="0" maxOccurs="1">
 				<xs:complexType>
 					<xs:sequence>
@@ -98,9 +104,6 @@
 					</xs:sequence>
 				</xs:complexType>
 			</xs:element>
-			<xs:element ref="metalink" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="packagelink" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="restorelink" minOccurs="0" maxOccurs="1" />
 			<xs:element name="keywords" minOccurs="0" maxOccurs="1">
 				<xs:complexType>
 					<xs:sequence>
@@ -150,6 +153,16 @@
 			<xs:element ref="titleshort" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="sorting" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="description" minOccurs="0" maxOccurs="1" />
+			<!-- Optional elements for LIS -->
+			<xs:element ref="requirement" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="benefit" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="knowledgecheck" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="Ataxonomie" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="Btaxonomie" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="Ctaxonomie" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="Dtaxonomie" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="Etaxonomie" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="Ftaxonomie" minOccurs="0" maxOccurs="1" />
 			<xs:element name="children" minOccurs="0" maxOccurs="1">
 				<xs:complexType>
 					<xs:sequence>
@@ -169,16 +182,6 @@
 					</xs:sequence>
 				</xs:complexType>
 			</xs:element>
-			<!-- Optional elements for LIS -->
-			<xs:element ref="requirements" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="benefit" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="knowledgecheck" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="Ataxonomy" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="Btaxonomy" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="Ctaxonomy" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="Dtaxonomy" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="Etaxonomy" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="Ftaxonomy" minOccurs="0" maxOccurs="1" />
 		</xs:sequence>
 		<xs:attribute name="id" type="xs:integer" />
 		<xs:attribute name="categoryid" type="xs:integer" />
@@ -189,6 +192,8 @@
 			<xs:element ref="title" />
 			<xs:element ref="titleshort" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="sorting" minOccurs="0" maxOccurs="1" />
+			<!-- Optional elements for LIS -->
+			<xs:element ref="number" minOccurs="0" maxOccurs="1" />
 			<xs:element name="topics">
 				<xs:complexType>
 					<xs:sequence>
@@ -196,8 +201,6 @@
 					</xs:sequence>
 				</xs:complexType>
 			</xs:element>
-			<!-- Optional elements for LIS -->
-			<xs:element ref="number" minOccurs="0" maxOccurs="1" />
 		</xs:sequence>
 		<xs:attribute name="id" type="xs:integer" />
 		<xs:attribute name="categoryid" type="xs:integer" />
@@ -207,6 +210,8 @@
 		<xs:sequence>
 			<xs:element ref="title" />
 			<xs:element ref="sorting" minOccurs="0" maxOccurs="1" />
+			<!-- Optional ePop element -->
+			<xs:element ref="isoez" minOccurs="0" maxOccurs="1" />
 			<xs:element name="subjects">
 				<xs:complexType>
 					<xs:sequence>
@@ -214,8 +219,6 @@
 					</xs:sequence>
 				</xs:complexType>
 			</xs:element>
-			<!-- Optional ePop element -->
-			<xs:element ref="isoez" minOccurs="0" maxOccurs="1" />
 		</xs:sequence>
 		<xs:attribute name="id" type="xs:integer" />
 	</xs:complexType>
@@ -314,7 +317,7 @@
 	<xs:element name="restorelink" type="xs:string" />
 	<xs:element name="task" type="xs:string" />
 	<xs:element name="solution" type="xs:string" />
-	<xs:element name="attachment" type="xs:string" />
+	<xs:element name="attachement" type="xs:string" />
 	<xs:element name="completefile" type="xs:string" />
 	<xs:element name="timeframe" type="xs:string" />
 	<xs:element name="tips" type="xs:string" />
@@ -322,9 +325,11 @@
 	<xs:element name="externalsolution" type="xs:string" />
 	<xs:element name="externaltask" type="xs:string" />
 	<xs:element name="additionalinfo" type="xs:string" />
-	<xs:element name="resources" type="xs:string" />
+	<xs:element name="ressources" type="xs:string" />
 	<xs:element name="sorting" type="xs:integer" />
-
+	<!-- added because of occurence in export-->
+	<xs:element name="lang" type="xs:integer" />
+	<xs:element name="iseditable" type="xs:integer" />
 	<xs:element name="level">
 		<xs:simpleType>
 			<xs:restriction base="xs:integer">
@@ -343,15 +348,15 @@
 			</xs:restriction>
 		</xs:simpleType>
 	</xs:element>
-	<xs:element name="requirements" type="xs:string" />
+	<xs:element name="requirement" type="xs:string" />
 	<xs:element name="benefit" type="xs:string" />
 	<xs:element name="knowledgecheck" type="xs:string" />
-	<xs:element name="Ataxonomy" type="xs:string" />
-	<xs:element name="Btaxonomy" type="xs:string" />
-	<xs:element name="Ctaxonomy" type="xs:string" />
-	<xs:element name="Dtaxonomy" type="xs:string" />
-	<xs:element name="Etaxonomy" type="xs:string" />
-	<xs:element name="Ftaxonomy" type="xs:string" />
+	<xs:element name="Ataxonomie" type="xs:string" />
+	<xs:element name="Btaxonomie" type="xs:string" />
+	<xs:element name="Ctaxonomie" type="xs:string" />
+	<xs:element name="Dtaxonomie" type="xs:string" />
+	<xs:element name="Etaxonomie" type="xs:string" />
+	<xs:element name="Ftaxonomie" type="xs:string" />
 	<xs:element name="number" type="xs:integer" />
 	<xs:element name="isoez" type="xs:integer" />
 
