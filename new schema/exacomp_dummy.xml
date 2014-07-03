@@ -92,18 +92,6 @@
 			<timeframe>3</timeframe>
 			<!-- Bild zum Lernpaket -->
 			<image>http://www.edugroup.at/typo3temp/pics/0_a7a65df4fb.png</image>
-			<!-- Autoren -->
-			<authors>
-				<author>Mag.Günther Schwarz</author>
-				<author>Mag.Joachim Jorgensen</author>
-			</authors>
-			<!-- Schulstufen -->
-			<levels>
-				<level>5</level>
-				<level>6</level>
-				<level>7</level>
-				<level>8</level>
-			</levels>
 			<!-- Metadaten -->
 			<metalink>
 				http://www.digikomp.at/digikomp8nms-ahs-unterstufe/unterrichtsbeispiele/detail/dateimanagement-das-haus.html
@@ -116,6 +104,18 @@
 			<restorelink>
 				http://www.edugroup.at/fileadmin/DAM/Gegenstandsportale/Digitale_Kompetenzen/Moodle/digikomp8/Beispiele/004_Dateimanagement_Haus/sicherung-moodle2-course-12-dateimanagement_-_das_haus-20140116-0842.mbz
 			</restorelink>
+			<!-- Autoren -->
+			<authors>
+				<author>Mag.Günther Schwarz</author>
+				<author>Mag.Joachim Jorgensen</author>
+			</authors>
+			<!-- Schulstufen -->
+			<levels>
+				<level>5</level>
+				<level>6</level>
+				<level>7</level>
+				<level>8</level>
+			</levels>
 			<!-- Stichwörter -->
 			<keywords>
 				<keyword>Moodlekurs</keyword>
