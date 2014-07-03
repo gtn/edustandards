@@ -53,7 +53,7 @@
 		<xs:sequence>
 			<xs:element ref="title" />
 			<xs:element ref="sorting" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="lvl"/>
+			<xs:element ref="level"/>
 			<xs:element name="children" minOccurs="0" maxOccurs="1">
 				<xs:complexType>
 					<xs:sequence>
@@ -111,7 +111,13 @@
 					</xs:sequence>
 				</xs:complexType>
 			</xs:element>
-
+			<xs:element name="categoriesn" minOccurs="0" maxOccurs="1">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element ref="categoryn" minOccurs="1" maxOccurs="unbounded" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
 		</xs:sequence>
 		<xs:attribute name="id" type="xs:integer" />
 		<xs:attribute name="taxid" type="xs:integer" />
@@ -312,6 +318,7 @@
 	<xs:element name="image" type="xs:string" />
 	<xs:element name="author" type="xs:string" />
 	<xs:element name="keyword" type="xs:string" />
+	<xs:element name="categoryn" type="xs:integer"/>
 	<xs:element name="metalink" type="xs:string" />
 	<xs:element name="packagelink" type="xs:string" />
 	<xs:element name="restorelink" type="xs:string" />
