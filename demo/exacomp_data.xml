@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exacomp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/gtn/edustandards/blob/master/new%20schema/exacomp.xsd">
+<skills>
+</skills>
+<niveaus>
+	<niveau id="3">
+		<title><![CDATA[B1]]></title>
+		<sorting>512</sorting>
+<niveautexts><niveautext id="34" skillid="3"><title><![CDATA[Ich kann Texte verstehen, in denen vor allem sehr gebräuchliche Alltags- oder Berufssprache vorkommt. Ich kann private Briefe verstehen, in denen von Ereignissen, Gefühlen und Wünschen berichtet wird. ]]></title></niveautext>
+<niveautext id="40" skillid="2"><title><![CDATA[Ich kann über Themen, die mir vertraut sind oder mich persönlich interessieren, einfache zusammenhängende Texte schreiben. Ich kann persönliche Briefe schreiben und darin von Erfahrungen und Eindrücken berichten.]]></title></niveautext>
+<niveautext id="49" skillid="1"><title><![CDATA[Ich kann die Hauptpunkte verstehen, wenn klare Standardsprache verwendet wird und wenn es um vertraute Dinge aus Arbeit, Schule und Freizeit usw. geht. Ich kann kurze Erzählungen verstehen. Ich kann vielen Radio- und Fernsehsendungen über aktuelle Ereignisse und über Themen aus meinem Berufs- oder Interessensgebiet die Hauptinformationen entnehmen, wenn relativ langsam und deutlich gesprochen wird.]]></title></niveautext>
+<niveautext id="76" skillid="3"><title><![CDATA[Understanding texts that are about frequent topics of everyday or work-related life which the reader is familiar with. As opposed to A2, sentence structures and vocabulary of these texts are more complex and wider; topic areas are more varied, and include current affairs and events (among other things) as well as the description of emotions; texts are longer.]]></title></niveautext>
+<niveautext id="77" skillid="2"><title><![CDATA[Learners can write various types of text about a series of topics that are familiar or of personal interest. Compared to Level A2, vocabulary and linguistic structures are much more extensive, so that a wider range of topics can be covered in writing. The purpose of written pieces can be seen and understood clearly, even though mistakes may still occur, in the areas of spelling, vocabulary, grammar and structure.]]></title></niveautext>
+<niveautext id="80" skillid="1"><title><![CDATA[Texts encountered on this Level are about topics one is familiar with, either in spoken interaction or via the media; speakers use standard dialect clearly and at medium speed. As opposed to A2, topics are more varied and also include current affairs. The meaning of some unknown words can already be successfully deduced from the context.]]></title></niveautext>
+<niveautext id="127" skillid="4"><title><![CDATA[In many familiar everyday or work-related situations, speakers can interact and communicate spontaneously about various topics, and contribute actively to an exchange. Mostly they succeed in communicating the essentials, even though mistakes or pauses may occur. Compared to Level A2, vocabulary and linguistic structures are much more extensive, so that a larger range of topics can be discussed with no preparation.]]></title></niveautext>
+<niveautext id="133" skillid="5"><title><![CDATA[Speakers can speak in a coherent way about familiar topics such as everyday occurrences, topics related to training, to the world of work and to travelling; they can also give reasons for viewpoints. For these purposes they dispose of sufficient vocabulary. They pause sometimes, need to reformulate, and make mistakes: however, the intended meaning of statements comes across. As opposed to Level A2, vocabulary and linguistic structures are much more extensive, so that a wider range of topics can be covered, even without preparation.]]></title></niveautext>
+<niveautext id="143" skillid="4"><title><![CDATA[Ich kann die meisten Situationen bewältigen, denen  man auf Reisen im Sprachgebiet begegnet. Ich kann ohne Vorbereitung an Gesprächen über Themen teilnehmen, die mir vertraut sind, die mich persönlich interessieren oder die sich auf Themen des Alltags wie Familie, Hobbys, Arbeit. Reisen aktuelle Ereignisse usw. beziehen.]]></title></niveautext>
+<niveautext id="149" skillid="5"><title><![CDATA[Ich kann in einfachen, zusammenhängenden Sätzen sprechen, um Erfahrungen und Ereignisse oder meine Träume, Hoffnungen und Ziele zu beschreiben. Ich kann kurz meine Meinungen und Pläne erklären und begründen. Ich kann eine Geschichte erzählen oder eine Handlung eines Buches oder Films wiedergeben und meine Reaktionen beschreiben.]]></title></niveautext>
+</niveautexts>
+	</niveau>
+	<niveau id="4">
+		<title><![CDATA[B2]]></title>
+		<sorting>768</sorting>
+<niveautexts><niveautext id="89" skillid="1"><title><![CDATA[Ich kann längere Redebeiträge und Vorträge verstehen und auch komplexer Argumentation folgen, wenn mir das Thema einigermaßen vertraut ist. Ich kann im Fernsehen die meisten Nachrichtensendungen und aktuellen Reportagen verstehen. Ich kann die meisten Spielfilme verstehen, sofern Standardsprache gesprochen wird.]]></title></niveautext>
+<niveautext id="93" skillid="2"><title><![CDATA[Ich kann über eine Vielzahl von Themen, die mich interessieren, klare und detaillierte Texte schreiben. Ich kann in einem Aufsatz oder Bericht Informationen wiedergeben oder Argumente und Gegenargumente für oder gegen einen bestimmten Standpunkt darlegen. Ich kann Briefe schreiben und darin die persönliche Bedeutung von Ereignissen und Erfahrungen deutlich machen.]]></title></niveautext>
+<niveautext id="104" skillid="1"><title><![CDATA[To be able to understand longer texts that present greater difficulty content-wise, sufficient prior knowledge is required in a given subject. Standard dialect is used, and there is no very disturbing background noise. As opposed to Level B1, these are linguistically more demanding contributions on a variety of topics which may go beyond the learner’s immediate range of interests. On this Level, another challenge is to be able to pick up details when texts are spoken at greater speed.]]></title></niveautext>
+<niveautext id="108" skillid="2"><title><![CDATA[Clearly structured factual texts as well as creative texts can be written by learners at this Level, on topics that are of importance in our society: texts that sum up information, that explain various viewpoints, and that correspond to recognised types of text (e. g. diary entries, inner monologue, readers’ letters). As regards summaries of texts, the degree of difficutly in source texts will correspond to Level B2 in reading comprehension skills. As opposed to Level B1, topics here go beyond immediate personal everyday concerns; they are clearly structured; vocabulary and linguistic structures are extensive enough to allow learners to express their purpose of writing well.]]></title></niveautext>
+<niveautext id="122" skillid="3"><title><![CDATA[On this Level, readers can understand texts (non-fiction or literary texts) that clearly allow them to recognise a writer’s viewpoint, and which are about topics that are relevant to life in our society. Such texts may be used to extract essential information; or they may be scanned, to gain a first impression of them. As opposed to B1, these are linguistically more demanding texts with a much greater vocabulary, with more complex linguistic structures, and on a greater variety of topics. ]]></title></niveautext>
+<niveautext id="128" skillid="4"><title><![CDATA[In exchanges with native speakers (among others), on many different topics that are of importance in our society, learners can interact, reply to arguments, and uphold their own viewpoint with clarity. As opposed to Level B1, topics go beyond immediate everyday situations; vocabulary and linguistic structures at learners’ disposal are of such great range that a speaker’s own opinion can be expressed clearly and distinctly. Speakers succeed (more or less) in adapting what they say, to the other person or persons (register).]]></title></niveautext>
+<niveautext id="134" skillid="5"><title><![CDATA[Longer units of speech about a large number of topics (concerning a speaker’s personal or working life) contain important details and are clearly structured, or clearly highlight the speaker‘s own point of view. As opposed to Level B1, spoken production is spontaneous and fluent; vocabulary and linguistic structures are extensive enough for speakers to present topics in a well structured way, and to argue their own viewpoint logically and coherently. There are hardly any elementary mistakes any more that might distort meaning.]]></title></niveautext>
+<niveautext id="137" skillid="3"><title><![CDATA[Ich kann Artikel und Berichte über Probleme der Gegenwart lesen und verstehen, in denen die Schreibenden eine bestimmte Haltung oder einen bestimmten Standpunkt vertreten. Ich kann zeitgenössische literarische Prosatexte verstehen.]]></title></niveautext>
+<niveautext id="142" skillid="4"><title><![CDATA[Ich kann mich so spontan und fließend verständigen, dass ein normales Gespräch mit einem Muttersprachler recht gut möglich ist. Ich kann mich in vertrauten Situationen aktiv an einer Diskussion beteiligen und meine Ansichten begründen und verteidigen.]]></title></niveautext>
+<niveautext id="148" skillid="5"><title><![CDATA[Ich kann zu vielen Themen aus meinen Interessengebieten eine klare und detaillierte Darstellung geben. Ich kann einen Standpunkt zu einer aktuellen Frage erläutern und Vor- und Nachteile verschiedener Möglichkeiten angeben.sammenhängend sprechen]]></title></niveautext>
+</niveautexts>
+	</niveau>
+	<niveau id="13">
+		<title><![CDATA[C1]]></title>
+		<sorting>896</sorting>
+<niveautexts><niveautext id="94" skillid="1"><title><![CDATA[Ich kann längeren Redebeiträgen folgen, auch wenn diese nicht klar strukturiert sind und wenn Zusammenhänge nicht explizit ausgedrückt sind. Ich kann ohne allzu große Mühe Fernsehsendungen und Spielfilme verstehen.]]></title></niveautext>
+<niveautext id="98" skillid="2"><title><![CDATA[Ich kann mich schriftlich klar und gut strukturiert ausdrücken und meine Ansicht ausführlich darstellen. Ich kann in Briefen, Aufsätzen oder Berichten über komplexe Sachverhalte schreiben und die für mich wesentlichen Aspekte hervorheben. Ich kann in meinen schriftlichen Texten den Stil wählen, der für die jeweiligen Leser angemessen ist.]]></title></niveautext>
+<niveautext id="109" skillid="1"><title><![CDATA[Texts on almost any topic, with a degree of difficulty (regarding content or language), are understood well, even if their structure is not evident and some details are not clearly stated but only implied or hinted at. As opposed to B2, texts may present linguistic features of certain geographical areas or of (careless) colloquial speech (as is often the case in films and in TV serials), without impeding learners’ understanding much. Speaking speed corresponds to normal everyday speech.]]></title></niveautext>
+<niveautext id="113" skillid="2"><title><![CDATA[Subjects from the most varied areas of knowledge and experience can be dealt with in writing, in a detailed, precise and appropriate way. As opposed to Level B2, learners on this Level can linguistically adapt their writing to a given target group. Vocabulary and linguistic structures are extensive enough for difficult aspects of facts or circumstances to be expressed clearly, for easy communication.]]></title></niveautext>
+<niveautext id="123" skillid="3"><title><![CDATA[Understanding most texts in detail is practically no problem – even texts that are difficult content-wise or linguistically. As opposed to Level B2, learners can now consciously differentiate between formal and informal speech, and can recognise finer stylistic qualities, e. g. in a literary text. Texts can be understood even though readers may not be familiar with a given specialisation. Dictionaries are used only if the exact meaning of a word cannot be inferred from the context, or to clarify detailed nuances.]]></title></niveautext>
+<niveautext id="129" skillid="4"><title><![CDATA[Exchanges in all areas of personal and working life can be conducted very spontaneously and fluently. As opposed to B2, learners can adapt even better to the other person or persons, i. e. learners know exactly what to say to whom in what situation, and in what way. Vocabulary and linguistic structures are so extensive and can be used so precisely that an exchange can be kept going with no noticeable interruption.]]></title></niveautext>
+<niveautext id="135" skillid="5"><title><![CDATA[Topics in the most varied subject areas can be presented with such linguistic precision that audiences are clear about context and connections. As opposed to Level B2, speakers can use linguistic means that make quite clear the textual structure of complex thought and speech; linguistic ways and means that highlight certain aspects; and that round off a contribution with an appropriate conclusion. Speakers also have a range of idiomatic and colloquial phrases, and can well adapt to relevant addressees.]]></title></niveautext>
+<niveautext id="138" skillid="3"><title><![CDATA[Ich kann lange, komplexe Sachtexte und literarische Texte verstehen und Stilunterschiede wahrnehmen. Ich kann Fachartikel und längere technische Anleitungen verstehen, auch wenn sie nicht in meinem Fachgebiet liegen.]]></title></niveautext>
+<niveautext id="141" skillid="4"><title><![CDATA[Ich kann mich spontan und fließend ausdrücken, ohne öfter deutlich erkennbar nach Worten suchen zu müssen. Ich kann die Sprache im gesellschaftlichen und beruflichen Leben wirksam und flexibel gebrauchen. Ich kann meine Gedanken und Meinungen präzise ausdrücken und meine eigenen Beiträge geschickt mit denen anderer verknüpfen.]]></title></niveautext>
+<niveautext id="147" skillid="5"><title><![CDATA[Ich kann komplexe Sachverhalte ausführlich darstellen und dabei Themenpunkte miteinander verbinden, bestimmte Aspekte besonders ausführen und meinen Beitrag angemessen abschließen.]]></title></niveautext>
+</niveautexts>
+	</niveau>
+</niveaus>
+<taxonomies>
+</taxonomies>
+<categories>
+</categories><categoriesn>
+</categoriesn><examples>
+</examples>
+<descriptors>
+	<descriptor id="10483" niveauid="4">
+		<title><![CDATA[Appreciative conduct interacting with others]]></title>
+		<sorting>201445</sorting>
+</descriptor>
+	<descriptor id="10484" niveauid="4">
+		<title><![CDATA[Respecting other opinions independent of one’s individual views]]></title>
+		<sorting>201446</sorting>
+</descriptor>
+	<descriptor id="10485" niveauid="13">
+		<title><![CDATA[Ability to reflect one‘s own behavior related to needs/desires of others]]></title>
+		<sorting>201447</sorting>
+</descriptor>
+	<descriptor id="10486" niveauid="4">
+		<title><![CDATA[Adequate reaction to one’s needs]]></title>
+		<sorting>201448</sorting>
+</descriptor>
+	<descriptor id="10487" niveauid="4">
+		<title><![CDATA[Appropriate support of other persons]]></title>
+		<sorting>201449</sorting>
+</descriptor>
+	<descriptor id="10488" niveauid="4">
+		<title><![CDATA[Appropriate use of entrusted information]]></title>
+		<sorting>201450</sorting>
+</descriptor>
+	<descriptor id="10489" niveauid="3">
+		<title><![CDATA[Ability to describe co-construction of spheres of life]]></title>
+		<sorting>201451</sorting>
+</descriptor>
+	<descriptor id="10490" niveauid="4">
+		<title><![CDATA[Participation in co-creation of spheres of life]]></title>
+		<sorting>201452</sorting>
+</descriptor>
+</descriptors>
+<edulevels>	<edulevel id="428">
+		<title>Overall competencies</title>
+		<sorting>586</sorting>
+		<schooltypes>	<schooltype id="492">
+		<title><![CDATA[Social Competencies]]></title>
+		<sorting>656</sorting>
+		<isoez>0</isoez>
+<subjects>	<subject id="786">
+		<title><![CDATA[Social Responsibility]]></title>
+		<titleshort><![CDATA[Social Responsibility]]></titleshort>
+		<sorting>3459</sorting>
+		<numb>0</numb>
+<topics>
+	<topic id="1840">
+		<title><![CDATA[Respect and tolerance]]></title>
+		<titleshort><![CDATA[Respect and tolerance]]></titleshort>
+		<sorting>32794</sorting>
+		<description><![CDATA[Respect and tolerance]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10483"/>
+		<descriptorid id="10484"/>
+		<descriptorid id="10485"/>
+	</descriptors>
+	</topic>
+	<topic id="1841">
+		<title><![CDATA[Empathy]]></title>
+		<titleshort><![CDATA[Empathy]]></titleshort>
+		<sorting>32795</sorting>
+		<description><![CDATA[Empathy]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10486"/>
+	</descriptors>
+	</topic>
+	<topic id="1842">
+		<title><![CDATA[Helpfulness]]></title>
+		<titleshort><![CDATA[Helpfulness]]></titleshort>
+		<sorting>32796</sorting>
+		<description><![CDATA[Helpfulness]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10487"/>
+	</descriptors>
+	</topic>
+	<topic id="1843">
+		<title><![CDATA[Familiarity]]></title>
+		<titleshort><![CDATA[Familiarity]]></titleshort>
+		<sorting>32797</sorting>
+		<description><![CDATA[Familiarity]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10488"/>
+	</descriptors>
+	</topic>
+	<topic id="1844">
+		<title><![CDATA[Co-determination of society]]></title>
+		<titleshort><![CDATA[Co-determination of society]]></titleshort>
+		<sorting>32798</sorting>
+		<description><![CDATA[Co-determination of society]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10489"/>
+		<descriptorid id="10490"/>
+	</descriptors>
+	</topic>
+</topics>
+	</subject>
+	
+	
+	
+	
+	
+</subjects>	</schooltype>
+	
+		</schooltypes>
+	</edulevel>
+</edulevels></exacomp>
