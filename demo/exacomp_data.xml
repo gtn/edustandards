@@ -2,44 +2,644 @@
 <exacomp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://github.com/gtn/edustandards/blob/master/new%20schema/exacomp.xsd">
 <skills>
 </skills>
+<niveaus>
+	<niveau id="16">
+		<title><![CDATA[1]]></title>
+		<sorting>3072</sorting>
+<niveautexts><niveautext id="152"><title><![CDATA[Remembering: can the student recall or remember the information?]]></title></niveautext>
+</niveautexts>
+	</niveau>
+	<niveau id="17">
+		<title><![CDATA[2]]></title>
+		<sorting>3328</sorting>
+<niveautexts><niveautext id="153"><title><![CDATA[Understanding: can the student explain ideas or concepts?]]></title></niveautext>
+</niveautexts>
+	</niveau>
+	<niveau id="18">
+		<title><![CDATA[3]]></title>
+		<sorting>3584</sorting>
+<niveautexts><niveautext id="154"><title><![CDATA[Applying: can the student use the information in a new way?]]></title></niveautext>
+</niveautexts>
+	</niveau>
+	<niveau id="19">
+		<title><![CDATA[4]]></title>
+		<sorting>3840</sorting>
+<niveautexts><niveautext id="155"><title><![CDATA[Analyzing: can the student distinguish between the different parts?]]></title></niveautext>
+</niveautexts>
+	</niveau>
+	<niveau id="20">
+		<title><![CDATA[5]]></title>
+		<sorting>4096</sorting>
+<niveautexts><niveautext id="156"><title><![CDATA[Evaluating: can the student justify a stand or decision?]]></title></niveautext>
+</niveautexts>
+	</niveau>
+	<niveau id="21">
+		<title><![CDATA[6]]></title>
+		<sorting>4352</sorting>
+<niveautexts><niveautext id="157"><title><![CDATA[Creating: can the student create new products or points of view?]]></title></niveautext>
+</niveautexts>
+	</niveau>
+</niveaus>
 <taxonomies>
+	<taxonomy id="76">
+		<title><![CDATA[Kenntnis]]></title>
+		<sorting>512</sorting>
+	</taxonomy>
 </taxonomies>
 <categories>
 </categories><categoriesn>
 </categoriesn><examples>
+	<example id="3184" taxid="76">
+		<title><![CDATA[Effective communication skills]]></title>
+		<titleshort><![CDATA[Effective communication skills]]></titleshort>
+		<description><![CDATA[Effective communication skills]]></description>
+		<timeframe/>
+		<task/>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<ressources/>
+		<tips/>
+		<externalurl><![CDATA[http://www.helpguide.org/mental/effective_communication_skills.htm]]></externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<sorting>9671</sorting>
+		<lang>0</lang>
+		<iseditable>0</iseditable>
+	</example>
+	<example id="3185" taxid="76">
+		<title><![CDATA[Principles of communication]]></title>
+		<titleshort><![CDATA[Principles of communication]]></titleshort>
+		<description><![CDATA[Principles of communication]]></description>
+		<timeframe/>
+		<task/>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<ressources/>
+		<tips/>
+		<externalurl><![CDATA[https://www4.uwm.edu/cuts/bench/commun.htm]]></externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<sorting>9672</sorting>
+		<lang>0</lang>
+		<iseditable>0</iseditable>
+	</example>
+	<example id="3186">
+		<title><![CDATA[Definition of respect]]></title>
+		<titleshort><![CDATA[Definition of respect]]></titleshort>
+		<description><![CDATA[Definition of respect]]></description>
+		<timeframe/>
+		<task/>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<ressources/>
+		<tips/>
+		<externalurl><![CDATA[http://en.wikipedia.org/wiki/Respect]]></externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<sorting>9673</sorting>
+		<lang>0</lang>
+		<iseditable>0</iseditable>
+	</example>
+	<example id="3187" taxid="76">
+		<title><![CDATA[Definition of toleration]]></title>
+		<titleshort><![CDATA[Definition of toleration]]></titleshort>
+		<description><![CDATA[Definition of toleration]]></description>
+		<timeframe/>
+		<task/>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<ressources/>
+		<tips/>
+		<externalurl><![CDATA[http://en.wikipedia.org/wiki/Toleration]]></externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<sorting>9674</sorting>
+		<lang>0</lang>
+		<iseditable>0</iseditable>
+	</example>
+	<example id="3188">
+		<title><![CDATA[Definition of empathy]]></title>
+		<titleshort><![CDATA[Definition of empathy]]></titleshort>
+		<description><![CDATA[Definition of empathy at Wikipedia]]></description>
+		<timeframe/>
+		<task/>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<ressources/>
+		<tips/>
+		<externalurl><![CDATA[http://en.wikipedia.org/wiki/Empathy]]></externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<sorting>9675</sorting>
+		<lang>0</lang>
+		<iseditable>0</iseditable>
+	</example>
+	<example id="3189" taxid="76">
+		<title><![CDATA[Definition of norm]]></title>
+		<titleshort><![CDATA[Definition of norm]]></titleshort>
+		<description><![CDATA[Definition of norm from Wikipedia]]></description>
+		<timeframe/>
+		<task/>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<ressources/>
+		<tips/>
+		<externalurl><![CDATA[http://en.wikipedia.org/wiki/Norm_(social)]]></externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<sorting>9676</sorting>
+		<lang>0</lang>
+		<iseditable>0</iseditable>
+	</example>
+	<example id="3190" taxid="76">
+		<title><![CDATA[Definition of value]]></title>
+		<titleshort><![CDATA[Definition of value]]></titleshort>
+		<description><![CDATA[Definition of value]]></description>
+		<timeframe/>
+		<task/>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<ressources/>
+		<tips/>
+		<externalurl><![CDATA[http://en.wikipedia.org/wiki/Value_(ethics)]]></externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<sorting>9677</sorting>
+		<lang>0</lang>
+		<iseditable>0</iseditable>
+	</example>
+	<example id="3191" taxid="76">
+		<title><![CDATA[Definition of rule]]></title>
+		<titleshort><![CDATA[Definition of rule]]></titleshort>
+		<description/>
+		<timeframe/>
+		<task/>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<ressources/>
+		<tips/>
+		<externalurl><![CDATA[http://en.wikipedia.org/wiki/Rule]]></externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<sorting>9678</sorting>
+		<lang>0</lang>
+		<iseditable>0</iseditable>
+	</example>
+	<example id="3192" taxid="76">
+		<title><![CDATA[Decision making]]></title>
+		<titleshort><![CDATA[Decision making]]></titleshort>
+		<description><![CDATA[Decision making]]></description>
+		<timeframe/>
+		<task/>
+		<solution/>
+		<attachement/>
+		<completefile/>
+		<ressources/>
+		<tips/>
+		<externalurl><![CDATA[http://en.wikipedia.org/wiki/Decision-making]]></externalurl>
+		<externalsolution/>
+		<externaltask/>
+		<sorting>9679</sorting>
+		<lang>0</lang>
+		<iseditable>0</iseditable>
+	</example>
 </examples>
 <descriptors>
-	<descriptor id="10483" niveauid="4">
+	<descriptor id="10483" niveauid="17">
 		<title><![CDATA[Appreciative conduct interacting with others]]></title>
 		<sorting>201445</sorting>
+	<examples>
+		<exampleid id="3186"/>
+		<exampleid id="3187"/>
+	</examples>
 </descriptor>
-	<descriptor id="10484" niveauid="4">
+	<descriptor id="10484" niveauid="17">
 		<title><![CDATA[Respecting other opinions independent of one’s individual views]]></title>
 		<sorting>201446</sorting>
 </descriptor>
-	<descriptor id="10485" niveauid="13">
+	<descriptor id="10485" niveauid="18">
 		<title><![CDATA[Ability to reflect one‘s own behavior related to needs/desires of others]]></title>
 		<sorting>201447</sorting>
 </descriptor>
-	<descriptor id="10486" niveauid="4">
+	<descriptor id="10486" niveauid="19">
 		<title><![CDATA[Adequate reaction to one’s needs]]></title>
 		<sorting>201448</sorting>
+	<examples>
+		<exampleid id="3188"/>
+	</examples>
 </descriptor>
-	<descriptor id="10487" niveauid="4">
+	<descriptor id="10487" niveauid="19">
 		<title><![CDATA[Appropriate support of other persons]]></title>
 		<sorting>201449</sorting>
 </descriptor>
-	<descriptor id="10488" niveauid="4">
+	<descriptor id="10488" niveauid="19">
 		<title><![CDATA[Appropriate use of entrusted information]]></title>
 		<sorting>201450</sorting>
 </descriptor>
-	<descriptor id="10489" niveauid="3">
+	<descriptor id="10489" niveauid="18">
 		<title><![CDATA[Ability to describe co-construction of spheres of life]]></title>
 		<sorting>201451</sorting>
 </descriptor>
-	<descriptor id="10490" niveauid="4">
+	<descriptor id="10490" niveauid="19">
 		<title><![CDATA[Participation in co-creation of spheres of life]]></title>
 		<sorting>201452</sorting>
+</descriptor>
+	<descriptor id="10491">
+		<title><![CDATA[Knowledge of principles of communication]]></title>
+		<sorting>201453</sorting>
+	<examples>
+		<exampleid id="3185"/>
+	</examples>
+</descriptor>
+	<descriptor id="10492" niveauid="18">
+		<title><![CDATA[Ability to explain communication models with the help of examples]]></title>
+		<sorting>201454</sorting>
+</descriptor>
+	<descriptor id="10493" niveauid="20">
+		<title><![CDATA[Ability to explain in a clear and distinct way]]></title>
+		<sorting>201455</sorting>
+</descriptor>
+	<descriptor id="10494" niveauid="21">
+		<title><![CDATA[Appropriate communication behavior with a communication partner]]></title>
+		<sorting>201456</sorting>
+</descriptor>
+	<descriptor id="10495" niveauid="21">
+		<title><![CDATA[Adequate use of communication methods and strategies for problem solving]]></title>
+		<sorting>201457</sorting>
+</descriptor>
+	<descriptor id="10496" niveauid="16">
+		<title><![CDATA[Knowledge of principles of planning of working sessions]]></title>
+		<sorting>201458</sorting>
+</descriptor>
+	<descriptor id="10497" niveauid="17">
+		<title><![CDATA[Knowledge of methods of efficient moderation]]></title>
+		<sorting>201459</sorting>
+</descriptor>
+	<descriptor id="10498" niveauid="20">
+		<title><![CDATA[Preparation of structured discussions]]></title>
+		<sorting>201460</sorting>
+</descriptor>
+	<descriptor id="10499" niveauid="21">
+		<title><![CDATA[Moderation of discussions]]></title>
+		<sorting>201461</sorting>
+</descriptor>
+	<descriptor id="10500" niveauid="16">
+		<title><![CDATA[Knowledge of different comunication levels and elements of nonverbal communication]]></title>
+		<sorting>201462</sorting>
+	<examples>
+		<exampleid id="3184"/>
+	</examples>
+</descriptor>
+	<descriptor id="10501" niveauid="18">
+		<title><![CDATA[Differentiate between factual and relationship level in communication
+]]></title>
+		<sorting>201463</sorting>
+</descriptor>
+	<descriptor id="10502" niveauid="16">
+		<title><![CDATA[Knowledge of possibilities of different communication media]]></title>
+		<sorting>201464</sorting>
+</descriptor>
+	<descriptor id="10503" niveauid="18">
+		<title><![CDATA[Ability to choose communication media target-oriented]]></title>
+		<sorting>201465</sorting>
+</descriptor>
+	<descriptor id="10504" niveauid="21">
+		<title><![CDATA[Ability to choose communication style adequate to communication situations]]></title>
+		<sorting>201466</sorting>
+</descriptor>
+	<descriptor id="10505" niveauid="21">
+		<title><![CDATA[Ability to reflect current attitude, approach, feelings, values and desires]]></title>
+		<sorting>201467</sorting>
+</descriptor>
+	<descriptor id="10506" niveauid="16">
+		<title><![CDATA[Knowledge of the terms competence, resource and cooperation]]></title>
+		<sorting>201468</sorting>
+</descriptor>
+	<descriptor id="10507" niveauid="18">
+		<title><![CDATA[Ability to identify one’s resources and competences]]></title>
+		<sorting>201469</sorting>
+</descriptor>
+	<descriptor id="10508" niveauid="20">
+		<title><![CDATA[Contribute one’s resources and competences for cooperation]]></title>
+		<sorting>201470</sorting>
+</descriptor>
+	<descriptor id="10509" niveauid="21">
+		<title><![CDATA[Progress in resource and competence development during cooperation]]></title>
+		<sorting>201471</sorting>
+</descriptor>
+	<descriptor id="10510" niveauid="21">
+		<title><![CDATA[Support of others in progess of resource and competence development]]></title>
+		<sorting>201472</sorting>
+</descriptor>
+	<descriptor id="10511" niveauid="16">
+		<title><![CDATA[Knowledge of different roles, tasks and functions within a group]]></title>
+		<sorting>201473</sorting>
+</descriptor>
+	<descriptor id="10512" niveauid="18">
+		<title><![CDATA[Ability to describe tasks and functions within a group]]></title>
+		<sorting>201474</sorting>
+</descriptor>
+	<descriptor id="10513" niveauid="21">
+		<title><![CDATA[Ability to take up responsibilty and tasks corresponding to given role]]></title>
+		<sorting>201475</sorting>
+</descriptor>
+	<descriptor id="10514" niveauid="21">
+		<title><![CDATA[Reflection of group-processes]]></title>
+		<sorting>201476</sorting>
+</descriptor>
+	<descriptor id="10515" niveauid="21">
+		<title><![CDATA[Reflection of group-processes]]></title>
+		<sorting>201477</sorting>
+</descriptor>
+	<descriptor id="10516" niveauid="16">
+		<title><![CDATA[Knowledge of the definition of consent, orientation and agreements]]></title>
+		<sorting>201478</sorting>
+</descriptor>
+	<descriptor id="10517" niveauid="20">
+		<title><![CDATA[Ability to use strategies to develop consent]]></title>
+		<sorting>201479</sorting>
+</descriptor>
+	<descriptor id="10518" niveauid="21">
+		<title><![CDATA[Ability to adhere to agreements]]></title>
+		<sorting>201480</sorting>
+</descriptor>
+	<descriptor id="10519" niveauid="20">
+		<title><![CDATA[Definition of precise and realistic working goals]]></title>
+		<sorting>201481</sorting>
+</descriptor>
+	<descriptor id="10520" niveauid="21">
+		<title><![CDATA[Coordination of behavior according to working goals defined with others]]></title>
+		<sorting>201482</sorting>
+</descriptor>
+	<descriptor id="10521" niveauid="21">
+		<title><![CDATA[Acting output oriented in unexpected situations]]></title>
+		<sorting>201483</sorting>
+</descriptor>
+	<descriptor id="10522" niveauid="21">
+		<title><![CDATA[Evaluation of outputs reached and quality of group work]]></title>
+		<sorting>201484</sorting>
+</descriptor>
+	<descriptor id="10523" niveauid="21">
+		<title><![CDATA[Ability to state one’s point of view]]></title>
+		<sorting>201485</sorting>
+</descriptor>
+	<descriptor id="10524" niveauid="21">
+		<title><![CDATA[Respect others points of view]]></title>
+		<sorting>201486</sorting>
+</descriptor>
+	<descriptor id="10525" niveauid="21">
+		<title><![CDATA[Give constructive feedback]]></title>
+		<sorting>201487</sorting>
+</descriptor>
+	<descriptor id="10526" niveauid="21">
+		<title><![CDATA[Accept feedback]]></title>
+		<sorting>201488</sorting>
+</descriptor>
+	<descriptor id="10527" niveauid="18">
+		<title><![CDATA[Identifiy signs of a rising conflict]]></title>
+		<sorting>201489</sorting>
+</descriptor>
+	<descriptor id="10528" niveauid="21">
+		<title><![CDATA[Deal with sensitivity of a group]]></title>
+		<sorting>201490</sorting>
+</descriptor>
+	<descriptor id="10529" niveauid="21">
+		<title><![CDATA[Take steps for de-escalation]]></title>
+		<sorting>201491</sorting>
+</descriptor>
+	<descriptor id="10530" niveauid="21">
+		<title><![CDATA[Reflect conflict behavior of persons involved]]></title>
+		<sorting>201492</sorting>
+</descriptor>
+	<descriptor id="10531" niveauid="18">
+		<title><![CDATA[Describe causes, triggers and contents of conflicts]]></title>
+		<sorting>201493</sorting>
+</descriptor>
+	<descriptor id="10532" niveauid="21">
+		<title><![CDATA[Constructive discussion of individual and external needs/desires]]></title>
+		<sorting>201494</sorting>
+</descriptor>
+	<descriptor id="10533" niveauid="21">
+		<title><![CDATA[Collaborative development of solutions with conflict partners]]></title>
+		<sorting>201495</sorting>
+</descriptor>
+	<descriptor id="10534" niveauid="20">
+		<title><![CDATA[Take up leadership tasks in a clearly structured field]]></title>
+		<sorting>201496</sorting>
+</descriptor>
+	<descriptor id="10535" niveauid="21">
+		<title><![CDATA[Take up leadership tasks in a field with unforseeable requirements]]></title>
+		<sorting>201497</sorting>
+</descriptor>
+	<descriptor id="10536" niveauid="21">
+		<title><![CDATA[Ability to find appropriate strategies for unforseeable situations]]></title>
+		<sorting>201498</sorting>
+</descriptor>
+	<descriptor id="10537" niveauid="21">
+		<title><![CDATA[Find decisions based on given information]]></title>
+		<sorting>201499</sorting>
+</descriptor>
+	<descriptor id="10538" niveauid="21">
+		<title><![CDATA[Ability to check if decisions have been executed]]></title>
+		<sorting>201500</sorting>
+</descriptor>
+	<descriptor id="10539" niveauid="18">
+		<title><![CDATA[Explain possibilities to promote motivation]]></title>
+		<sorting>201501</sorting>
+</descriptor>
+	<descriptor id="10540" niveauid="21">
+		<title><![CDATA[Place motivational arrangements]]></title>
+		<sorting>201502</sorting>
+</descriptor>
+	<descriptor id="10541" niveauid="20">
+		<title><![CDATA[Communicate goals to employees in a clear way]]></title>
+		<sorting>201503</sorting>
+</descriptor>
+	<descriptor id="10542" niveauid="21">
+		<title><![CDATA[Manage reaching of goals by employees]]></title>
+		<sorting>201504</sorting>
+</descriptor>
+	<descriptor id="10543" niveauid="21">
+		<title><![CDATA[Evaluate process of reaching goals]]></title>
+		<sorting>201505</sorting>
+</descriptor>
+	<descriptor id="10544" niveauid="18">
+		<title><![CDATA[Explain the meaning of life long learning for personal development]]></title>
+		<sorting>201506</sorting>
+</descriptor>
+	<descriptor id="10545" niveauid="19">
+		<title><![CDATA[Explain change as part of development]]></title>
+		<sorting>201507</sorting>
+</descriptor>
+	<descriptor id="10546" niveauid="21">
+		<title><![CDATA[Choose appropriate educational offers]]></title>
+		<sorting>201508</sorting>
+</descriptor>
+	<descriptor id="10547" niveauid="21">
+		<title><![CDATA[Reflect one’s educational plan]]></title>
+		<sorting>201509</sorting>
+</descriptor>
+	<descriptor id="10548" niveauid="20">
+		<title><![CDATA[commitment to fulfill tasks output-oriented until finished]]></title>
+		<sorting>201510</sorting>
+</descriptor>
+	<descriptor id="10549" niveauid="21">
+		<title><![CDATA[Acquire satisfaction and motivation from achievements]]></title>
+		<sorting>201511</sorting>
+</descriptor>
+	<descriptor id="10550" niveauid="21">
+		<title><![CDATA[Ability to use effective stress reduction strategies]]></title>
+		<sorting>201512</sorting>
+</descriptor>
+	<descriptor id="10551" niveauid="21">
+		<title><![CDATA[Cope with frustration with failure constructively]]></title>
+		<sorting>201513</sorting>
+</descriptor>
+	<descriptor id="10552" niveauid="20">
+		<title><![CDATA[Adhere to agreements]]></title>
+		<sorting>201514</sorting>
+</descriptor>
+	<descriptor id="10553" niveauid="21">
+		<title><![CDATA[Ability to solve tasks reliably]]></title>
+		<sorting>201515</sorting>
+</descriptor>
+	<descriptor id="10554" niveauid="20">
+		<title><![CDATA[Contribute individual ideas]]></title>
+		<sorting>201516</sorting>
+</descriptor>
+	<descriptor id="10555" niveauid="21">
+		<title><![CDATA[Develop new views and approaches]]></title>
+		<sorting>201517</sorting>
+</descriptor>
+	<descriptor id="10556" niveauid="18">
+		<title><![CDATA[Recognize essential working and learning-steps]]></title>
+		<sorting>201518</sorting>
+</descriptor>
+	<descriptor id="10557" niveauid="21">
+		<title><![CDATA[Manage individual working and learning-steps]]></title>
+		<sorting>201519</sorting>
+</descriptor>
+	<descriptor id="10558" niveauid="21">
+		<title><![CDATA[Evaluate individual working processes and results]]></title>
+		<sorting>201520</sorting>
+</descriptor>
+	<descriptor id="10559" niveauid="21">
+		<title><![CDATA[Evaluate  individual performance and capability]]></title>
+		<sorting>201521</sorting>
+</descriptor>
+	<descriptor id="10560" niveauid="20">
+		<title><![CDATA[Establish cross connections and context]]></title>
+		<sorting>201522</sorting>
+</descriptor>
+	<descriptor id="10561" niveauid="21">
+		<title><![CDATA[Use individual competences for new tasks and problems]]></title>
+		<sorting>201523</sorting>
+</descriptor>
+	<descriptor id="10562" niveauid="21">
+		<title><![CDATA[Balance different points of view regarding complex tasks against each other]]></title>
+		<sorting>201524</sorting>
+</descriptor>
+	<descriptor id="10563" niveauid="16">
+		<title><![CDATA[Knowledge of terms self-confidence, self-reliance and self-determination]]></title>
+		<sorting>201525</sorting>
+</descriptor>
+	<descriptor id="10564" niveauid="18">
+		<title><![CDATA[Knowledge of one’s strengths and weaknesses]]></title>
+		<sorting>201526</sorting>
+</descriptor>
+	<descriptor id="10565" niveauid="20">
+		<title><![CDATA[Acting corresponding to one’s strengths and resources]]></title>
+		<sorting>201527</sorting>
+</descriptor>
+	<descriptor id="10566" niveauid="21">
+		<title><![CDATA[Represent one’s position]]></title>
+		<sorting>201528</sorting>
+</descriptor>
+	<descriptor id="10567" niveauid="21">
+		<title><![CDATA[Reflect one’s current values, feelings, attitude and desires]]></title>
+		<sorting>201529</sorting>
+</descriptor>
+	<descriptor id="10568" niveauid="20">
+		<title><![CDATA[Ability to finish given tasks independently]]></title>
+		<sorting>201530</sorting>
+</descriptor>
+	<descriptor id="10569" niveauid="21">
+		<title><![CDATA[Take appropriate steps to reach one’s goals]]></title>
+		<sorting>201531</sorting>
+</descriptor>
+	<descriptor id="10570" niveauid="21">
+		<title><![CDATA[Take appropriate steps to reach one’s goals]]></title>
+		<sorting>201532</sorting>
+</descriptor>
+	<descriptor id="10571" niveauid="16">
+		<title><![CDATA[Knowledge of terms norms, values and rules]]></title>
+		<sorting>201533</sorting>
+	<examples>
+		<exampleid id="3191"/>
+		<exampleid id="3189"/>
+		<exampleid id="3190"/>
+	</examples>
+</descriptor>
+	<descriptor id="10572" niveauid="18">
+		<title><![CDATA[Knowledge of the meaning of norms, values and rules for communal life]]></title>
+		<sorting>201534</sorting>
+</descriptor>
+	<descriptor id="10573" niveauid="20">
+		<title><![CDATA[Acting corresponding to societal norms and rules bearing in mind one’s individual values]]></title>
+		<sorting>201535</sorting>
+</descriptor>
+	<descriptor id="10574" niveauid="21">
+		<title><![CDATA[Reflect individual values referred to societal norms and rules]]></title>
+		<sorting>201536</sorting>
+</descriptor>
+	<descriptor id="10575" niveauid="20">
+		<title><![CDATA[Take up responsibility for one’s conduct]]></title>
+		<sorting>201537</sorting>
+</descriptor>
+	<descriptor id="10576" niveauid="21">
+		<title><![CDATA[Adjust one’s desires with conformal behavior]]></title>
+		<sorting>201538</sorting>
+</descriptor>
+	<descriptor id="10577" niveauid="21">
+		<title><![CDATA[Responsible behavior related to health aspects]]></title>
+		<sorting>201539</sorting>
+</descriptor>
+	<descriptor id="10578" niveauid="21">
+		<title><![CDATA[Reflect use of media]]></title>
+		<sorting>201540</sorting>
+</descriptor>
+	<descriptor id="10579" niveauid="20">
+		<title><![CDATA[Making decisions responsibly]]></title>
+		<sorting>201541</sorting>
+	<examples>
+		<exampleid id="3192"/>
+	</examples>
+</descriptor>
+	<descriptor id="10580" niveauid="21">
+		<title><![CDATA[Reflect one’s decisions]]></title>
+		<sorting>201542</sorting>
+</descriptor>
+	<descriptor id="10581" niveauid="21">
+		<title><![CDATA[Usage of elements of body language appropriate to the given situation
+]]></title>
+		<sorting>201543</sorting>
+</descriptor>
+	<descriptor id="10582" niveauid="21">
+		<title><![CDATA[Awareness of one's factual and relationship communication levels during interaction with others
+]]></title>
+		<sorting>201544</sorting>
+</descriptor>
+	<descriptor id="10583" niveauid="21">
+		<title><![CDATA[Being mindful and reflecting using countenance, posture and gestures]]></title>
+		<sorting>201545</sorting>
 </descriptor>
 </descriptors>
 <edulevels>	<edulevel id="428">
@@ -150,13 +750,604 @@
 	</topic>
 </topics>
 	</subject>
-	
-	
-	
-	
+	<subject id="787">
+		<title><![CDATA[Communication]]></title>
+		<titleshort><![CDATA[Communication]]></titleshort>
+		<sorting>3460</sorting>
+		<numb>0</numb>
+<topics>
+	<topic id="1845">
+		<title><![CDATA[Conversation techniques]]></title>
+		<titleshort><![CDATA[Conversation techniques]]></titleshort>
+		<sorting>32799</sorting>
+		<description><![CDATA[Conversation techniques]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10491"/>
+		<descriptorid id="10492"/>
+		<descriptorid id="10493"/>
+		<descriptorid id="10494"/>
+		<descriptorid id="10495"/>
+	</descriptors>
+	</topic>
+	<topic id="1846">
+		<title><![CDATA[Moderation]]></title>
+		<titleshort><![CDATA[Moderation]]></titleshort>
+		<sorting>32800</sorting>
+		<description><![CDATA[Moderation]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10496"/>
+		<descriptorid id="10497"/>
+		<descriptorid id="10498"/>
+		<descriptorid id="10499"/>
+	</descriptors>
+	</topic>
+	<topic id="1847">
+		<title><![CDATA[Communication level and nonverbal communication]]></title>
+		<titleshort><![CDATA[Communication level and nonverbal communication]]></titleshort>
+		<sorting>32801</sorting>
+		<description><![CDATA[Communication level and nonverbal communication]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10500"/>
+		<descriptorid id="10501"/>
+		<descriptorid id="10581"/>
+		<descriptorid id="10582"/>
+		<descriptorid id="10583"/>
+	</descriptors>
+	</topic>
+	<topic id="1848">
+		<title><![CDATA[Written and media-supported communication]]></title>
+		<titleshort><![CDATA[Written and media-supported communication]]></titleshort>
+		<sorting>32802</sorting>
+		<description><![CDATA[Written and media-supported communication]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10502"/>
+		<descriptorid id="10503"/>
+		<descriptorid id="10504"/>
+		<descriptorid id="10505"/>
+	</descriptors>
+	</topic>
+</topics>
+	</subject>
+	<subject id="788">
+		<title><![CDATA[Cooperation]]></title>
+		<titleshort><![CDATA[Cooperation]]></titleshort>
+		<sorting>3461</sorting>
+		<numb>0</numb>
+<topics>
+	<topic id="1849">
+		<title><![CDATA[Resource orientation]]></title>
+		<titleshort><![CDATA[Resource orientation]]></titleshort>
+		<sorting>32803</sorting>
+		<description><![CDATA[Resource orientation]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10506"/>
+		<descriptorid id="10507"/>
+		<descriptorid id="10508"/>
+		<descriptorid id="10509"/>
+		<descriptorid id="10510"/>
+		<descriptorid id="10514"/>
+	</descriptors>
+	</topic>
+	<topic id="1850">
+		<title><![CDATA[Role comprehension]]></title>
+		<titleshort><![CDATA[Role comprehension]]></titleshort>
+		<sorting>32804</sorting>
+		<description><![CDATA[Role comprehension]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10512"/>
+		<descriptorid id="10511"/>
+		<descriptorid id="10513"/>
+		<descriptorid id="10515"/>
+	</descriptors>
+	</topic>
+	<topic id="1851">
+		<title><![CDATA[Consent orientation]]></title>
+		<titleshort><![CDATA[Consent orientation]]></titleshort>
+		<sorting>32805</sorting>
+		<description><![CDATA[Consent orientation]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10516"/>
+		<descriptorid id="10517"/>
+		<descriptorid id="10518"/>
+	</descriptors>
+	</topic>
+	<topic id="1852">
+		<title><![CDATA[Output orientation]]></title>
+		<titleshort><![CDATA[Output orientation]]></titleshort>
+		<sorting>32806</sorting>
+		<description><![CDATA[Output orientation]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10521"/>
+		<descriptorid id="10519"/>
+		<descriptorid id="10520"/>
+		<descriptorid id="10522"/>
+	</descriptors>
+	</topic>
+</topics>
+	</subject>
+	<subject id="789">
+		<title><![CDATA[Conflicts]]></title>
+		<titleshort><![CDATA[Conflicts]]></titleshort>
+		<sorting>3462</sorting>
+		<numb>0</numb>
+<topics>
+	<topic id="1853">
+		<title><![CDATA[Clarification of point of view]]></title>
+		<titleshort><![CDATA[Clarification of point of view]]></titleshort>
+		<sorting>32807</sorting>
+		<description><![CDATA[Clarification of point of view]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10523"/>
+		<descriptorid id="10526"/>
+		<descriptorid id="10524"/>
+		<descriptorid id="10525"/>
+	</descriptors>
+	</topic>
+	<topic id="1854">
+		<title><![CDATA[Conflict management]]></title>
+		<titleshort><![CDATA[Conflict management]]></titleshort>
+		<sorting>32808</sorting>
+		<description><![CDATA[Conflict management]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10527"/>
+		<descriptorid id="10528"/>
+		<descriptorid id="10529"/>
+		<descriptorid id="10530"/>
+	</descriptors>
+	</topic>
+	<topic id="1855">
+		<title><![CDATA[Solution orientation]]></title>
+		<titleshort><![CDATA[Solution orientation]]></titleshort>
+		<sorting>32809</sorting>
+		<description><![CDATA[Solution orientation]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10531"/>
+		<descriptorid id="10532"/>
+		<descriptorid id="10533"/>
+	</descriptors>
+	</topic>
+</topics>
+	</subject>
+	<subject id="790">
+		<title><![CDATA[Leadership]]></title>
+		<titleshort><![CDATA[Leadership]]></titleshort>
+		<sorting>3463</sorting>
+		<numb>0</numb>
+<topics>
+	<topic id="1856">
+		<title><![CDATA[Responsibleness]]></title>
+		<titleshort><![CDATA[Responsibleness]]></titleshort>
+		<sorting>32810</sorting>
+		<description><![CDATA[Responsibleness]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10534"/>
+		<descriptorid id="10535"/>
+		<descriptorid id="10536"/>
+	</descriptors>
+	</topic>
+	<topic id="1857">
+		<title><![CDATA[Decision making]]></title>
+		<titleshort><![CDATA[Decision making]]></titleshort>
+		<sorting>32811</sorting>
+		<description><![CDATA[Decision making]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10537"/>
+		<descriptorid id="10538"/>
+	</descriptors>
+	</topic>
+	<topic id="1858">
+		<title><![CDATA[Management by motivation]]></title>
+		<titleshort><![CDATA[Management by motivation]]></titleshort>
+		<sorting>32812</sorting>
+		<description><![CDATA[Management by motivation]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10540"/>
+		<descriptorid id="10539"/>
+	</descriptors>
+	</topic>
+	<topic id="1859">
+		<title><![CDATA[Goal orientation]]></title>
+		<titleshort><![CDATA[Goal orientation]]></titleshort>
+		<sorting>32813</sorting>
+		<description><![CDATA[Goal orientation]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10542"/>
+		<descriptorid id="10541"/>
+		<descriptorid id="10543"/>
+	</descriptors>
+	</topic>
+</topics>
+	</subject>
 	
 </subjects>	</schooltype>
-	
+	<schooltype id="493">
+		<title><![CDATA[Personal Competencies]]></title>
+		<sorting>657</sorting>
+		<isoez>0</isoez>
+<subjects>	<subject id="792">
+		<title><![CDATA[Conduct of life]]></title>
+		<titleshort><![CDATA[Conduct of life]]></titleshort>
+		<sorting>3465</sorting>
+		<numb>0</numb>
+<topics>
+	<topic id="1863">
+		<title><![CDATA[Lifelong learning]]></title>
+		<titleshort><![CDATA[Lifelong learning]]></titleshort>
+		<sorting>32816</sorting>
+		<description><![CDATA[Lifelong learning]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10544"/>
+		<descriptorid id="10545"/>
+		<descriptorid id="10546"/>
+		<descriptorid id="10547"/>
+	</descriptors>
+	</topic>
+</topics>
+	</subject>
+	<subject id="793">
+		<title><![CDATA[Motivation to work and learn]]></title>
+		<titleshort><![CDATA[Motivation to work and learn]]></titleshort>
+		<sorting>3466</sorting>
+		<numb>0</numb>
+<topics>
+	<topic id="1864">
+		<title><![CDATA[Commitment]]></title>
+		<titleshort><![CDATA[Commitment]]></titleshort>
+		<sorting>32817</sorting>
+		<description><![CDATA[Commitment]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10548"/>
+		<descriptorid id="10549"/>
+		<descriptorid id="10550"/>
+		<descriptorid id="10551"/>
+	</descriptors>
+	</topic>
+	<topic id="1865">
+		<title><![CDATA[Accuracy and reliability]]></title>
+		<titleshort><![CDATA[Accuracy and reliability]]></titleshort>
+		<sorting>32818</sorting>
+		<description><![CDATA[Accuracy and reliability]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10552"/>
+		<descriptorid id="10553"/>
+	</descriptors>
+	</topic>
+	<topic id="1866">
+		<title><![CDATA[Creativity]]></title>
+		<titleshort><![CDATA[Creativity]]></titleshort>
+		<sorting>32819</sorting>
+		<description><![CDATA[Creativity]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10554"/>
+		<descriptorid id="10555"/>
+	</descriptors>
+	</topic>
+	<topic id="1867">
+		<title><![CDATA[Planning and management of working and learning processes]]></title>
+		<titleshort><![CDATA[Planning and management of working and learning processes]]></titleshort>
+		<sorting>32820</sorting>
+		<description><![CDATA[Planning and management of working and learning processes]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10556"/>
+		<descriptorid id="10557"/>
+		<descriptorid id="10558"/>
+		<descriptorid id="10559"/>
+	</descriptors>
+	</topic>
+	<topic id="1868">
+		<title><![CDATA[Transfer and reasonable thinking]]></title>
+		<titleshort><![CDATA[Transfer and reasonable thinking]]></titleshort>
+		<sorting>32821</sorting>
+		<description><![CDATA[Transfer and reasonable thinking]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10560"/>
+		<descriptorid id="10561"/>
+		<descriptorid id="10562"/>
+	</descriptors>
+	</topic>
+</topics>
+	</subject>
+	<subject id="794">
+		<title><![CDATA[Self-responsibility]]></title>
+		<titleshort><![CDATA[Self-responsibility]]></titleshort>
+		<sorting>3467</sorting>
+		<numb>0</numb>
+<topics>
+	<topic id="1869">
+		<title><![CDATA[Self-confidence and reflection]]></title>
+		<titleshort><![CDATA[Self-confidence and reflection]]></titleshort>
+		<sorting>32822</sorting>
+		<description><![CDATA[Self-confidence and reflection]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10563"/>
+		<descriptorid id="10564"/>
+		<descriptorid id="10565"/>
+		<descriptorid id="10566"/>
+		<descriptorid id="10567"/>
+	</descriptors>
+	</topic>
+	<topic id="1870">
+		<title><![CDATA[Self-reliance and initiative]]></title>
+		<titleshort><![CDATA[Self-reliance and initiative]]></titleshort>
+		<sorting>32823</sorting>
+		<description><![CDATA[Self-reliance and initiative]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10568"/>
+		<descriptorid id="10569"/>
+		<descriptorid id="10570"/>
+	</descriptors>
+	</topic>
+	<topic id="1871">
+		<title><![CDATA[Norms and values]]></title>
+		<titleshort><![CDATA[Norms and values]]></titleshort>
+		<sorting>32824</sorting>
+		<description><![CDATA[Norms and values]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10572"/>
+		<descriptorid id="10573"/>
+		<descriptorid id="10574"/>
+		<descriptorid id="10571"/>
+	</descriptors>
+	</topic>
+	<topic id="1872">
+		<title><![CDATA[Self-control]]></title>
+		<titleshort><![CDATA[Self-control]]></titleshort>
+		<sorting>32825</sorting>
+		<description><![CDATA[Self-control]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10575"/>
+		<descriptorid id="10576"/>
+		<descriptorid id="10577"/>
+		<descriptorid id="10578"/>
+	</descriptors>
+	</topic>
+	<topic id="1873">
+		<title><![CDATA[Decision making]]></title>
+		<titleshort><![CDATA[Decision making]]></titleshort>
+		<sorting>32826</sorting>
+		<description><![CDATA[Decision making]]></description>
+		<requirement/>
+		<benefit/>
+		<knowledgecheck/>
+		<Ataxonomie/>
+		<Btaxonomie/>
+		<Ctaxonomie/>
+		<Dtaxonomie/>
+		<Etaxonomie/>
+		<Ftaxonomie/>
+	<descriptors>
+		<descriptorid id="10579"/>
+		<descriptorid id="10580"/>
+	</descriptors>
+	</topic>
+</topics>
+	</subject>
+</subjects>	</schooltype>
 		</schooltypes>
 	</edulevel>
 </edulevels></exacomp>
