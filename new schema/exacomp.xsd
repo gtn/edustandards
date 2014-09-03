@@ -37,7 +37,13 @@
 		<xs:sequence>
 			<xs:element ref="title" />
 			<xs:element ref="sorting" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="niveautext" minOccurs="0" maxOccurs="1" />
+			<xs:element name="niveautexts" minOccurs="0" maxOccurs="1">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element ref="niveautext" minOccurs="1" maxOccurs="unbounded" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
 			<xs:element name="children" minOccurs="0" maxOccurs="1">
 				<xs:complexType>
 					<xs:sequence>
@@ -53,7 +59,7 @@
 		<xs:sequence>
 			<xs:element ref="title" />
 			<xs:element ref="sorting" minOccurs="0" maxOccurs="1" />
-			<xs:element ref="level"/>
+			<xs:element ref="lvl"/>
 			<xs:element name="children" minOccurs="0" maxOccurs="1">
 				<xs:complexType>
 					<xs:sequence>
@@ -114,7 +120,7 @@
 			<xs:element name="categoriesn" minOccurs="0" maxOccurs="1">
 				<xs:complexType>
 					<xs:sequence>
-						<xs:element ref="categoryn" minOccurs="1" maxOccurs="unbounded" />
+						<xs:element name="categorynid" minOccurs="1" maxOccurs="unbounded" type="xs:integer" />
 					</xs:sequence>
 				</xs:complexType>
 			</xs:element>
@@ -198,6 +204,7 @@
 			<xs:element ref="title" />
 			<xs:element ref="titleshort" minOccurs="0" maxOccurs="1" />
 			<xs:element ref="sorting" minOccurs="0" maxOccurs="1" />
+			<xs:element ref="infolink" minOccurs="0" maxOccurs="1" />
 			<!-- Optional elements for LIS -->
 			<xs:element ref="numb" minOccurs="0" maxOccurs="1" />
 			<xs:element name="topics">
@@ -274,6 +281,13 @@
 					</xs:sequence>
 				</xs:complexType>
 			</xs:element>
+			<xs:element name="categoriesn">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element ref="categoryn" minOccurs="0" maxOccurs="unbounded" />
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
 			<xs:element name="examples">
 				<xs:complexType>
 					<xs:sequence>
@@ -334,6 +348,7 @@
 	<xs:element name="additionalinfo" type="xs:string" />
 	<xs:element name="ressources" type="xs:string" />
 	<xs:element name="sorting" type="xs:integer" />
+	<xs:element name="infolink" type="xs:string" />
 	<!-- added because of occurence in export-->
 	<xs:element name="lang" type="xs:integer" />
 	<xs:element name="iseditable" type="xs:integer" />
