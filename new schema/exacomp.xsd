@@ -31,6 +31,7 @@
 		</xs:sequence>
 		<xs:attribute name="id" type="xs:integer" />
 		<xs:attribute name="skillid" type="xs:integer" />
+		<xs:attribute name="lang" type="xs:string" />
 	</xs:complexType>
 
 	<xs:complexType name="niveauType">
