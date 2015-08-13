@@ -81,6 +81,7 @@
 			</xs:element>
 		</xs:sequence>
 		<xs:attribute name="id" type="xs:integer"/>
+		<xs:attribute name="source" type="xs:string"/>
 	</xs:complexType>
 	
 	<xs:complexType name="exampleType">
@@ -116,6 +117,38 @@
 			<xs:element ref="restorelink" minOccurs="0" maxOccurs="1"/>
                         <xs:element ref="parentid" minOccurs="0" maxOccurs="1"/>
                         <xs:element ref="epop" minOccurs="0" maxOccurs="1"/>
+                        <xs:element name="taxonomies" minOccurs="0" maxOccurs="1">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="taxonomyid"
+                                                            minOccurs="0" maxOccurs="unbounded">
+							<xs:complexType>
+								<xs:attribute name="id" type="xs:integer"/>
+								<xs:attribute name="source" type="xs:string"/>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="children" minOccurs="0" maxOccurs="1">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element ref="example" minOccurs="1" maxOccurs="unbounded"/>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+			<xs:element name="descriptors" minOccurs="1" maxOccurs="1">
+				<xs:complexType>
+					<xs:sequence>
+	                                             <xs:element name="descriptorid" minOccurs="1" maxOccurs="unbounded">
+                                                                 <xs:complexType>
+					                                         <xs:attribute name="id" type="xs:integer"/>
+                                                                                 <xs:attribute name="source" type="xs:string"/>
+                                                                 </xs:complexType>
+                     			             </xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
 			<xs:element name="authors" minOccurs="0" maxOccurs="1">
 				<xs:complexType>
 					<xs:sequence>
@@ -141,25 +174,6 @@
 				<xs:complexType>
 					<xs:sequence>
 						<xs:element name="categorynid" minOccurs="1" maxOccurs="unbounded" type="xs:integer"/>
-					</xs:sequence>
-				</xs:complexType>
-			</xs:element>
-			<xs:element name="children" minOccurs="0" maxOccurs="1">
-				<xs:complexType>
-					<xs:sequence>
-						<xs:element ref="example" minOccurs="1" maxOccurs="unbounded"/>
-					</xs:sequence>
-				</xs:complexType>
-			</xs:element>
-			<xs:element name="descriptors" minOccurs="1" maxOccurs="1">
-				<xs:complexType>
-					<xs:sequence>
-	                                             <xs:element name="descriptorid" minOccurs="1" maxOccurs="unbounded">
-                                                                 <xs:complexType>
-					                                         <xs:attribute name="id" type="xs:integer"/>
-                                                                                 <xs:attribute name="source" type="xs:string"/>
-                                                                 </xs:complexType>
-                     			             </xs:element>
 					</xs:sequence>
 				</xs:complexType>
 			</xs:element>
@@ -196,6 +210,19 @@
 			<xs:element ref="profoundness" minOccurs="0" maxOccurs="1"/>
 			<xs:element ref="numb" minOccurs="0" maxOccurs="1"/>
 			<xs:element ref="epop" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="categories" minOccurs="0" maxOccurs="1">
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="categoryid"
+                                                            minOccurs="0" maxOccurs="unbounded">
+							<xs:complexType>
+								<xs:attribute name="id" type="xs:integer"/>
+								<xs:attribute name="source" type="xs:string"/>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
 			<xs:element name="children" minOccurs="0" maxOccurs="1">
 				<xs:complexType>
 					<xs:sequence>
@@ -564,6 +591,7 @@
 		</xs:keyref>
 	</xs:element>
 </xs:schema>
+
 
 
 
